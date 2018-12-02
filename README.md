@@ -3,6 +3,13 @@
 
 ## Compilers & Interpreters
 
+[Writing Compilers and Interpreters: an applied approach using c++  2nd Edition
+by Ronald Mak ](https://www.amazon.com/gp/product/0471113530/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1 ) 
+
+[Game Scripting Mastery (Premier Press Game Development) Paperback – December 18, 2002
+by Alex Varanese](https://www.amazon.com/dp/1931841578/?coliid=I2P4392B5V20D&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
 [Crafting a Compiler with C 1st Edition
 by Charles N. Fischer](https://www.amazon.co.uk/dp/0805321667/?coliid=I2MYD61XYHVXBE&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -11,6 +18,10 @@ by Steven Muchnick ](https://www.amazon.com/dp/1558603204/?coliid=I1BVDU14NHT42B
 
 [The Art of Compiler Design: Theory and Practice 1st Edition
 by Thomas Pittman](https://www.amazon.com/dp/0130481904/?coliid=IRMA7JUL1R31Z&colid=2R5QE46GC1OLG&psc=0 ) 
+
+[A Retargetable C Compiler: Design and Implementation 1st Edition
+by David R. Hanson ](https://www.amazon.com/dp/0805316701/?coliid=I1ZRS3G4LXERSS&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
 
 [Engineering: A Compiler 2nd Edition
 by Keith Cooper ](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=012088478X&pd_rd_r=e94b7197-f57e-11e8-b278-c53c231f3748&pd_rd_w=7Id0d&pd_rd_wg=TBGQl&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=7RCKZPFY2WKQHEA9J1EA&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=7RCKZPFY2WKQHEA9J1EA ) 
@@ -41,6 +52,15 @@ by Andrew W. Appel ](https://www.amazon.com/dp/052103311X/?coliid=I35C7WN5A5H3JH
 [Compiling Algorithms for Heterogeneous Systems (Synthesis Lectures on Computer Architecture)](https://www.amazon.co.uk/dp/162705961X/?coliid=I1PG6MER9Z22WW&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
+[Compiler Construction (International Computer Science Series) Paperback – June 1, 1996
+by Niklaus Wirth](https://www.amazon.com/Compiler-Construction-International-Computer-Science/dp/0201403536 ) 
+
+[Compiler design in C (Prentice-Hall software series) 
+by Allen I Holub ](https://www.amazon.com/dp/0131550454/?coliid=I1KWTMHXDZ51VM&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Project Oberon: The Design of an Operating System and Compiler (Acm Press Books) Hardcover – November 1, 1992
+by Niklaus Wirth ](https://www.amazon.com/dp/0201544288/?coliid=I23KT6PHG7REBB&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
 
 ## Heterogeneous Programming
 
@@ -58,6 +78,10 @@ by David R. Kaeli  ](https://www.amazon.co.uk/Heterogeneous-Computing-OpenCL-Dav
 
 [Programming Massively Parallel Processors: A Hands-on Approach 3rd Edition
 by David B. Kirk ](https://www.amazon.com/dp/0128119861/?coliid=IVXLYK0PHPIMU&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
+[GPU Parallel Program Development Using CUDA (Chapman & Hall/CRC Computational Science) Hardcover – 6 Oct 2016
+by Tolga Soyata](https://www.amazon.co.uk/dp/1498750753/?coliid=I1AVH5U89G43FO&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
 ## Softer-skills & Historical
@@ -80,6 +104,21 @@ by Jon Gertner ](https://www.amazon.com/dp/0143122797/?coliid=I18TMVPTPYS2ZU&col
 [Go To The Story Of The Math Majors, Bridge Players, Engineers, Chess Wizards, Scientists And Iconoclasts Who Were The Hero Programmers Of The Software Revolution Hardcover – October 16, 2001
 by Steve Lohr ](https://www.amazon.com/dp/0465042252/?coliid=I7EXE0IE1X1Z4&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry (Tempus) Paperback – July 1, 1989
+by Susan Lammers ](https://www.amazon.com/dp/1556152116/?coliid=I2EGJKWZ6T0BH7&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[The Best Software Writing I: Selected and Introduced by Joel Spolsky 1st Corrected ed., Corr. 2nd printing Edition
+by Avram Joel Spolsky ](https://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1590595009&pd_rd_r=0c708566-f5b0-11e8-8ad5-2179f688e965&pd_rd_w=u3Rc8&pd_rd_wg=WtN14&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=29350PKJA79PSHP3R0ME&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=29350PKJA79PSHP3R0ME ) 
+
+[Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Theory in Practice (O'Reilly)) 1st Edition
+by Federico Biancuzzi](https://www.amazon.com/dp/0596515170/?coliid=I3E0HJXQXCUY9X&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[97 Things Every Programmer Should Know: Collective Wisdom from the Experts 1st Edition
+by Kevlin Henney ](https://www.amazon.com/dp/0596809484/?coliid=I2BJRVFMZBVZYW&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Founders at Work: Stories of Startups' Early Days Kindle Edition
+by Jessica Livingston ](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL31SN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
 
 ## Algorithms & Data Structures
 
@@ -87,6 +126,15 @@ by Steve Lohr ](https://www.amazon.com/dp/0465042252/?coliid=I7EXE0IE1X1Z4&colid
 
 [Numerical Algorithms with C Paperback – 23 Aug 2014
 by Giesela Engeln-Mullges (Author), Frank Uhlig](https://www.amazon.co.uk/dp/3642646824/?coliid=I30FDISALGVGPF&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation) 1st Edition
+by Niklaus Wirth](https://www.amazon.com/dp/0130224189/?coliid=IRSZ2YBISLMPV&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[The Design of Approximation Algorithms 1st Edition
+by David P. Williamson](https://www.amazon.com/dp/0521195276/?coliid=I26HYIPUILIBJA&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Computational Geometry: An Introduction Through Randomized Algorithms 1st Edition
+by Ketan Mulmuley ](https://www.amazon.com/dp/0133363635/?coliid=I2RO3793RQF3JX&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
 [Algorithmics of Nonuniformity: Tools and Paradigms (Discrete Mathematics and Its Applications)](https://www.amazon.co.uk/dp/1498750710/?coliid=I3JPXVQWC3SVM4&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -160,6 +208,15 @@ by Richard Boulanger](https://www.amazon.co.uk/Audio-Programming-Book-MIT-Press/
 [Coding the Matrix: Linear Algebra through Applications to Computer Science 1st Edition
 by Philip N. Klein (Author)](https://www.amazon.com/dp/0615880991/?coliid=I2WWR2IDJILRW7&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies (The MIT Press) 1st Edition
+by John D. Kelleher ](https://www.amazon.com/dp/0262029448/?coliid=IEVYWQSAWY70O&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Computational Methods of Feature Selection (Chapman & Hall/CRC Data Mining and Knowledge Discovery Series) 1st Edition
+by Huan Liu ](https://www.amazon.com/dp/1584888784/?coliid=I1MTIPPSXFA7UG&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Spectral Feature Selection for Data Mining (Chapman & Hall/CRC Data Mining and Knowledge Discovery Series) 1st Edition
+by Zheng Alan Zhao ](https://www.amazon.com/dp/1138112623/?coliid=I2BGWQ7XZPOTA9&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
 
 [Computer Vision: Models, Learning, and Inference 1st Edition
 by Dr Simon J. D. Prince ](https://www.amazon.com/dp/1107011795/?coliid=IGC8OQMLMK416&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
@@ -212,6 +269,9 @@ by Alice Zheng](https://www.amazon.com/dp/1491953241/?coliid=I2RBVS7E2VOKU8&coli
 
 [Theoretic Foundation of Predictive Data Analytics](https://www.amazon.co.uk/dp/0128036559/?coliid=I3QKM54M3EMKJE&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Introduction to Artificial Intelligence: Third Edition Paperback – 14 Aug 2019
+by Philip C Jackson](https://www.amazon.co.uk/Introduction-Artificial-Intelligence-Philip-Jackson/dp/0486832864/ref=dp_ob_title_bk ) 
+
 
 ## Information theory and compression
 
@@ -237,13 +297,54 @@ by Claude E. Shannon ](https://www.amazon.com/dp/0252725484/?coliid=I2L8GVELC8V8
 
 ## Game Engine & Game Development 
 
+[Programming Game AI by Example (Wordware Game Developers Library) Paperback – 1 Oct 2004
+by Mat Buckland ](https://www.amazon.co.uk/dp/1556220782/?coliid=IMLK0EW2EKN8Z&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Game Programming Gems 3 Hardcover – 25 Jul 2002
+by Dante Treglia ](https://www.amazon.co.uk/dp/1584502339/?coliid=IV5QBM9HI2UWE&colid=SUODQKHMPSPE&psc=0 ) 
+
+[Computational Geometry in C (Cambridge Tracts in Theoretical Computer Science) Hardcover – 13 Oct 1998
+by Joseph O'Rourke ](https://www.amazon.co.uk/Computational-Geometry-Cambridge-Theoretical-Computer/dp/0521640105/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= ) 
+
+[Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game Paperback – 9 Sep 2010
+by Ian Millington ](https://www.amazon.co.uk/dp/0123819768/?coliid=I2RIUHJTXOWCAC&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Artificial Intelligence for Games Hardcover – 12 Sep 2009
+by Ian Millington ](https://www.amazon.co.uk/dp/0123747317/?coliid=I3A2RL4L4T97R2&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Computer Animation: Algorithms and Techniques Hardcover – 4 Oct 2012
+by Rick Parent ](https://www.amazon.co.uk/dp/0124158420/?coliid=I2FJW1TL9XZL1T&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
 [Game Engine Architecture, Third Edition](https://www.amazon.co.uk/Engine-Architecture-Third-Jason-Gregory/dp/1138035459/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1138035459&pd_rd_r=366981ac-f546-11e8-8e71-03acc1ec4d28&pd_rd_w=WtTAM&pd_rd_wg=UtzHu&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=V5R3XAH96Z91AEYGMHAN&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V5R3XAH96Z91AEYGMHAN ) 
 
 [Black Art of 3D Game Programming: Writing Your Own High-Speed 3D Polygon Video Games in C Paperback – August 1, 1995
 by Andre Lamothe ](https://www.amazon.com/Black-Art-Game-Programming-High-Speed/dp/1571690042/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1571690042&pd_rd_r=b0e3a615-f5a8-11e8-9db5-6f7d09a54174&pd_rd_w=EtKDb&pd_rd_wg=E3MWF&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=G4T2BP49TY740Q20KJBR&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=G4T2BP49TY740Q20KJBR ) 
 
+[The Fundamentals of C/C++ Game Programming Paperback – 25 Apr 2018
+by Brian Beuken (Author)
+](https://www.amazon.co.uk/Fundamentals-Game-Programming-Brian-Beuken/dp/1498788742/ref=sr_1_58?s=books&ie=UTF8&qid=1543747351&sr=1-58&keywords=c+programming ) 
 
-[Essential Mathematics for Games and Interactive Applications 3rd Edition
+[Making 8-bit Arcade Games in C Paperback – 26 Apr 2017
+by Steven Hugg ](https://www.amazon.co.uk/Making-8-bit-Arcade-Games-C/dp/1545484759/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1543747351&sr=1-63 ) 
+
+[Game Engine Black Book: Wolfenstein 3D Paperback – 5 Sep 2017
+by Fabien Sanglard  (Author)](https://www.amazon.co.uk/Game-Engine-Black-Book-Wolfenstein/dp/1539692876/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= ) 
+
+
+[Programming Role Playing Games with DirectX (Game Development Series) Paperback – 30 Jun 2004
+by Jim Adams ](https://www.amazon.co.uk/dp/159200315X/?coliid=I3TMMZFHJVII7N&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
+[Mechanics: Volume 1 (Course of Theoretical Physics) Paperback – 1 Jan 1976
+by L. D. Landau ](https://www.amazon.co.uk/dp/0750628960/?coliid=I28QLE8SAB0OPF&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
+[Game Programming in C++: Creating 3D Games: Creating 3D Games (Game Design) Paperback – 28 Mar 2018
+by Sanjay Madhav](https://www.amazon.co.uk/dp/0134597206/?coliid=I35Q815LV511RX&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
+[Essential matematics for Games and Interactive Applications 3rd Edition
 by James M. Van Verth](https://www.amazon.com/dp/1482250926/?coliid=I1P59MIDQ1MSYL&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
@@ -262,6 +363,42 @@ by Patricia Egerton](https://www.amazon.co.uk/dp/0135995728/?coliid=I1WT960A25C8
 
 [Game Physics Cookbook Paperback – 24 Mar 2017
 by Gabor ](https://www.amazon.co.uk/dp/1787123669/?coliid=I1WS5WTNLD2SYH&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[GPU Gems 3: Programming Techniques for High-Performance Graphics and General-Purpose Computation Hardcover – 2 Aug 2007
+by Hubert Nguyen](https://www.amazon.co.uk/dp/0321515269/?coliid=I3M081F5Z0LBC7&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[GPU Gems 2: Programming Techniques for High-Performance Graphics and General-Purpose Computation Hardcover – 3 Mar 2005
+by Matt Pharr ](https://www.amazon.co.uk/dp/0321335597/?coliid=I3HYFDQD6N3BPV&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[GPU Pro 7: Advanced Rendering Techniques Hardcover – 8 Apr 2016
+by Wolfgang Engel ](https://www.amazon.co.uk/GPU-Pro-Advanced-Rendering-Techniques/dp/149874253X/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=149874253X&pd_rd_r=2fdee9ed-f604-11e8-8b20-832b885e8b7e&pd_rd_w=h6pLP&pd_rd_wg=ctFnP&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=ZTQ0B26TW9GBVP35334C&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=ZTQ0B26TW9GBVP35334C ) 
+
+[Game AI Pro 3: Collected Wisdom of Game AI Professionals Hardcover – 31 Jul 2017
+by Steve Rabin](https://www.amazon.co.uk/Game-AI-Pro-Collected-Professionals/dp/1498742580/ref=pd_bxgy_3?_encoding=UTF8&pd_rd_i=1498742580&pd_rd_r=f8d671a3-f606-11e8-9199-93a0264a9794&pd_rd_w=C9Zy2&pd_rd_wg=HeCNY&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=MQZ8YXDBD96KJDJJV6Z9&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=MQZ8YXDBD96KJDJJV6Z9 ) 
+
+[GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics Hardcover – 22 Mar 2004
+by Randima Fernando](https://www.amazon.co.uk/dp/0321228324/?coliid=I1PJUJCLYMWCQG&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[GPU Computing Gems Emerald Edition (Applications of GPU Computing Series) Hardcover – 21 Mar 2011
+by Wen-mei W. Hwu](https://www.amazon.co.uk/GPU-Computing-Gems-Emerald-Applications/dp/0123849888/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=0123849888&pd_rd_r=32204da4-f604-11e8-8e36-0b3c5f1ab512&pd_rd_w=nxDtU&pd_rd_wg=7n3qL&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=VTMFNMNNDK8PYH7DAMKY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=VTMFNMNNDK8PYH7DAMKY ) 
+
+[Computer Graphics, C Version: United States Edition Hardcover – 24 May 1996
+by Donald D. Hearn](https://www.amazon.co.uk/Computer-Graphics-Version-United-States/dp/0135309247/ref=pd_sbs_14_3?_encoding=UTF8&pd_rd_i=0135309247&pd_rd_r=352fd794-f604-11e8-86ef-db32b55a2361&pd_rd_w=SKbcL&pd_rd_wg=9FpnZ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=D7FCXNPQF4429TSZ9TPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D7FCXNPQF4429TSZ9TPG ) 
+
+[Programming Mutliplayer FPS Direct X (Game Development Series) Paperback – 19 Jan 2005
+by Vaughan Young](https://www.amazon.co.uk/dp/1584503637/?coliid=INZAX7WFN3YZT&colid=SUODQKHMPSPE&psc=0 ) 
+
+[Computer Graphics, reissued 2nd Ed. Hardcover – 4 Aug 1995
+by James D. Foley ](https://www.amazon.co.uk/Computer-Graphics-reissued-2nd-Ed/dp/0201848406/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0201848406&pd_rd_r=352fd794-f604-11e8-86ef-db32b55a2361&pd_rd_w=SKbcL&pd_rd_wg=9FpnZ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=D7FCXNPQF4429TSZ9TPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D7FCXNPQF4429TSZ9TPG ) 
+
+[Fundamentals of Computer Graphics Hardcover – 27 Jan 2016
+by Steve Marschner ](https://www.amazon.co.uk/dp/1482229390/?coliid=I2AVRZPHPE1FE4&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3d Technology) Hardcover – 22 Dec 2004
+by Christer Ericson ](https://www.amazon.co.uk/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323/ref=pd_sbs_14_12?_encoding=UTF8&pd_rd_i=1558607323&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 ) 
+
+[Beginning Math and Physics for Game Programmers (New Riders Games) Paperback – 22 Mar 2004
+by Wendy Stahler](https://www.amazon.co.uk/Beginning-Physics-Programmers-Riders-Games/dp/0735713901/ref=pd_sbs_14_21?_encoding=UTF8&pd_rd_i=0735713901&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 ) 
 
 
 ## HFT & Finance
@@ -301,10 +438,16 @@ by Christopher D. Manning](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1
 
 ## Theoretical CSs
 
+[Computational Complexity Paperback – 30 Nov 1993
+by Christos H. Papadimitriou](https://www.amazon.co.uk/dp/0201530821/?coliid=I2PF8FOD5M36G7&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
 [The Algebra of Programming](https://www.amazon.co.uk/dp/013507245X/?coliid=I24UI5TQNZ0Y6M&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 [Foundations for Programming Languages (Foundations of Computing) 
 by John C. Mitchell ](https://www.amazon.com/dp/0262133210/?coliid=I3QUQA84XQ1W5N&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Theory and Practice of Computation - Proceedings of Workshop on Computation: Theory and Practice (Wctp2015) Hardcover – 27 Apr 2017
+by Masayuki Numao ](https://www.amazon.co.uk/dp/9813202807/?coliid=IZGJA42C0OC3Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
 [Pattern Calculus: Computing with Functions and Structures](https://www.amazon.co.uk/dp/3642426018/?coliid=I3R17ZK3K3PGBQ&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
@@ -331,10 +474,67 @@ by Zohar Manna ](https://www.amazon.com/dp/0486432386/?coliid=I2CECNXUR21RJF&col
 
 [Computer Systems: A Programmer's Perspective](https://www.amazon.co.uk/dp/1292101768/?coliid=I26ZBJJX04WO8B&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Distributed Systems: Principles and Paradigms US Ed Edition
+by Andrew S. Tanenbaum  ](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7IDDGEN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
 ## Infosec 
 
 [Introduction to Computer and Network Security: Navigating Shades of Gray 1st Edition
 by Richard R. Brooks](https://www.amazon.com/dp/1439860718/?coliid=I1NS89J88AYIQ6&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly Kindle Edition
+by Dennis Andriesse (Author)](https://www.amazon.co.uk/Practical-Binary-Analysis-Instrumentation-Disassembly-ebook/dp/B07BPKWJVT/ref=sr_1_33?s=books&ie=UTF8&qid=1543742753&sr=1-33&keywords=programming+mathematics ) 
+
+[Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation 1st Edition,](https://www.amazon.co.uk/Attacking-Network-Protocols-Analysis-Exploitation-ebook/dp/B071V4DYVC/ref=pd_sim_351_1?_encoding=UTF8&pd_rd_i=B071V4DYVC&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 ) 
+
+[Malware Data Science: Attack Detection and Attribution Kindle Edition
+by Joshua Saxe ](https://www.amazon.co.uk/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B077X1V9SY&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 ) 
+
+[The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2nd Edition, Kindle Edition
+by Chris Anley ](https://www.amazon.co.uk/Shellcoders-Handbook-Discovering-Exploiting-Security-ebook/dp/B004P5O38Q/ref=pd_sim_351_6?_encoding=UTF8&pd_rd_i=B004P5O38Q&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 ) 
+
+[Hacking: The Art of Exploitation Paperback – 7 Feb 2008
+by Jon Erickson](https://www.amazon.co.uk/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= ) 
+
+[Black Hat Python: Python Programming for Hackers and Pentesters Paperback – 14 Dec 2014
+by Justin Seitz](https://www.amazon.co.uk/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=pd_sbs_14_5?_encoding=UTF8&pd_rd_i=1593275900&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY ) 
+
+[Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software Paperback – 1 Feb 2012
+by Michael Sikorski ](https://www.amazon.co.uk/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=pd_sbs_14_17?_encoding=UTF8&pd_rd_i=1593272901&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY ) 
+
+[Gray Hat Python: Python Programming for Hackers and Reverse Engineers Paperback – 3 May 2009
+by Justin Seitz ](https://www.amazon.co.uk/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=pd_sbs_14_42?_encoding=UTF8&pd_rd_i=1593271921&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY ) 
+
+[Reversing: Secrets of Reverse Engineering Paperback – 1 Apr 2005
+by Eldad Eilam ](https://www.amazon.co.uk/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/ref=pd_sbs_14_44?_encoding=UTF8&pd_rd_i=0764574817&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY ) 
+
+[The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory Paperback – 3 Oct 2014
+by Michael Hale Ligh](https://www.amazon.co.uk/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=pd_sbs_14_48?_encoding=UTF8&pd_rd_i=1118825098&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY ) 
+
+[Rootkits and Bootkits Reversing Modern Malware and Next Generation Threats Paperback – 15 Jan 2019
+by Alex Matrosov ](https://www.amazon.co.uk/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=sr_1_1?s=books&ie=UTF8&qid=1543745049&sr=1-1&keywords=rootkit ) 
+
+[Rootkits: Subverting the Windows Kernel: Subverting the Windows Kernel (Addison-Wesley Software Security) Paperback – 22 Jul 2005
+by Greg Hoglund](https://www.amazon.co.uk/Rootkits-Subverting-Addison-Wesley-Software-Security/dp/0321294319/ref=sr_1_3?s=books&ie=UTF8&qid=1543745049&sr=1-3&keywords=rootkit ) 
+
+[Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code Paperback – 27 Oct 2010
+by Michael Ligh ](https://www.amazon.co.uk/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=pd_bxgy_img_3?_encoding=UTF8&pd_rd_i=0470613033&pd_rd_r=a3e59f1d-f619-11e8-9070-3de13d4da848&pd_rd_w=lq6es&pd_rd_wg=zF7y2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=982P1175GN716KBHBQDE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=982P1175GN716KBHBQDE ) 
+
+[Managed Code Rootkits: Hooking into Runtime Environments Paperback – 28 Oct 2010
+by Erez Metula ](https://www.amazon.co.uk/Managed-Code-Rootkits-Hooking-Environments/dp/1597495743/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1597495743&pd_rd_r=a3e59f1d-f619-11e8-9070-3de13d4da848&pd_rd_w=kgbvc&pd_rd_wg=zF7y2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=982P1175GN716KBHBQDE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=982P1175GN716KBHBQDE ) 
+
+[Designing BSD Rootkits: An Introduction to Kernel Hacking 1st Edition, Kindle Edition
+by Joseph Kong ](https://www.amazon.co.uk/Designing-BSD-Rootkits-Introduction-Hacking-ebook/dp/B002MZAR6I/ref=sr_1_12?s=books&ie=UTF8&qid=1543745049&sr=1-12&keywords=rootkit ) 
+
+[A Guide to Kernel Exploitation: Attacking the Core 1st Edition, Kindle Edition
+by Enrico Perla ](https://www.amazon.co.uk/Guide-Kernel-Exploitation-Attacking-Core-ebook/dp/B004FGMSFK/ref=pd_sim_351_1?_encoding=UTF8&pd_rd_i=B004FGMSFK&pd_rd_r=ace45379-f619-11e8-a7e3-8d9e7c8330a3&pd_rd_w=HFgB2&pd_rd_wg=Ocr6S&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=QA2GXWPYW0RFYHVDJDZX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=QA2GXWPYW0RFYHVDJDZX ) 
+
+[Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition, Kindle Edition
+by Bruce Dang ](https://www.amazon.co.uk/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B00IA22R2Y&pd_rd_r=379a514e-f61b-11e8-88d9-49b1531786cd&pd_rd_w=9E6O3&pd_rd_wg=6v5WN&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=T4M4HDANYK4WJZJVR3A6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T4M4HDANYK4WJZJVR3A6 ) 
+
+[Windows Internals, Part 2 (Developer Reference) 6th Edition, Kindle Edition
+by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPIDU/ref=pd_sim_351_4?_encoding=UTF8&pd_rd_i=B00JDMPIDU&pd_rd_r=379a514e-f61b-11e8-88d9-49b1531786cd&pd_rd_w=9E6O3&pd_rd_wg=6v5WN&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=T4M4HDANYK4WJZJVR3A6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T4M4HDANYK4WJZJVR3A6 ) 
 
 
 ## Low-Level programming
@@ -348,6 +548,7 @@ by Richard R. Brooks](https://www.amazon.com/dp/1439860718/?coliid=I1NS89J88AYIQ
 
 
 ## Software Engineering General
+
 [From Mathematics to Generic Programming 1st Edition
 by Alexander A. Stepanov ](https://www.amazon.com/dp/0321942043/?coliid=I7BG22K8001JG&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -363,6 +564,33 @@ by Maurice Herlihy ](https://www.amazon.com/dp/0123973376/?coliid=IS2DYWMQZR2HO&
 [Functional C (International Computer Science Series) 1st Edition
 by P. Hartel ](https://www.amazon.com/dp/0201419505/?coliid=I2ARVHUWPZWHPD&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Systematic Programming: An Introduction (Prentice-Hall Series in Automatic Computation) 
+by Niklaus Wirth ](https://www.amazon.com/dp/0138803692/?coliid=IOHXJ38MIRZFR&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Expert C Programming: Deep C Secrets 1st Edition
+by Peter van der Linden](https://www.amazon.com/dp/0131774298/?coliid=I3LG10NF0OLWQA&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[21st Century C: C Tips from the New School 2nd Edition
+by Ben Klemens  ](https://www.amazon.com/dp/1491903899/?coliid=I2L1FRFNSL0STP&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Pointers on C 1st Edition
+by Kenneth Reek](https://www.amazon.com/dp/0673999866/?coliid=I1AGQ9VF96B49E&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[AI Application Programming (Programming Series) Paperback – June 3, 2005
+by M. Tim Jones](https://www.amazon.com/dp/1584504218/?coliid=I1SYXQ4ZKJ5OJ9&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[C4.5: Programs for Machine Learning (Morgan Kaufmann Series in Machine Learning) Paperback – 12 Feb 1992
+by J. Ross Quinlan ](https://www.amazon.co.uk/C4-5-Programs-Machine-Learning-Kaufmann/dp/1558602380/ref=sr_1_71?s=books&ie=UTF8&qid=1543738453&sr=1-71&keywords=mathematics+C+programming ) 
+
+
+[Writing Solid Code: Microsoft Techniques for Developing Bug-free C. Programs (Microsoft Programming Series) Paperback – 1 Jan 1993
+by Steve Maguire](https://www.amazon.co.uk/Writing-Solid-Code-Techniques-Programming/dp/1556155514/ref=sr_1_82?s=books&ie=UTF8&qid=1543738502&sr=1-82&keywords=mathematics+C+programming ) 
+
+[Programming Projects in C for Students of Engineering, Science, and Mathematics Paperback – 23 Oct 2014
+by Rouben Rostamian](https://www.amazon.co.uk/Programming-Projects-Students-Engineering-Mathematics/dp/161197349X/ref=sr_1_18?s=books&ie=UTF8&qid=1543738354&sr=1-18&keywords=mathematics+C+programming ) 
+
+[Imperfect C++: Practical Solutions for Real-Life Programming Paperback – 21 Oct 2004
+by Matthew Wilson ](https://www.amazon.co.uk/dp/0321228774/?coliid=I2V643WPLQQHM5&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
 ## Lisps & Scheme
@@ -434,6 +662,19 @@ by Brett Slatkin  ](https://www.amazon.co.uk/dp/0134034287/?coliid=I227F2LP4LT9T
 [Numerical Linear Algebra 1st Edition
 by Lloyd N. Trefethen ](https://www.amazon.com/dp/0898713617/?coliid=I2Q5CVL9338XOL&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Introduction to Numerical Programming: A Practical Guide for Scientists and Engineers Using Python and C/C++ (Series in Computational Physics) 1st Edition, Kindle Edition
+by Titus A. Beu ](https://www.amazon.co.uk/Introduction-Numerical-Programming-Scientists-Computational-ebook/dp/B00NFODJYW/ref=sr_1_102?s=books&ie=UTF8&qid=1543738539&sr=1-102&keywords=mathematics+C+programming ) 
+
+[Mathematics and Python Programming Paperback – 13 Sep 2014
+by J.C. Bautista (Author)](https://www.amazon.co.uk/Mathematics-Python-Programming-J-C-Bautista/dp/1326017969/ref=sr_1_4?s=books&ie=UTF8&qid=1543738354&sr=1-4&keywords=mathematics+C+programming ) 
+
+[A Primer on Scientific Programming with Python (Texts in Computational Science and Engineering) Hardcover – 26 Jun 2016
+by Hans Petter Langtangen  ](https://www.amazon.co.uk/Scientific-Programming-Computational-Science-Engineering/dp/3662498863/ref=sr_1_81?s=books&ie=UTF8&qid=1543745371&sr=1-81&keywords=programming+mathematics ) 
+
+[Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib Paperback – 19 Jan 2019
+by Robert Johansson ](https://www.amazon.co.uk/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459/ref=pd_sbs_14_3?_encoding=UTF8&pd_rd_i=1484242459&pd_rd_r=64db82c4-f61a-11e8-86ef-db32b55a2361&pd_rd_w=6EEfy&pd_rd_wg=HwdDs&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=ZZ9FRJGEA1143DNKQJAK&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=ZZ9FRJGEA1143DNKQJAK ) 
+
+
 ## Computer algebra and symbolic computation
 [Algorithms for Computer Algebra 1992nd Edition
 by Keith O. Geddes ](https://www.amazon.com/dp/0792392590/?coliid=I397U262TBL9WN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
@@ -449,6 +690,20 @@ by Joachim von zur Gathen ](https://www.amazon.com/dp/1107039037/?coliid=I3E5RLF
 
 
 ## Mathematics & Statistics
+
+[Concrete Mathematics: A Foundation for Computer Science Hardcover – 28 Feb 1994
+by Ronald L. Graham (Author), Donald E. Knuth  (Author)](https://www.amazon.co.uk/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_3?s=books&ie=UTF8&qid=1543741520&sr=1-3&keywords=programming+mathematics ) 
+
+
+[A Concise Introduction to Hypercomplex Fractals Hardcover – 7 Nov 2017
+by Andrzej Katunin (Author)](https://www.amazon.co.uk/dp/1138633429/?coliid=I2ZSSS0N4WCOGV&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory Paperback – 5 Dec 2010
+by Carl M. Bender ](https://www.amazon.co.uk/dp/1441931872/?coliid=I1APCTRBAJSJFG&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
+[Statistical Intervals: A Guide for Practitioners and Researchers (Wiley Series in Probability and Statistics) 2nd Edition
+by William Q. Meeker ](https://www.amazon.com/dp/0471687170/?coliid=I2NHP3VPPYK87R&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 [Bridging the Gap to University Mathematics ](https://www.amazon.co.uk/dp/1848002890/?coliid=IOO7P6PWB6F3G&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -467,6 +722,14 @@ by James V Stone  ](https://www.amazon.com/dp/0956372848/?coliid=I37UEUQ31JIALL&
 [A Computational Introduction to Number Theory and Algebra 2nd Edition
 by Victor Shoup ](https://www.amazon.com/dp/0521516447/?coliid=I3NTIZBPOG71SK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[The Mathematics of Various Entertaining Subjects: Research in Recreational Math Hardcover – 26 Jan 2016
+by Jennifer Beineke ](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Recreational/dp/0691164037/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0691164037&pd_rd_r=4da7f5eb-f611-11e8-9070-3de13d4da848&pd_rd_w=9pJG5&pd_rd_wg=6curO&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=426PWD96B3427ZGRH33H&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=426PWD96B3427ZGRH33H ) 
+
+[Behavioral Mathematics for Game AI Paperback – 5 Mar 2009
+by Dave Mark ](https://www.amazon.co.uk/Behavioral-Mathematics-Game-Dave-Mark/dp/1584506849/ref=sr_1_11?s=books&ie=UTF8&qid=1543741453&sr=1-11&keywords=game+mathematics ) 
+
+
+[The Mathematics of Various Entertaining Subjects: Research in Games, Graphs, Counting, and Complexity, Volume 2 Paperback – 2 Jul 2019](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Complexity/dp/069119226X/ref=sr_1_10?s=books&ie=UTF8&qid=1543741453&sr=1-10&keywords=game+mathematics ) 
 
 
 ## Cryptography
@@ -476,10 +739,28 @@ by Victor Shoup ](https://www.amazon.com/dp/0521516447/?coliid=I3NTIZBPOG71SK&co
 
 ## Viz
 
+[Geometric Data Structures for Computer Graphics Hardcover – 16 Jan 2006
+by Elmar Langetepe ](https://www.amazon.co.uk/dp/1568812353/?coliid=I1JKJ7S8GFZQ98&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
 [High Performance Visualization: Enabling Extreme-Scale Scientific Insight (Chapman & Hall/CRC Computational Science)](https://www.amazon.co.uk/dp/1138199613/?coliid=I1N5Z75YF3BOSB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 [The Grammar of Graphics (Statistics and Computing) 2nd Edition
 by Leland Wilkinson](https://www.amazon.com/dp/0387245448/?coliid=I2DUQEQT8XL3RO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Processing: An Introduction to Programming Paperback – 22 Sep 2016
+by Jeffrey L. Nyhoff ](https://www.amazon.co.uk/dp/1482255952/?coliid=I1OSITN7F7ZA5G&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[Topological Methods in Data Analysis and Visualization IV: Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017
+by Hamish Carr ](https://www.amazon.co.uk/dp/3319446827/?coliid=I21RY9I93I2WC9&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[A Mathematical Picture Book Hardcover – 23 Dec 2018
+by Georg Glaeser ](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+
+[Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017
+by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it ) 
+
 
 
 ## Windows & Linux dev
@@ -497,3 +778,7 @@ by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC
 [Every Computer Performance Book Paperback – March 29, 2013
 by Bob Wescott ](https://www.amazon.com/dp/1482657759/?coliid=I8U8GYWIUF5GK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+## Biological-inspired systems
+
+[Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
+by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
