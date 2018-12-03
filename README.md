@@ -4,6 +4,21 @@
 
 ## Compilers & Interpreters
 
+[(LIST) Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler ) 
+
+
+[(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf ) 
+
+[(FREE) Build Your Own Lisp
+](http://www.buildyourownlisp.com/ ) 
+
+[(Free) Introduction to Compilers and Language Design
+A free online textbook by Douglas Thain](https://www3.nd.edu/~dthain/compilerbook/ ) 
+
+[(Free) Compiler Building Tutorial
+Let’s Build a Compiler - Jack W. Crenshaw](http://web.archive.org/web/20180107011717/https://www.stack.nl/~marcov/compiler.pdf ) 
+
+
 [Writing Compilers and Interpreters: an applied approach using c++  2nd Edition
 by Ronald Mak ](https://www.amazon.com/gp/product/0471113530/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1 ) 
 
@@ -33,6 +48,11 @@ by Keith Cooper ](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/01
 [Let Over Lambda Paperback – April 2, 2008
 by Doug Hoyte ](https://www.amazon.com/Let-Over-Lambda-Doug-Hoyte/dp/1435712757/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1435712757&pd_rd_r=e94b7197-f57e-11e8-b278-c53c231f3748&pd_rd_w=7Id0d&pd_rd_wg=TBGQl&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=7RCKZPFY2WKQHEA9J1EA&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=7RCKZPFY2WKQHEA9J1EA ) 
 
+[Programming Language Fundamentals by Example
+1st Edition
+D.E. Stevenson](https://www.crcpress.com/Programming-Language-Fundamentals-by-Example/Stevenson/p/book/9780849370168 ) 
+
+
 [Introduction to Compiling Techniques: A First Course Using ANSI C, Lex, and Yacc (The McGraw-Hill International Series in Software Engineering) Subsequent Edition
 by J. P. Bennett  ](https://www.amazon.com/dp/007709221X/?coliid=I1MK808TANX7RJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -51,6 +71,9 @@ by Andrew W. Appel ](https://www.amazon.com/dp/052103311X/?coliid=I35C7WN5A5H3JH
 
 
 [Compiling Algorithms for Heterogeneous Systems (Synthesis Lectures on Computer Architecture)](https://www.amazon.co.uk/dp/162705961X/?coliid=I1PG6MER9Z22WW&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+[(Free) Compiler Construction
+Niklaus Wirth ](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf ) 
 
 
 [Compiler Construction (International Computer Science Series) Paperback – June 1, 1996
@@ -122,6 +145,9 @@ by Jessica Livingston ](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL3
 
 
 ## Algorithms & Data Structures
+
+[Genetic Algorithms with Python - Clinton Sheppard](https://leanpub.com/genetic_algorithms_with_python ) 
+
 
 [Real-World Algorithms: A Beginner's Guide (The MIT Press)](https://www.amazon.co.uk/dp/0262035707/?coliid=I1E2YN0UTC1C9E&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -272,6 +298,13 @@ by Alice Zheng](https://www.amazon.com/dp/1491953241/?coliid=I2RBVS7E2VOKU8&coli
 
 [Introduction to Artificial Intelligence: Third Edition Paperback – 14 Aug 2019
 by Philip C Jackson](https://www.amazon.co.uk/Introduction-Artificial-Intelligence-Philip-Jackson/dp/0486832864/ref=dp_ob_title_bk ) 
+
+[Deep Learning for Natural Language Processing
+Creating Neural Networks with Python
+Authors: Goyal, Palash](https://www.apress.com/gp/book/9781484236840 ) 
+
+[Deep Belief Nets in C++ and CUDA C: Volume 3
+Convolutional Nets](https://www.apress.com/gp/book/9781484237205 ) 
 
 
 ## Information theory and compression
@@ -479,7 +512,7 @@ by Zohar Manna ](https://www.amazon.com/dp/0486432386/?coliid=I2CECNXUR21RJF&col
 by Andrew S. Tanenbaum  ](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7IDDGEN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
 
-## Infosec 
+## Infosec & Hacking & Game sec 
 
 [Introduction to Computer and Network Security: Navigating Shades of Gray 1st Edition
 by Richard R. Brooks](https://www.amazon.com/dp/1439860718/?coliid=I1NS89J88AYIQ6&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
@@ -491,6 +524,11 @@ by Dennis Andriesse (Author)](https://www.amazon.co.uk/Practical-Binary-Analysis
 
 [Malware Data Science: Attack Detection and Attribution Kindle Edition
 by Joshua Saxe ](https://www.amazon.co.uk/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B077X1V9SY&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 ) 
+
+[Practical Video Game Bots
+Automating Game Processes using C++, Python, and AutoIt
+Authors: Shpigor, Ilya](https://www.apress.com/gp/book/9781484237359 ) 
+
 
 [The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2nd Edition, Kindle Edition
 by Chris Anley ](https://www.amazon.co.uk/Shellcoders-Handbook-Discovering-Exploiting-Security-ebook/dp/B004P5O38Q/ref=pd_sim_351_6?_encoding=UTF8&pd_rd_i=B004P5O38Q&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 ) 
@@ -539,6 +577,18 @@ by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Develop
 
 
 ## Low-Level programming
+
+[(FREE) Assemblers And Loaders.
+](http://www.davidsalomon.name/assem.advertis/AssemAd.html ) 
+
+[(FREE) The Assembler Developer's Kit
+](http://www.plantation-productions.com/Webster/RollYourOwn/index.html ) 
+
+
+[(FREE) An Introduction to the C Programming Language
+and Software Design
+Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf ) 
+
 
 [Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture](https://www.amazon.co.uk/dp/1484224027/?coliid=IR7XN54ZV5YKB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -654,6 +704,10 @@ by Peter M. Kogge ](https://www.amazon.com/dp/0070355967/?coliid=I22X9HE8V9JD70&
 [Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development) Paperback – 26 Feb 2015
 by Brett Slatkin  ](https://www.amazon.co.uk/dp/0134034287/?coliid=I227F2LP4LT9TY&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Personal Finance with Python
+Using pandas, Requests, and Recurrent
+Authors: Humber, Max](https://www.apress.com/gp/book/9781484238011 ) 
+
 
 
 ## Scientific Python 
@@ -677,6 +731,7 @@ by Robert Johansson ](https://www.amazon.co.uk/Numerical-Python-Scientific-Appli
 
 
 ## Computer algebra and symbolic computation
+
 [Algorithms for Computer Algebra 1992nd Edition
 by Keith O. Geddes ](https://www.amazon.com/dp/0792392590/?coliid=I397U262TBL9WN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
@@ -779,14 +834,217 @@ by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC
 [Every Computer Performance Book Paperback – March 29, 2013
 by Bob Wescott ](https://www.amazon.com/dp/1482657759/?coliid=I8U8GYWIUF5GK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
+[Open Source Intelligence Methods and Tools
+A Practical Guide to Online Intelligence
+Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 ) 
+
+
 ## Biological-inspired systems
 
 [Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
 by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
 
-#Papers
+# Papers
+
+## Lisp Schemes 
+
+[An Incremental Approach to Compiler Construction
+Abdulaziz Ghuloum ](http://web.archive.org/web/20100615153619/http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf ) 
 
 
 # Projects
+
+## C || Cpp || Asm
+
+[Beej's Guide to C Programming
+](https://beej.us/guide/bgc/html/multi/index.html ) 
+
+[Beej's Guide to Network Programming
+Using Internet Sockets](https://beej.us/guide/bgnet/ ) 
+
+[Beej's Guide to Unix Interprocess Communication
+](https://beej.us/guide/bgipc/ ) 
+
+[Let's Build a Simple Database
+Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/ ) 
+
+[Writing a Linux Kernel Module — Part 1: Introduction](http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/ ) 
+
+[Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/ ) 
+
+[How to Write ESP8266 Firmware From Scratch (using ESP Bare Metal SDK and C Language)
+](https://www.instructables.com/id/How-to-Write-ESP8266-Firmware-From-Scratch-using-E/ ) 
+
+[(FREE)(END-TO-END)How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ ) 
+
+[(FREE)(END-TO-END) Kernels 101 –
+Let’s write a Kernel
+Arjun Sreedharan](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel ) 
+
+[(FREE)(END-TO-END) Writing a Simple Operating System —
+from Scratch
+by
+Nick Blundell ](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf ) 
+
+
+[Linux Driver Tutorial: How to Write a Simple Linux Device Driver
+](https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os ) 
+
+[(FREE)(END-TO-END) Memory Allocators 101 -
+Write a simple memory allocator
+Arjun Sreedharan](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory ) 
+
+[C Sockets - No Need For A Web Server!
+](https://www.i-programmer.info/programming/c-c/9993-c-sockets-no-need-for-a-web-server.html ) 
+
+[Tutorial - Write a Shell in C
+](https://brennan.io/2015/01/16/write-a-shell-in-c/ ) 
+
+
+[OS Dev Tutorials](https://wiki.osdev.org/Tutorials ) 
+
+[OpenGL- Building your own C application
+](http://www.opengl-tutorial.org/miscellaneous/building-your-own-c-application/ ) 
+
+[(FREE)(END-TO-END) IMPLEMENTING A VIRTUAL MACHINE IN C
+](https://felixangell.com/blog/implementing-a-virtual-machine-in-c/ ) 
+
+[(FREE)(END-TO-END) Writing Your Own Toy Compiler Using Flex, Bison and LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/) 
+
+[(FREE)(END-TO-END) Writing an Emulator: Introduction
+](https://www.beardypig.com/2016/01/15/emulator-build-along-1/ ) 
+
+[(FREE)(END-TO-END) Emulator 101](http://emulator101.com/ ) 
+
+[(FREE)(END-TO-END) How To Write a Computer Emulator
+by Marat Fayzullin](http://fms.komkon.org/EMUL8/HOWTO.html ) 
+
+[(FREE)(END-TO-END)Writing an OS: Baby Steps
+](https://tutorialsbynick.com/writing-an-os-baby-steps/) 
+
+[(FREE)(END-TO-END)Implementing a TCP server in C](https://ops.tips/blog/a-tcp-server-in-c/ ) 
+
+[(FREE)(END-TO-END)Writing a reverse proxy/loadbalancer from the ground up in C, part 0: introduction
+](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/ ) 
+
+[(FREE)(END-TO-END)Broken Thorn Operating System Development Series
+](http://www.brokenthorn.com/Resources/OSDevIndex.html) 
+
+[(FREE)(END-TO-END)Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/ ) 
+
+
+[(FREE)(END-TO-END)Writing a Debugger
+](http://system.joekain.com/debugger/ ) 
+
+[(FREE)(END-TO-END)The little book about OS development
+Erik Helin, Adam Renberg](https://littleosbook.github.io/ ) 
+
+[(FREE)(END-TO-END)Build Your Own Text Editor
+](https://viewsourcecode.org/snaptoken/kilo/ ) 
+
+
+[(FREE)(END-TO-END)Creating a Virtual Machine/Register VM in C
+](https://en.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_C ) 
+
+[(FREE)(END-TO-END) Neural Network from scratch: Part 1 – Theory
+](https://causeyourestuck.io/2017/06/12/neural-network-scratch-theory/ ) 
+
+[Gcc Macros ](https://gcc.gnu.org/onlinedocs/cpp/Macros.html ) 
+
+## Lisp Scheme etc
+
+[Building a distributed in-memory key value store in Clojure.](http://markwoodhall.com/12-05-2016-building-a-distributed-in-memory-key-value-store-in-clojure/ ) 
+
+[Building a simple HTTP server in Clojure: Part I — Setting up server](https://medium.com/@divyum/building-a-simple-http-server-in-clojure-b8c80fa5035e ) 
+
+[A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/ ) 
+
+[Scheme from Scratch - Introduction
+](http://peter.michaux.ca/articles/scheme-from-scratch-introduction ) 
+
+[Compilers: Backend to Frontend
+and Back to Front Again
+Abdulaziz Ghuloum](http://web.archive.org/web/20100310183100/http://www.cs.indiana.edu/~aghuloum/compilers-tutorial-2006-09-16.pdf ) 
+
+[Make a language in one hour: stacker
+](https://beautifulracket.com/stacker/why-make-languages.html ) 
+
+
+## Rust 
+
+[Writing a simple database in rust, part 1](http://nikhilism.com/post/2016/writing-simple-database-in-rust-part-1/ ) 
+[Embedded in Rust
+](https://blog.japaric.io/quickstart/ ) 
+
+[A Tiny `ls` Clone Written in Rust](https://matthias-endler.de/2018/ls/ ) 
+
+[Bare Metal Rust: Building kernels in Rust](http://www.randomhacks.net/bare-metal-rust/ ) 
+
+[Writing an OS in Rust in tiny steps (Steps 1-5)](https://jvns.ca/blog/2014/03/12/the-rust-os-story/ ) 
+
+[Writing an OS in Rust (Second Edition) Philipp Oppermann's blog](https://os.phil-opp.com/ ) 
+
+[Of tantivy, a search engine in Rust (part 1)](https://fulmicoton.com/posts/behold-tantivy/ ) 
+
+[Matt Brubeck
+08 Aug 2014
+Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html ) 
+
+[Rust futures: an uneducated, short and hopefully not boring tutorial - Part 4 - A "real" future from scratch](https://dev.to/mindflavor/rust-futures-an-uneducated-short-and-hopefully-not-boring-tutorial---part-4---a-real-future-from-scratch-734 ) 
+
+[Writing Python Extensions in Rust](https://kushaldas.in/posts/writing-python-extensions-in-rust.html ) 
+
+[Writing a Microservice in Rust
+](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/ ) 
+
+[Rust in Detail: Writing Scalable Chat Service from Scratch
+](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html ) 
+
+[Build a DNS server from scratch ](https://github.com/EmilHernvall/dnsguide/blob/master/chapter1.md ) 
+
+[Writing An Interpreter In Rust
+](https://chr4.org/blog/2016/12/09/writing-an-interpreter-in-rust/ ) 
+
+
+## Python 
+
+[(END-TO-END)(FREE) A Programmer's Guide to Data Mining](http://guidetodatamining.com/ ) 
+
+
+[Writing a Simple Compiler from Scratch
+](http://rickyhan.com/jekyll/update/2018/07/26/simple-compiler.html ) 
+
+[Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/ ) 
+
+[Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/ ) 
+
+[Writing a C Compiler, Part 1
+](https://norasandler.com/2017/11/29/Write-a-Compiler.html ) 
+
+[(How to Write a (Lisp) Interpreter (in Python))
+](http://norvig.com/lispy.html ) 
+
+## Haskell
+
+[(FREE)(END-TO-END) Write Yourself a Scheme in 48 Hours/Parsing
+](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/Parsing ) 
+
+
+## Other 
+
+
+[Pico8 - Writing a retro 3D FPS engine from scratch](https://medium.com/@btco_code/writing-a-retro-3d-fps-engine-from-scratch-b2a9723e6b06 ) 
+
+[Tutorial: write a scalable, fault-tolerant, network chat server and client (Scala)
+](https://doc.akka.io/docs/akka/1.3.1/scala/tutorial-chat-server.html ) 
+
+[Creating Domain Specific Languages with Scala - Part 1](https://blog.scalac.io/2015/05/07/encog-dsl.html ) 
+
+[Lexing and parsing in Scala using combinators: M-Expression syntax](http://matt.might.net/articles/implementation-of-m-expression-parser-in-scala-combinators-without-stdlexical-stdtokenparsers/ ) 
+
+[Building a compiler in Scala
+](https://medium.com/@anicolaspp/building-a-compiler-in-scala-8d51b467baec ) 
+
+[(SLIDES) How to make a gameboy emulator](https://www.cl.cam.ac.uk/~pv273/slides/emulation.pdf ) 
 
 # Blogs
