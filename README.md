@@ -1,5 +1,6 @@
 # book--projects-wish-list
 
+# Books
 
 ## Compilers & Interpreters
 
@@ -782,3 +783,10 @@ by Bob Wescott ](https://www.amazon.com/dp/1482657759/?coliid=I8U8GYWIUF5GK&coli
 
 [Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
 by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it ) 
+
+#Papers
+
+
+# Projects
+
+# Blogs
