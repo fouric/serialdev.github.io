@@ -951,6 +951,12 @@ Erik Helin, Adam Renberg](https://littleosbook.github.io/ )
 
 [Gcc Macros ](https://gcc.gnu.org/onlinedocs/cpp/Macros.html ) 
 
+[(FREE)Machine Vision with OpenCV:
+A Primer](https://www.optolab.ti.bfh.ch/wiki/_media/huce:roboticslab:tutorials:opencv:machine.vision.with.opencv.pdf ) 
+
+[Clockwise spiral rule - David Anderson](http://c-faq.com/decl/spiral.anderson.html ) 
+
+
 ## Lisp Scheme etc
 
 [Building a distributed in-memory key value store in Clojure.](http://markwoodhall.com/12-05-2016-building-a-distributed-in-memory-key-value-store-in-clojure/ ) 
@@ -1046,5 +1052,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 ](https://medium.com/@anicolaspp/building-a-compiler-in-scala-8d51b467baec ) 
 
 [(SLIDES) How to make a gameboy emulator](https://www.cl.cam.ac.uk/~pv273/slides/emulation.pdf ) 
+
+[Quantum computing primer ](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer ) 
 
 # Blogs
