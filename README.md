@@ -12,11 +12,16 @@
 [(FREE) Build Your Own Lisp
 ](http://www.buildyourownlisp.com/ )
 
-[(Free) Introduction to Compilers and Language Design
+[(FREE) Introduction to Compilers and Language Design
 A free online textbook by Douglas Thain](https://www3.nd.edu/~dthain/compilerbook/ )
 
-[(Free) Compiler Building Tutorial
+[(FREE) Compiler Building Tutorial
 Let’s Build a Compiler - Jack W. Crenshaw](http://web.archive.org/web/20180107011717/https://www.stack.nl/~marcov/compiler.pdf )
+
+[(FREE)(END-TO-END) A Problem Course in Compilation:
+From Python to x86 Assembly
+Draft, November 6, 2009
+Jeremy G. Siek](http://ecee.colorado.edu/ecen4553/fall09/notes.pdf ) 
 
 
 [Writing Compilers and Interpreters: an applied approach using c++  2nd Edition
@@ -600,6 +605,12 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 
 ## Software Engineering General
 
+[Programming Paradigms for
+Dummies: What Every
+Programmer Should Know
+Peter Van Roy](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf ) 
+
+
 [From Mathematics to Generic Programming 1st Edition
 by Alexander A. Stepanov ](https://www.amazon.com/dp/0321942043/?coliid=I7BG22K8001JG&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
@@ -1077,3 +1088,10 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 [Paul Khuong - Some Lisp](https://pvk.ca/ ) 
 [Ulrich Drepper - Redhat](https://akkadia.org/drepper/ ) 
 
+[DesignForHackers - Why Monet never used black](https://designforhackers.com/blog/impressionist-color-theory/ ) 
+
+[Finish your games, and if you can't finish, try making something simpler](http://makegames.tumblr.com/post/1136623767/finishing-a-game ) 
+
+# Miscellaneous
+
+[The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt ) 
