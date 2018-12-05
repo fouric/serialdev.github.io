@@ -1063,7 +1063,16 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [Quantum computing primer ](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer )
 
+[Writing a StarCraft Bot in F#](https://blogs.msdn.microsoft.com/chrsmith/2010/03/18/writing-a-starcraft-bot-in-f/ ) 
+
+
 # Blogs
+
+[How to be a Programmer: A Short, Comprehensive, and Personal Summary
+Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.edu:80/howto/HowToBeAProgrammer.html ) 
+
+[steve Yegge - Rich Programmer Food](http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html ) 
+
 
 [Paul Khuong - Some Lisp](https://pvk.ca/ ) 
 [Ulrich Drepper - Redhat](https://akkadia.org/drepper/ ) 
