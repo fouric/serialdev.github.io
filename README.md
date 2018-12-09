@@ -758,6 +758,9 @@ by Joachim von zur Gathen ](https://www.amazon.com/dp/1107039037/?coliid=I3E5RLF
 
 ## Mathematics & Statistics
 
+[A Programmer's Introduction to Mathematics - Jeremy Kun](https://pimbook.org/ ) 
+
+
 [Concrete Mathematics: A Foundation for Computer Science Hardcover – 28 Feb 1994
 by Ronald L. Graham (Author), Donald E. Knuth  (Author)](https://www.amazon.co.uk/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_3?s=books&ie=UTF8&qid=1543741520&sr=1-3&keywords=programming+mathematics )
 
