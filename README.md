@@ -6,6 +6,9 @@
 
 [(LIST) Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler )
 
+[(FREE)(END-TO-END) Programming Languages: Application and Interpretation
+Copyright © 2003-07, Shriram Krishnamurthi](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ ) 
+
 
 [(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
 
@@ -981,6 +984,9 @@ A Primer](https://www.optolab.ti.bfh.ch/wiki/_media/huce:roboticslab:tutorials:o
 
 ## Lisp Scheme etc
 
+[How to design programs - Mathias Fellisien , shriram krishnamurthi](https://www.htdp.org/ ) 
+
+
 [Building a distributed in-memory key value store in Clojure.](http://markwoodhall.com/12-05-2016-building-a-distributed-in-memory-key-value-store-in-clojure/ )
 
 [Building a simple HTTP server in Clojure: Part I — Setting up server](https://medium.com/@divyum/building-a-simple-http-server-in-clojure-b8c80fa5035e )
@@ -1098,3 +1104,9 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 # Miscellaneous
 
 [The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt ) 
+
+
+# Extras  Non  link 
+```
+It also helps to familiarize yourself with classical pathological syntax issues for languages like ALGOL-68 (requires 'semantic actions' to parse correctly) and early versions of FORTRAN (identifiers could have intermediate whitespace, which meant that a typo could corrupt the meaning of the program) and figure out how to do parse a language with an Offside Rule (and not all offside rules are created equal; Haskell 98 is very complex). Then look at techniques like scannerless/lexerless parsing (SGLR, PEG, etc.), combinatorial parsing, etc. Understand what mathematical properties of a parser algorithm and a parser generator you should look for to ease your job. Understand why naive user of a parser generator tends to result in slower lexing/parsing than hand-coded ones. Understand why for some applications we might be able to not care. Understand how to embed good error messages in a grammar-based approach vs. hand-coded solution. Understand the notion of unparsers, which, IIRC, are not covered in any of the Dragon Book at all.
+```
