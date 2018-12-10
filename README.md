@@ -837,6 +837,9 @@ by Georg Glaeser ](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA
 [Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017
 by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
+### Nice viz examples
+
+[bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html ) 
 
 
 ## Windows & Linux dev
