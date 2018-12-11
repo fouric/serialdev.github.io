@@ -9,6 +9,11 @@
 [(FREE)(END-TO-END) Programming Languages: Application and Interpretation
 Copyright © 2003-07, Shriram Krishnamurthi](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ )
 
+[(FREE)(END-TO-END) Essentials of
+Programming
+Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](URL ) 
+
+
 [(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
 
 [(FREE) Build Your Own Lisp](http://www.buildyourownlisp.com/ )
@@ -63,6 +68,15 @@ by Michael L. Scott (Author)](https://www.amazon.com/dp/0124104096/?coliid=I3JQ8
 [Lisp in Small Pieces
 by Christian Queinnec](https://www.amazon.co.uk/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0521545668&pd_rd_r=c5e6dcc4-f545-11e8-8dbd-79b0bd51dd1a&pd_rd_w=IAx2d&pd_rd_wg=a0PaB&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=R7A7G6ATVM6K72Y4ZNT4&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=R7A7G6ATVM6K72Y4ZNT4 )
 
+[Modern Compiler Implementation |ML|JAVA|C - ©1998 by Andrew W. Appel ](https://news.ycombinator.com/item?id=1608129 ) 
+
+[Trustworthy Compilers 1st Edition
+by Vladimir O. Safonov](https://www.amazon.com/Trustworthy-Compilers-Vladimir-Safonov/dp/0470500956 ) 
+```
+discusses pragmatic ways for how you can increase confidence that (a) you implemented it correctly (b) the users of your compiler trust the code does what it says it does [such as good error messages essential to a compiler for an IDE]
+```
+
+
 [Compiling with Continuations Revised ed. Edition
 by Andrew W. Appel ](https://www.amazon.com/dp/052103311X/?coliid=I35C7WN5A5H3JH&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
@@ -80,6 +94,19 @@ by Allen I Holub ](https://www.amazon.com/dp/0131550454/?coliid=I1KWTMHXDZ51VM&c
 
 [Project Oberon: The Design of an Operating System and Compiler (Acm Press Books) Hardcover – November 1, 1992
 by Niklaus Wirth ](https://www.amazon.com/dp/0201544288/?coliid=I23KT6PHG7REBB&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+
+[Advanced Compiler Design and Implementation 1st Edition
+by Steven Muchnick ](https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204 )  
+```
+Great book. Must read if you're serious about optimizations.
+```
+[Building-Optimizing-Compiler – January 12, 1998
+by Bob Morgan](https://www.amazon.com/Building-Optimizing-Compiler-Bob-Morgan/dp/155558179X ) 
+
+[Computer Architecture: A Quantitative Approach, 4th Edition by Hennessy and Patterson](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-4th-ebook/dp/B07BCV898J ) 
+```
+good Computer Architecture books cover a quite a bit about the basic optimizations of a modern compiler.
+```
 
 ## Heterogeneous Programming
 
@@ -868,6 +895,10 @@ Erik Helin, Adam Renberg](https://littleosbook.github.io/ )
 [(FREE)Machine Vision with OpenCV:A Primer](https://www.optolab.ti.bfh.ch/wiki/_media/huce:roboticslab:tutorials:opencv:machine.vision.with.opencv.pdf )
 
 [Clockwise spiral rule - David Anderson](http://c-faq.com/decl/spiral.anderson.html )
+
+[CALLBACKS IN C++ USING TEMPLATE FUNCTORS
+Copyright 1994 Rich Hickey](http://www.tutok.sk/fastgl/callback.html ) 
+
 
 ## Lisp Scheme etc
 
