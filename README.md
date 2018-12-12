@@ -986,6 +986,10 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [Writing a StarCraft Bot in F#](https://blogs.msdn.microsoft.com/chrsmith/2010/03/18/writing-a-starcraft-bot-in-f/ ) 
 
+[Why you should learn just a little Awk:
+](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html ) 
+
+
 # Blogs
 
 [How to be a Programmer: A Short, Comprehensive, and Personal Summary
@@ -1002,6 +1006,8 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 [DesignForHackers - Why Monet never used black](https://designforhackers.com/blog/impressionist-color-theory/ )
 
 [Finish your games, and if you can't finish, try making something simpler](http://makegames.tumblr.com/post/1136623767/finishing-a-game )
+
+
 
 # Miscellaneous
 
