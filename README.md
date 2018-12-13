@@ -1,7 +1,6 @@
 
 # Books
 
-
 ## Compilers & Interpreters
 
 [(LIST) Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler )
@@ -805,6 +804,10 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 
 [Tenacious C - C graphical IDE](http://tenaciousc.com/ )
 
+[Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking ) 
+
+[boids-Flock](http://archive.breefield.com/lab/flock/ ) 
+
 
 [20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
 
@@ -827,6 +830,22 @@ A Practical Guide to Online Intelligence
 Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
 
 ## Biological-inspired systems
+
+[Swarm Intelligence (The Morgan Kaufmann Series in Evolutionary Computation) 1st Edition
+by Russell C. Eberhart (Author), Yuhui Shi ](https://www.amazon.com/Intelligence-Morgan-Kaufmann-Evolutionary-Computation/dp/1558605959 ) 
+
+[Boids 
+Background and Update 
+by Craig Reynolds](http://www.red3d.com/cwr/boids/ ) 
+
+
+[Steering Behaviors For Autonomous Characters 
+](http://www.red3d.com/cwr/steer/ ) 
+
+
+[Boids Pseudocode
+](http://www.vergenet.net/~conrad/boids/pseudocode.html ) 
+
 
 [Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
 by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
@@ -1039,6 +1058,8 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 [Finish your games, and if you can't finish, try making something simpler](http://makegames.tumblr.com/post/1136623767/finishing-a-game )
 
 [Uses this](https://usesthis.com/ )
+
+[research reynolds](http://www.red3d.com/research.html ) 
 
 
 # Cheatsheets
