@@ -1,6 +1,6 @@
-# book--projects-wish-list
 
 # Books
+
 
 ## Compilers & Interpreters
 
@@ -519,7 +519,7 @@ by Joshua Saxe ](https://www.amazon.co.uk/Malware-Data-Science-Detection-Attribu
 
 [Practical Video Game Bots
 Automating Game Processes using C++, Python, and AutoIt
-Authors: Shpigor, Ilya](https://www.apress.com/gp/book/9781484237359 )
+- Shpigor, Ilya](https://www.apress.com/gp/book/9781484237359 )
 
 [The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2nd Edition, Kindle Edition
 by Chris Anley ](https://www.amazon.co.uk/Shellcoders-Handbook-Discovering-Exploiting-Security-ebook/dp/B004P5O38Q/ref=pd_sim_351_6?_encoding=UTF8&pd_rd_i=B004P5O38Q&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 )
@@ -539,8 +539,7 @@ by Justin Seitz ](https://www.amazon.co.uk/Gray-Hat-Python-Programming-Engineers
 [Reversing: Secrets of Reverse Engineering Paperback – 1 Apr 2005
 by Eldad Eilam ](https://www.amazon.co.uk/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/ref=pd_sbs_14_44?_encoding=UTF8&pd_rd_i=0764574817&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
 
-[The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory Paperback – 3 Oct 2014
-by Michael Hale Ligh](https://www.amazon.co.uk/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=pd_sbs_14_48?_encoding=UTF8&pd_rd_i=1118825098&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
+[The Art of Memory Forensics Detecting Malware and Threats in Windows, Linux, and Mac Memory Paperback – 3 Oct 2014 by Michael Hale Ligh](https://www.amazon.co.uk/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=pd_sbs_14_48?_encoding=UTF8&pd_rd_i=1118825098&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
 
 [Rootkits and Bootkits Reversing Modern Malware and Next Generation Threats Paperback – 15 Jan 2019
 by Alex Matrosov ](https://www.amazon.co.uk/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=sr_1_1?s=books&ie=UTF8&qid=1543745049&sr=1-1&keywords=rootkit )
@@ -625,7 +624,7 @@ by M. Tim Jones](https://www.amazon.com/dp/1584504218/?coliid=I1SYXQ4ZKJ5OJ9&col
 [C4.5: Programs for Machine Learning (Morgan Kaufmann Series in Machine Learning) Paperback – 12 Feb 1992
 by J. Ross Quinlan ](https://www.amazon.co.uk/C4-5-Programs-Machine-Learning-Kaufmann/dp/1558602380/ref=sr_1_71?s=books&ie=UTF8&qid=1543738453&sr=1-71&keywords=mathematics+C+programming )
 
-[Writing Solid Code: Microsoft Techniques for Developing Bug-free C. Programs (Microsoft Programming Series) Paperback – 1 Jan 1993
+[Writing Solid Code Microsoft Techniques for Developing Bug-free C. Programs (Microsoft Programming Series) Paperback – 1 Jan 1993
 by Steve Maguire](https://www.amazon.co.uk/Writing-Solid-Code-Techniques-Programming/dp/1556155514/ref=sr_1_82?s=books&ie=UTF8&qid=1543738502&sr=1-82&keywords=mathematics+C+programming )
 
 [Programming Projects in C for Students of Engineering, Science, and Mathematics Paperback – 23 Oct 2014
@@ -737,7 +736,7 @@ by Andrzej Katunin (Author)](https://www.amazon.co.uk/dp/1138633429/?coliid=I2ZS
 [Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory Paperback – 5 Dec 2010
 by Carl M. Bender ](https://www.amazon.co.uk/dp/1441931872/?coliid=I1APCTRBAJSJFG&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Statistical Intervals: A Guide for Practitioners and Researchers (Wiley Series in Probability and Statistics) 2nd Edition
+[Statistical Intervals A Guide for Practitioners and Researchers (Wiley Series in Probability and Statistics) 2nd Edition
 by William Q. Meeker ](https://www.amazon.com/dp/0471687170/?coliid=I2NHP3VPPYK87R&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Bridging the Gap to University Mathematics ](https://www.amazon.co.uk/dp/1848002890/?coliid=IOO7P6PWB6F3G&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -745,7 +744,7 @@ by William Q. Meeker ](https://www.amazon.com/dp/0471687170/?coliid=I2NHP3VPPYK8
 [Algebra : An Elementary Text-Book (2 volume set) 7th Edition
 by G. Chrystal  ](https://www.amazon.com/dp/0821819313/?coliid=IEYM1QS8IOJ58&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics) 1st Corrected ed. 20 Edition
+[All of Statistics A Concise Course in Statistical Inference (Springer Texts in Statistics) 1st Corrected ed. 20 Edition
 by Larry Wasserman](https://www.amazon.com/dp/0387402721/?coliid=IO9ARXB3OOHLI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science) 1st Edition
@@ -785,7 +784,7 @@ by Leland Wilkinson](https://www.amazon.com/dp/0387245448/?coliid=I2DUQEQT8XL3RO
 [Processing: An Introduction to Programming Paperback – 22 Sep 2016
 by Jeffrey L. Nyhoff ](https://www.amazon.co.uk/dp/1482255952/?coliid=I1OSITN7F7ZA5G&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Topological Methods in Data Analysis and Visualization IV: Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017
+[Topological Methods in Data Analysis and Visualization IV Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017
 by Hamish Carr ](https://www.amazon.co.uk/dp/3319446827/?coliid=I21RY9I93I2WC9&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
 [A Mathematical Picture Book Hardcover – 23 Dec 2018
@@ -992,6 +991,9 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 [Writing a C Compiler, Part 1](https://norasandler.com/2017/11/29/Write-a-Compiler.html )
 
 [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html )
+
+[Fast and Easy Levenshtein distance using a Trie](http://stevehanov.ca/blog/index.php?id=114 ) 
+
 
 ## Haskell
 
