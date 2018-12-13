@@ -2,8 +2,9 @@
 # Books
 
 
-|Title(url) | language Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
-|-----------|---------------|------|--------|----------------|------------|------|------|------------|
+|Title(url) | language| Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
+|----------:|:-------:|:----:|:----:|:------:|:--------------:|:----------:|:----:|:----:|-----------:|
+|Title(url) | language  Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
 
 ## Compilers & Interpreters
 
