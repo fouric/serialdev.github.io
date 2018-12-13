@@ -1,6 +1,10 @@
 
 # Books
 
+
+|Title(url) | language Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
+|-----------|---------------|------|--------|----------------|------------|------|------|------------|
+
 ## Compilers & Interpreters
 
 [(LIST) Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler )
