@@ -117,6 +117,13 @@ Great book. Must read if you're serious about optimizations.
 [Building-Optimizing-Compiler – January 12, 1998
 by Bob Morgan](https://www.amazon.com/Building-Optimizing-Compiler-Bob-Morgan/dp/155558179X )
 
+[Parsing Techniques: A Practical Guide (Monographs in Computer Science) 2nd ed. 2008 Edition
+by Dick Grune  (Author), Ceriel J.H. Jacobs (Contributor)](https://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer/dp/1441919015)
+
+[Modern Compiler Design - Second Edition
+Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, and Koen G. Langendoen](https://dickgrune.com/Books/MCD_2nd_Edition/)
+
+
 [Computer Architecture: A Quantitative Approach, 4th Edition by Hennessy and Patterson](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-4th-ebook/dp/B07BCV898J )
 ```
 good Computer Architecture books cover a quite a bit about the basic optimizations of a modern compiler.
@@ -154,6 +161,10 @@ by S.M.G Szczepaniak ](https://www.amazon.com/dp/0992926025/?coliid=I3IU7TOTVCXD
 
 [THE LEGEND OF JOHN VON NEUMANN
 P. R. HALMOS](https://news.ycombinator.com/item?id=1866305 )
+
+[A Conversation with Arthur Whitney
+A few well-chosen words about programming languages from a long-time designer](https://queue.acm.org/detail.cfm?id=1531242)
+
 
 [Data Scientists at Work 1st ed. Edition
 by Sebastian Gutierrez ](https://www.amazon.com/dp/1430265981/?coliid=I2VVQ08F3KOO7I&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
@@ -585,10 +596,18 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 
 [Intermediate C Programming](https://www.amazon.co.uk/dp/1498711634/?coliid=I1PGHGBFAZU8JS&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 ) 
+[Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 )
+
+[Hacker's
+Delight](https://www.hackersdelight.org/)
 
 
 ## Software Engineering General
+
+[Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi](https://www.info.ucl.ac.be/~pvr/book.html)
+
+[Prolog and Natural-Language Analysis
+Fernando C. N. Pereira and Stuart M. Shieber](http://www.mtome.com/Publications/PNLA/pnla.html)
 
 [Programming Paradigms for
 Dummies: What Every
@@ -800,7 +819,7 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 
 ### Nice viz/Ux examples
 
-[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page ) 
+[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page )
 
 
 [Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )
@@ -809,9 +828,9 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 
 [Tenacious C - C graphical IDE](http://tenaciousc.com/ )
 
-[Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking ) 
+[Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking )
 
-[boids-Flock](http://archive.breefield.com/lab/flock/ ) 
+[boids-Flock](http://archive.breefield.com/lab/flock/ )
 
 
 [20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
@@ -837,19 +856,19 @@ Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
 ## Biological-inspired systems
 
 [Swarm Intelligence (The Morgan Kaufmann Series in Evolutionary Computation) 1st Edition
-by Russell C. Eberhart (Author), Yuhui Shi ](https://www.amazon.com/Intelligence-Morgan-Kaufmann-Evolutionary-Computation/dp/1558605959 ) 
+by Russell C. Eberhart (Author), Yuhui Shi ](https://www.amazon.com/Intelligence-Morgan-Kaufmann-Evolutionary-Computation/dp/1558605959 )
 
-[Boids 
-Background and Update 
-by Craig Reynolds](http://www.red3d.com/cwr/boids/ ) 
+[Boids
+Background and Update
+by Craig Reynolds](http://www.red3d.com/cwr/boids/ )
 
 
-[Steering Behaviors For Autonomous Characters 
-](http://www.red3d.com/cwr/steer/ ) 
+[Steering Behaviors For Autonomous Characters
+](http://www.red3d.com/cwr/steer/ )
 
 
 [Boids Pseudocode
-](http://www.vergenet.net/~conrad/boids/pseudocode.html ) 
+](http://www.vergenet.net/~conrad/boids/pseudocode.html )
 
 
 [Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
@@ -861,6 +880,9 @@ by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&
 
 [An Incremental Approach to Compiler Construction
 Abdulaziz Ghuloum](http://web.archive.org/web/20100615153619/http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf )
+
+[The art of the interpreter - Guy Steele & Gerald Sussman](http://web.archive.org/web/20170706132130/ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-453.pdf ) 
+
 
 # Projects
 
@@ -1016,7 +1038,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html )
 
-[Fast and Easy Levenshtein distance using a Trie](http://stevehanov.ca/blog/index.php?id=114 ) 
+[Fast and Easy Levenshtein distance using a Trie](http://stevehanov.ca/blog/index.php?id=114 )
 
 
 ## Haskell
@@ -1064,7 +1086,7 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [Uses this](https://usesthis.com/ )
 
-[research reynolds](http://www.red3d.com/research.html ) 
+[research reynolds](http://www.red3d.com/research.html )
 
 
 # Cheatsheets
@@ -1073,6 +1095,9 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 
 # Miscellaneous
+
+
+[My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg ) 
 
 [The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt )
 
