@@ -11,7 +11,7 @@ Copyright © 2003-07, Shriram Krishnamurthi](http://cs.brown.edu/~sk/Publication
 
 [(FREE)(END-TO-END) Essentials of
 Programming
-Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](URL ) 
+Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](URL )
 
 
 [(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
@@ -63,17 +63,27 @@ D.E. Stevenson](https://www.crcpress.com/Programming-Language-Fundamentals-by-Ex
 by J. P. Bennett  ](https://www.amazon.com/dp/007709221X/?coliid=I1MK808TANX7RJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Programming Language Pragmatics 4th Edition
-by Michael L. Scott (Author)](https://www.amazon.com/dp/0124104096/?coliid=I3JQ8YC6WIHOZN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+by Michael L. Scott ](https://www.amazon.com/dp/0124104096/?coliid=I3JQ8YC6WIHOZN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Lisp in Small Pieces
 by Christian Queinnec](https://www.amazon.co.uk/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0521545668&pd_rd_r=c5e6dcc4-f545-11e8-8dbd-79b0bd51dd1a&pd_rd_w=IAx2d&pd_rd_wg=a0PaB&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=R7A7G6ATVM6K72Y4ZNT4&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=R7A7G6ATVM6K72Y4ZNT4 )
 
-[Modern Compiler Implementation |ML|JAVA|C - ©1998 by Andrew W. Appel ](https://news.ycombinator.com/item?id=1608129 ) 
+[Modern Compiler Implementation |ML|JAVA|C - ©1998 by Andrew W. Appel ](https://news.ycombinator.com/item?id=1608129 )
 
 [Trustworthy Compilers 1st Edition
-by Vladimir O. Safonov](https://www.amazon.com/Trustworthy-Compilers-Vladimir-Safonov/dp/0470500956 ) 
+by Vladimir O. Safonov](https://www.amazon.com/Trustworthy-Compilers-Vladimir-Safonov/dp/0470500956 )
 ```
 discusses pragmatic ways for how you can increase confidence that (a) you implemented it correctly (b) the users of your compiler trust the code does what it says it does [such as good error messages essential to a compiler for an IDE]
+```
+
+[Yacc is dead - Matthew Might & David Darais](https://arxiv.org/pdf/1010.5023.pdf )
+
+[Parsing with Derivatives
+A Functional Pearl
+Matthew Might David Darais Daniel Spiewak](http://matt.might.net/papers/might2011derivatives.pdf )
+
+```
+Parsing with derivatives http://matt.might.net/papers/reviews/esop2010-derivatives.txt
 ```
 
 
@@ -96,14 +106,14 @@ by Allen I Holub ](https://www.amazon.com/dp/0131550454/?coliid=I1KWTMHXDZ51VM&c
 by Niklaus Wirth ](https://www.amazon.com/dp/0201544288/?coliid=I23KT6PHG7REBB&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Advanced Compiler Design and Implementation 1st Edition
-by Steven Muchnick ](https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204 )  
+by Steven Muchnick ](https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204 )
 ```
 Great book. Must read if you're serious about optimizations.
 ```
 [Building-Optimizing-Compiler – January 12, 1998
-by Bob Morgan](https://www.amazon.com/Building-Optimizing-Compiler-Bob-Morgan/dp/155558179X ) 
+by Bob Morgan](https://www.amazon.com/Building-Optimizing-Compiler-Bob-Morgan/dp/155558179X )
 
-[Computer Architecture: A Quantitative Approach, 4th Edition by Hennessy and Patterson](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-4th-ebook/dp/B07BCV898J ) 
+[Computer Architecture: A Quantitative Approach, 4th Edition by Hennessy and Patterson](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-4th-ebook/dp/B07BCV898J )
 ```
 good Computer Architecture books cover a quite a bit about the basic optimizations of a modern compiler.
 ```
@@ -137,6 +147,9 @@ by Ron Goldman  (Author), Richard P. Gabriel  ](https://www.amazon.com/dp/155860
 
 [The Untold History of Japanese Game Developers: Gold Paperback – August 4, 2014
 by S.M.G Szczepaniak ](https://www.amazon.com/dp/0992926025/?coliid=I3IU7TOTVCXDL1&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+
+[THE LEGEND OF JOHN VON NEUMANN
+P. R. HALMOS](https://news.ycombinator.com/item?id=1866305 )
 
 [Data Scientists at Work 1st ed. Edition
 by Sebastian Gutierrez ](https://www.amazon.com/dp/1430265981/?coliid=I2VVQ08F3KOO7I&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
@@ -569,6 +582,9 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 
 [Intermediate C Programming](https://www.amazon.co.uk/dp/1498711634/?coliid=I1PGHGBFAZU8JS&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
+[Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 ) 
+
+
 ## Software Engineering General
 
 [Programming Paradigms for
@@ -778,9 +794,20 @@ by Georg Glaeser ](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA
 [Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017
 by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-### Nice viz examples
 
-[bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html ) 
+### Nice viz/Ux examples
+
+[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page ) 
+
+
+[Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )
+
+[bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html )
+
+[Tenacious C - C graphical IDE](http://tenaciousc.com/ )
+
+
+[20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
 
 ## Windows & Linux dev
 
@@ -882,7 +909,7 @@ Arjun Sreedharan](https://arjunsreedharan.org/post/148675821737/memory-allocator
 [(FREE)(END-TO-END)The little book about OS development
 Erik Helin, Adam Renberg](https://littleosbook.github.io/ )
 
-[What every programmer should know about memory - Ulrich Drepper - Redhat](https://lwn.net/Articles/250967/ ) 
+[What every programmer should know about memory - Ulrich Drepper - Redhat](https://lwn.net/Articles/250967/ )
 
 [(FREE)(END-TO-END)Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/ )
 
@@ -897,7 +924,9 @@ Erik Helin, Adam Renberg](https://littleosbook.github.io/ )
 [Clockwise spiral rule - David Anderson](http://c-faq.com/decl/spiral.anderson.html )
 
 [CALLBACKS IN C++ USING TEMPLATE FUNCTORS
-Copyright 1994 Rich Hickey](http://www.tutok.sk/fastgl/callback.html ) 
+Copyright 1994 Rich Hickey](http://www.tutok.sk/fastgl/callback.html )
+
+[Low Level Bit Hacks You Absolutely Must Know](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/ )
 
 
 ## Lisp Scheme etc
@@ -984,20 +1013,20 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [Quantum computing primer ](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer )
 
-[Writing a StarCraft Bot in F#](https://blogs.msdn.microsoft.com/chrsmith/2010/03/18/writing-a-starcraft-bot-in-f/ ) 
+[Writing a StarCraft Bot in F#](https://blogs.msdn.microsoft.com/chrsmith/2010/03/18/writing-a-starcraft-bot-in-f/ )
 
 [Why you should learn just a little Awk:
-](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html ) 
+](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html )
 
 
 # Blogs
 
 [How to be a Programmer: A Short, Comprehensive, and Personal Summary
-Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.edu:80/howto/HowToBeAProgrammer.html ) 
+Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.edu:80/howto/HowToBeAProgrammer.html )
 
-[steve Yegge - Rich Programmer Food](http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html ) 
+[steve Yegge - Rich Programmer Food](http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html )
 
-[An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/ ) 
+[An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/ )
 
 [Paul Khuong - Some Lisp](https://pvk.ca/ )
 
@@ -1007,13 +1036,19 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [Finish your games, and if you can't finish, try making something simpler](http://makegames.tumblr.com/post/1136623767/finishing-a-game )
 
+[Uses this](https://usesthis.com/ )
+
+
+# Cheatsheets
+
+[linux command line reference](http://www.pixelbeat.org/cmdline.html )
 
 
 # Miscellaneous
 
 [The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt )
 
-# Extras  Non  link 
+# Extras  Non  link
 ```
 It also helps to familiarize yourself with classical pathological syntax issues for languages like ALGOL-68 (requires 'semantic actions' to parse correctly) and early versions of FORTRAN (identifiers could have intermediate whitespace, which meant that a typo could corrupt the meaning of the program) and figure out how to do parse a language with an Offside Rule (and not all offside rules are created equal; Haskell 98 is very complex). Then look at techniques like scannerless/lexerless parsing (SGLR, PEG, etc.), combinatorial parsing, etc. Understand what mathematical properties of a parser algorithm and a parser generator you should look for to ease your job. Understand why naive user of a parser generator tends to result in slower lexing/parsing than hand-coded ones. Understand why for some applications we might be able to not care. Understand how to embed good error messages in a grammar-based approach vs. hand-coded solution. Understand the notion of unparsers, which, IIRC, are not covered in any of the Dragon Book at all.
 ```
