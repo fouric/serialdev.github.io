@@ -192,6 +192,9 @@ by Jessica Livingston ](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL3
 
 ## Algorithms & Data Structures
 
+[The Stony Brook Algorithm Repository - Steven Skiena](http://algorist.com/algorist.html ) 
+
+
 [Genetic Algorithms with Python - Clinton Sheppard](https://leanpub.com/genetic_algorithms_with_python )
 
 [Real-World Algorithms: A Beginner's Guide (The MIT Press)](https://www.amazon.co.uk/dp/0262035707/?coliid=I1E2YN0UTC1C9E&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -582,6 +585,8 @@ by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Develop
 
 ## Low-Level programming
 
+[Programming from the Ground Up Jonathan Bartlett](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf ) 
+
 [(FREE) Assemblers And Loaders.](http://www.davidsalomon.name/assem.advertis/AssemAd.html )
 
 [(FREE) The Assembler Developer's Kit](http://www.plantation-productions.com/Webster/RollYourOwn/index.html )
@@ -598,9 +603,7 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 
 [Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 )
 
-[Hacker's
-Delight](https://www.hackersdelight.org/)
-
+[Hacker's Delight](https://www.hackersdelight.org/)
 
 ## Software Engineering General
 
@@ -748,6 +751,15 @@ by Joachim von zur Gathen ](https://www.amazon.com/dp/1107039037/?coliid=I3E5RLF
 
 ## Mathematics & Statistics
 
+[(FREE)(END-TO-END)Introduction to Applied Linear Algebra
+Vectors, Matrices, and Least Squares
+Julia Language Companion
+Stephen Boyd and Lieven Vandenberghe
+DRAFT August 26, 2018](http://vmls-book.stanford.edu/vmls-julia-companion.pdf ) 
+
+[Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
+Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/ ) 
+
 [A Programmer's Introduction to Mathematics - Jeremy Kun](https://pimbook.org/ )
 
 [Concrete Mathematics: A Foundation for Computer Science Hardcover – 28 Feb 1994
@@ -779,7 +791,7 @@ by James V Stone  ](https://www.amazon.com/dp/0956372848/?coliid=I37UEUQ31JIALL&
 [A Computational Introduction to Number Theory and Algebra 2nd Edition
 by Victor Shoup ](https://www.amazon.com/dp/0521516447/?coliid=I3NTIZBPOG71SK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[The Mathematics of Various Entertaining Subjects: Research in Recreational Math Hardcover – 26 Jan 2016
+[The Mathematics of Various Entertaining Subjects Research in Recreational Math Hardcover – 26 Jan 2016
 by Jennifer Beineke ](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Recreational/dp/0691164037/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0691164037&pd_rd_r=4da7f5eb-f611-11e8-9070-3de13d4da848&pd_rd_w=9pJG5&pd_rd_wg=6curO&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=426PWD96B3427ZGRH33H&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=426PWD96B3427ZGRH33H )
 
 [Behavioral Mathematics for Game AI Paperback – 5 Mar 2009
@@ -821,7 +833,6 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 
 [Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page )
 
-
 [Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )
 
 [bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html )
@@ -831,7 +842,6 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 [Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking )
 
 [boids-Flock](http://archive.breefield.com/lab/flock/ )
-
 
 [20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
 
@@ -862,14 +872,11 @@ by Russell C. Eberhart (Author), Yuhui Shi ](https://www.amazon.com/Intelligence
 Background and Update
 by Craig Reynolds](http://www.red3d.com/cwr/boids/ )
 
-
 [Steering Behaviors For Autonomous Characters
 ](http://www.red3d.com/cwr/steer/ )
 
-
 [Boids Pseudocode
 ](http://www.vergenet.net/~conrad/boids/pseudocode.html )
-
 
 [Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
 by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
@@ -903,6 +910,10 @@ Abdulaziz Ghuloum](http://web.archive.org/web/20100615153619/http://scheme2006.c
 [How to Write ESP8266 Firmware From Scratch (using ESP Bare Metal SDK and C Language)](https://www.instructables.com/id/How-to-Write-ESP8266-Firmware-From-Scratch-using-E/ )
 
 [(FREE)(END-TO-END)How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ )
+
+[(FREE)(END-TO-END) Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/ ) 
+
+[Computed goto for efficient dispatch tables](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables ) 
 
 [(FREE)(END-TO-END) Kernels 101 –
 Let’s write a Kernel
@@ -1024,6 +1035,11 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [Writing An Interpreter In Rust](https://chr4.org/blog/2016/12/09/writing-an-interpreter-in-rust/ )
 
+## DB
+
+[(StackOverflow)Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers/ ) 
+
+
 ## Python
 
 [(END-TO-END)(FREE) A Programmer's Guide to Data Mining](http://guidetodatamining.com/ )
@@ -1039,6 +1055,8 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html )
 
 [Fast and Easy Levenshtein distance using a Trie](http://stevehanov.ca/blog/index.php?id=114 )
+
+[The Flask Mega-Tutorial Part XIX: Deployment on Docker Containers - April 10 2018](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers) 
 
 
 ## Haskell
@@ -1066,6 +1084,10 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 [Why you should learn just a little Awk:
 ](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html )
 
+## Algos 
+
+[Substring search algorithm online algo ](http://volnitsky.com/project/str_search/ ) 
+
 
 # Blogs
 
@@ -1078,6 +1100,8 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [Paul Khuong - Some Lisp](https://pvk.ca/ )
 
+[Fabian Giesen](https://fgiesen.wordpress.com/ ) 
+
 [Ulrich Drepper - Redhat](https://akkadia.org/drepper/ )
 
 [DesignForHackers - Why Monet never used black](https://designforhackers.com/blog/impressionist-color-theory/ )
@@ -1088,14 +1112,29 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [research reynolds](http://www.red3d.com/research.html )
 
+[Are there any famous one-man-army programmers?](https://softwareengineering.stackexchange.com/questions/47197/are-there-any-famous-one-man-army-programmers ) 
+
+
+## People Pages 
+
+[D. J. Bernstein
+Mathematics and computer science](https://cr.yp.to/djb.html ) 
+
+[Fabrice Bellard](https://bellard.org/ ) 
+
+[Lennart Poettering](http://0pointer.de/lennart/ ) 
+
+
+### Pubs
+
+[Peter Deutsch](https://dblp.org/pers/hd/d/Deutsch:L=_Peter ) 
+
 
 # Cheatsheets
 
 [linux command line reference](http://www.pixelbeat.org/cmdline.html )
 
-
 # Miscellaneous
-
 
 [My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg ) 
 
