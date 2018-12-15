@@ -148,6 +148,10 @@ by David B. Kirk ](https://www.amazon.com/dp/0128119861/?coliid=IVXLYK0PHPIMU&co
 [GPU Parallel Program Development Using CUDA (Chapman & Hall/CRC Computational Science) Hardcover – 6 Oct 2016
 by Tolga Soyata](https://www.amazon.co.uk/dp/1498750753/?coliid=I1AVH5U89G43FO&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
+[How to Write Parallel Programs: A First Course Hardcover – October 29, 1990
+by Nicholas Carriero  (Author), David Gelernter (Author)](https://www.amazon.com/How-Write-Parallel-Programs-Course/dp/026203171X ) 
+
+
 ## Softer-skills & Historical
 
 [Patterns of Software: Tales from the Software Community
@@ -661,6 +665,10 @@ by Matthew Wilson ](https://www.amazon.co.uk/dp/0321228774/?coliid=I2V643WPLQQHM
 
 ## Lisps & Scheme
 
+[Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) second edition Edition
+by Harold Abelson  (Author), Gerald Jay Sussman  (Author), Julie Sussman  (Contributor)](https://www.amazon.com/dp/0262510871/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=aeebc627-7ecf-4129-8c0c-1d437f271eca&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0262510375&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=W047BHMTVN9ZA5BSX7ZP&pf_rd_r=W047BHMTVN9ZA5BSX7ZP&pf_rd_p=aeebc627-7ecf-4129-8c0c-1d437f271eca ) 
+
+
 [Lisp (3rd Edition) 3rd Edition
 by Patrick Winston ](https://www.amazon.com/dp/0201083191/?coliid=I30PL0J6E8PWQP&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
@@ -756,6 +764,10 @@ Vectors, Matrices, and Least Squares
 Julia Language Companion
 Stephen Boyd and Lieven Vandenberghe
 DRAFT August 26, 2018](http://vmls-book.stanford.edu/vmls-julia-companion.pdf ) 
+
+[Turtle Geometry: The Computer as a Medium for Exploring Mathematics (Artificial Intelligence) Paperback – July 9, 1986
+by Harold Abelson  (Author), Andrea diSessa (Author)](https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375 ) 
+
 
 [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
 Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/ ) 
@@ -1113,6 +1125,9 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 [research reynolds](http://www.red3d.com/research.html )
 
 [Are there any famous one-man-army programmers?](https://softwareengineering.stackexchange.com/questions/47197/are-there-any-famous-one-man-army-programmers ) 
+
+[David Bacon (LINKS)](http://wry.me/~darius/personal/books.html ) 
+
 
 
 ## People Pages 
