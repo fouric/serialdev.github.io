@@ -1128,6 +1128,8 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [David Bacon (LINKS)](http://wry.me/~darius/personal/books.html ) 
 
+[Locklin on science
+Ruins of forgotten empires: APL languages](https://scottlocklin.wordpress.com/2013/07/28/ruins-of-forgotten-empires-apl-languages/ ) 
 
 
 ## People Pages 
@@ -1154,6 +1156,11 @@ Mathematics and computer science](https://cr.yp.to/djb.html )
 [My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg ) 
 
 [The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt )
+
+[In Praise of APL:
+A Language for Lyrical Programming
+Professor Alan J. Perlis](http://www.jsoftware.com/papers/perlis77.htm ) 
+
 
 # Extras  Non  link
 ```
