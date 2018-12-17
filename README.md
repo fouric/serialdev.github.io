@@ -17,6 +17,8 @@ Copyright © 2003-07, Shriram Krishnamurthi](http://cs.brown.edu/~sk/Publication
 Programming
 Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](URL )
 
+[Constraint Programming Languages: Their Specification and Generation (Addison-Wesley series in computer science) Paperback – July 1, 1987](https://www.amazon.com/Constraint-Programming-Languages-Specification-Addison-Wesley/dp/0201062437 ) 
+
 
 [(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
 
@@ -128,6 +130,11 @@ Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, and Koen G. Lan
 ```
 good Computer Architecture books cover a quite a bit about the basic optimizations of a modern compiler.
 ```
+[RABBIT: A Compiler for SCHEME Author: Steele, Guy Lewis, Jr.](https://dspace.mit.edu/handle/1721.1/6913 ) 
+
+[ORBIT: An Optimizing Compiler for Scheme
+David Kranz*, ](http://people.csail.mit.edu/riastradh/t/adams86orbit.pdf ) 
+
 
 ## Heterogeneous Programming
 
@@ -157,8 +164,26 @@ by Nicholas Carriero  (Author), David Gelernter (Author)](https://www.amazon.com
 [Patterns of Software: Tales from the Software Community
 by Richard P. Gabriel ](https://www.amazon.com/gp/product/0195121236/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0 )
 
+[Beautiful Code
+Leading Programmers Explain How They Think
+By Andy Oram, Greg Wilson](http://web.archive.org/web/20130517075141/http://shop.oreilly.com/product/9780596510046.do ) 
+
+[The Soul of a New Machine 
+by Tracy Kidder](https://www.amazon.com/Soul-New-Machine-Modern-Library/dp/0679602615/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= ) 
+
+[Out of the Inner Circle: A Hacker's Guide to Computer Security Paperback – April 1, 1985
+by Bill "the Cracker" Landreth](https://www.amazon.com/Out-Inner-Circle-Computer-Security/dp/0914845365 ) 
+
+[The Connection Machine (Artificial Intelligence) New edition Edition
+by W. Danny Hillis (Author)](https://www.amazon.com/Connection-Machine-Artificial-Intelligence/dp/0262580977 ) 
+
+
 [Innovation Happens Elsewhere: Open Source as Business Strategy Hardcover – April 25, 2005
 by Ron Goldman  (Author), Richard P. Gabriel  ](https://www.amazon.com/dp/1558608893/?coliid=I3CB8FK6F8ZRSK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+
+[A Discipline of Programming 59683rd Edition
+by Edsger W. Dijkstra (Author)](https://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X ) 
+
 
 [The Untold History of Japanese Game Developers: Gold Paperback – August 4, 2014
 by S.M.G Szczepaniak ](https://www.amazon.com/dp/0992926025/?coliid=I3IU7TOTVCXDL1&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
@@ -471,6 +496,10 @@ by Eugene A. Durenard  ](https://www.amazon.com/dp/1118129857/?coliid=I1Z2HWBB15
 
 ## Information Retrieval and DB Systems
 
+[Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition (The Morgan Kaufmann Series in Multimedia Information and Systems) 1st Edition
+by Ian H. Witten  (Author), Alistair Moffat (Author), Timothy C. Bell  (Author)](https://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703 ) 
+
+
 [Notes on Music Information Retrieval](https://musicinformationretrieval.com/ )
 
 [An Introduction to Database Systems 8th (eighth) Edition by Date, C.J.](https://www.amazon.co.uk/Introduction-Database-Systems-published-Pearson/dp/B00EKYUU0W/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=B00EKYUU0W&pd_rd_r=eff8a732-f54c-11e8-bed3-773608197450&pd_rd_w=gVKrS&pd_rd_wg=5X2lP&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=9E06HMM0B5T8SRK311MH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9E06HMM0B5T8SRK311MH )
@@ -489,6 +518,9 @@ by Christopher D. Manning](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1
 [Mining of Massive Datasets - Jeffrey Ullman](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1543695155&sr=1-1&keywords=mining+massive )
 
 ## Theoretical CSs
+
+[Feynman Lectures On Computation (Frontiers in Physics) 1st Edition
+by Richard P. Feynman  (Author), Anthony Hey (Author)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967 ) 
 
 [Computational Complexity Paperback – 30 Nov 1993
 by Christos H. Papadimitriou](https://www.amazon.co.uk/dp/0201530821/?coliid=I2PF8FOD5M36G7&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
@@ -610,6 +642,20 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 [Hacker's Delight](https://www.hackersdelight.org/)
 
 ## Software Engineering General
+
+[The Standard C Library 1st Edition
+by P.J. Plauger](https://www.amazon.com/Standard-C-Library-P-J-Plauger/dp/0131315099 ) 
+
+[The Practice of Programming (Addison-Wesley Professional Computing Series) 1st Edition
+by Brian W. Kernighan  (Author), Rob Pike (Author)](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X ) 
+
+
+[The AWK Programming Language 1st Edition
+by Alfred V. Aho  (Author), Brian W. Kernighan  (Author), Peter J. Weinberger  (Author)](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X ) 
+
+[Abstraction and Specification in Program Development (MIT Electrical Engineering and Computer Science) Hardcover – March 31, 1986
+by Barbara Liskov (Author), John V. Guttag (Author)](https://www.amazon.com/Abstraction-Specification-Development-Electrical-Engineering/dp/0262121123 ) 
+
 
 [Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi](https://www.info.ucl.ac.be/~pvr/book.html)
 
@@ -857,6 +903,10 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 
 [20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
 
+[The Humane Interface: New Directions for Designing Interactive Systems 
+by Jef Raskin  (Author) ](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376 ) 
+
+
 ## Windows & Linux dev
 
 [Windows® via C/C++ (Developer Reference)](https://www.amazon.co.uk/dp/B00JDMQK9G/?coliid=IW5R4HS74J0MW&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -1098,7 +1148,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 ## Algos 
 
-[Substring search algorithm online algo ](http://volnitsky.com/project/str_search/ ) 
+[Substring search algorithm online algo ](http://volnitsky.com/project/str_search/ )
 
 
 # Blogs
