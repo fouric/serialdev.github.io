@@ -135,6 +135,9 @@ good Computer Architecture books cover a quite a bit about the basic optimizatio
 [ORBIT: An Optimizing Compiler for Scheme
 David Kranz*, ](http://people.csail.mit.edu/riastradh/t/adams86orbit.pdf ) 
 
+[Threaded Interpretive Languages: Their Design and Implementation 1St Edition Edition
+by R. G. Loeliger ](https://www.amazon.com/Threaded-Interpretive-Languages-Design-Implementation/dp/007038360X ) 
+
 
 ## Heterogeneous Programming
 
@@ -560,6 +563,18 @@ by Andrew S. Tanenbaum  ](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7I
 
 ## Infosec & Hacking & Game sec
 
+
+[          _/B\_                                            _/W\_
+          (* *)             Phrack #64 file 4              (* *)
+          | - |                                            | - |
+          |   |  A brief history of the Underground scene  |   |
+          |   |                                            |   |
+          |   |        By The Circle of Lost Hackers       |   |
+          |   |                                            |   |
+          |   |              Duvel@phrack.org              |   |
+            ____________________________________________________](http://web.archive.org/web/20101128205720/http://www.phrack.org/issues.html?issue=64&id=4&page=2 ) 
+
+
 [Introduction to Computer and Network Security: Navigating Shades of Gray 1st Edition
 by Richard R. Brooks](https://www.amazon.com/dp/1439860718/?coliid=I1NS89J88AYIQ6&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
@@ -621,6 +636,13 @@ by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Develop
 
 ## Low-Level programming
 
+[Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit Paperback – December 8, 1994
+by Michael Abrash ](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039 ) 
+
+[Michael Abrash's Graphics Programming Black Book (Special Edition) Paperback – July 1, 1997
+by Michael Abrash ](https://www.amazon.com/gp/product/1576101746/ref=dbs_a_def_rwt_bibl_vppi_i0 ) 
+
+
 [Programming from the Ground Up Jonathan Bartlett](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf ) 
 
 [(FREE) Assemblers And Loaders.](http://www.davidsalomon.name/assem.advertis/AssemAd.html )
@@ -642,6 +664,9 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 [Hacker's Delight](https://www.hackersdelight.org/)
 
 ## Software Engineering General
+
+[Mastering Regular Expressions, 3rd Edition By Jeffrey Friedl](http://shop.oreilly.com/product/9780596528126.do ) 
+
 
 [The Standard C Library 1st Edition
 by P.J. Plauger](https://www.amazon.com/Standard-C-Library-P-J-Plauger/dp/0131315099 ) 
@@ -1202,6 +1227,9 @@ Mathematics and computer science](https://cr.yp.to/djb.html )
 [linux command line reference](http://www.pixelbeat.org/cmdline.html )
 
 # Miscellaneous
+
+[The Tao-of-programming](http://canonical.org/~kragen/tao-of-programming.html ) 
+
 
 [My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg ) 
 
