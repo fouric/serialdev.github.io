@@ -19,6 +19,16 @@ Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a c
 
 [Constraint Programming Languages: Their Specification and Generation (Addison-Wesley series in computer science) Paperback – July 1, 1987](https://www.amazon.com/Constraint-Programming-Languages-Specification-Addison-Wesley/dp/0201062437 ) 
 
+[Programming Language
+Concepts
+for Software Developers
+Peter Sestoft
+IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf ) 
+
+``` F#
+F#
+```
+[Basics of Compiler Design - torbenm](http://hjemmesider.diku.dk/~torbenm/Basics/index.html ) 
 
 [(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
 
@@ -286,6 +296,10 @@ by Joseph JaJa (Author)](https://www.amazon.com/dp/0201548569/?coliid=IVD23PZ3AF
 
 [Parallel Algorithms (Chapman & Hall/CRC Numerical Analysis and Scientific Computing Series)](https://www.amazon.co.uk/dp/B005H6YSLE/?coliid=I1EWIBY1I4IZGY&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
+[Clever Algorithms: Nature-Inspired Programming Recipes
+By Jason Brownlee PhD](http://cleveralgorithms.com/nature-inspired/index.html ) 
+
+
 ### Practical
 
 [Learning Functional Data Structures and Algorithms](https://www.amazon.co.uk/dp/B01DWFRFUW/?coliid=I1KG2TG0E5KGIZ&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -520,6 +534,10 @@ by Christopher D. Manning](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1
 
 [Mining of Massive Datasets - Jeffrey Ullman](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1543695155&sr=1-1&keywords=mining+massive )
 
+[Database Design (MCGRAW HILL COMPUTER SCIENCE SERIES) Subsequent Edition
+by Gio Wiederhold  ](https://www.amazon.com/Database-Design-MCGRAW-COMPUTER-SCIENCE/dp/0070701326 ) 
+
+
 ## Theoretical CSs
 
 [Feynman Lectures On Computation (Frontiers in Physics) 1st Edition
@@ -557,6 +575,22 @@ by Zohar Manna ](https://www.amazon.com/dp/0486432386/?coliid=I2CECNXUR21RJF&col
 [The Design and Implementation of the FreeBSD Operating System](https://www.amazon.co.uk/dp/0321968972/?coliid=I2TNHODKMNZU5A&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Computer Systems: A Programmer's Perspective](https://www.amazon.co.uk/dp/1292101768/?coliid=I26ZBJJX04WO8B&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
+
+[Lions' Commentary on Unix 6th Edition
+by John Lions  ](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137 ) 
+
+
+## Distributed systems 
+
+[On Designing and Deploying Internet-Scale Services
+James Hamilton - Windows Live Services Platform](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/ ) 
+
+[The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/pubs.html#byz ) 
+
+[Paxos Made Simple
+Leslie Lamport](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.3093&rep=rep1&type=pdf ) 
+
+
 
 [Distributed Systems: Principles and Paradigms US Ed Edition
 by Andrew S. Tanenbaum  ](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7IDDGEN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
@@ -662,6 +696,10 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 [Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 )
 
 [Hacker's Delight](https://www.hackersdelight.org/)
+
+[Art of Assembly Language, 2nd Edition
+by Randall Hyde](https://nostarch.com/assembly2.htm ) 
+
 
 ## Software Engineering General
 
@@ -783,6 +821,17 @@ by Noson S. Yanofsky ](https://www.amazon.com/dp/0521879965/?coliid=I1RURA4TMPPO
 
 [The Architecture of Symbolic Computers (McGraw-Hill Series in Supercomputing and Parallel Processing)
 by Peter M. Kogge ](https://www.amazon.com/dp/0070355967/?coliid=I22X9HE8V9JD70&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+
+[Modern Microprocessors
+A 90-Minute Guide! - by Jason Robert Carey Patterson](http://www.lighterra.com/papers/modernmicroprocessors/ ) 
+
+[Inside the Machine
+An Illustrated Introduction to Microprocessors and Computer Architecture
+by Jon Stoke](https://nostarch.com/insidemachine.htm ) 
+
+[Computer Systems: A Programmer's Perspective (3rd Edition) 3rd Edition
+by Randal E. Bryant](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk ) 
+
 
 ## Python
 
@@ -931,6 +980,8 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 [The Humane Interface: New Directions for Designing Interactive Systems 
 by Jef Raskin  (Author) ](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376 ) 
 
+[ML algos viz](http://mldemos.epfl.ch/ ) 
+
 
 ## Windows & Linux dev
 
@@ -940,6 +991,18 @@ by Jef Raskin  (Author) ](https://www.amazon.com/Humane-Interface-Directions-Des
 by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 ## Miscellaneous
+
+[Ramblings in Realtime
+by
+Michael Abrash](https://www.bluesnews.com/abrash/contents.shtml ) 
+
+
+[Gödel, Escher, Bach: An Eternal Golden Braid Paperback – February 5, 1999
+by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 ) 
+
+[Scalable Internet Architectures 1st Edition
+by Theo Schlossnagle  (Author) ](https://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X ) 
+
 
 [Once Upon an Algorithm: How Stories Explain Computing (The MIT Press)](https://www.amazon.co.uk/dp/0262036630/?coliid=I3EGRAB64L118R&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
@@ -969,6 +1032,17 @@ by Craig Reynolds](http://www.red3d.com/cwr/boids/ )
 by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 # Papers
+
+## Theory 
+
+[(LIST) What papers should everyone read - stackcompsci](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read ) 
+
+
+
+[Shor's Quantum Factoring Algorithm
+Samuel J. Lomonaco Jr](https://arxiv.org/abs/quant-ph/0010034 ) 
+
+
 
 ## Lisp Schemes
 
@@ -1025,11 +1099,17 @@ Arjun Sreedharan](https://arjunsreedharan.org/post/148675821737/memory-allocator
 
 [OS Dev Tutorials](https://wiki.osdev.org/Tutorials )
 
+[OS lions book](http://warsus.github.io/lions-/ ) 
+
+
 [OpenGL- Building your own C application](http://www.opengl-tutorial.org/miscellaneous/building-your-own-c-application/ )
 
 [(FREE)(END-TO-END) IMPLEMENTING A VIRTUAL MACHINE IN C](https://felixangell.com/blog/implementing-a-virtual-machine-in-c/ )
 
+[(FREE)(END-TO-END) Writing your own Toy OS](https://linuxgazette.net/issue77/krishnakumar.html ) 
+
 [(FREE)(END-TO-END) Writing Your Own Toy Compiler Using Flex, Bison and LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+
 
 [(FREE)(END-TO-END) Writing an Emulator: Introduction](https://www.beardypig.com/2016/01/15/emulator-build-along-1/ )
 
@@ -1152,6 +1232,9 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 ## Other
 
+[Statically Recompiling NES Games into Native Executables with LLVM and Go](https://andrewkelley.me/post/jamulator.html ) 
+
+
 [Pico8 - Writing a retro 3D FPS engine from scratch](https://medium.com/@btco_code/writing-a-retro-3d-fps-engine-from-scratch-b2a9723e6b06 )
 
 [Tutorial: write a scalable, fault-tolerant, network chat server and client (Scala)](https://doc.akka.io/docs/akka/1.3.1/scala/tutorial-chat-server.html )
@@ -1216,6 +1299,12 @@ Mathematics and computer science](https://cr.yp.to/djb.html )
 
 [Lennart Poettering](http://0pointer.de/lennart/ ) 
 
+[Jamie Zawinsky](https://www.jwz.org/ ) 
+
+[Leslie Lamport](http://lamport.azurewebsites.net/pubs/pubs.html ) 
+
+[Torben Ægidius Mogensen
+](http://hjemmesider.diku.dk/~torbenm/ ) 
 
 ### Pubs
 
