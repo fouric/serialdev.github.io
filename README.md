@@ -94,6 +94,10 @@ discusses pragmatic ways for how you can increase confidence that (a) you implem
 
 [Yacc is dead - Matthew Might & David Darais](https://arxiv.org/pdf/1010.5023.pdf )
 
+[A Nanopass Framework for Compiler Education∗
+Dipanwita Sarkar](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf ) 
+
+
 [Parsing with Derivatives
 A Functional Pearl
 Matthew Might David Darais Daniel Spiewak](http://matt.might.net/papers/might2011derivatives.pdf )
@@ -381,6 +385,14 @@ Authors: Goyal, Palash](https://www.apress.com/gp/book/9781484236840 )
 
 [Deep Belief Nets in C++ and CUDA C: Volume 3
 Convolutional Nets](https://www.apress.com/gp/book/9781484237205 )
+
+[Matrix Computations (Johns Hopkins Studies in the Mathematical Sciences) fourth edition Edition
+by Gene H. Golub  (Author), Charles F. Van Loan  (Author)](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=dp_ob_title_bk ) 
+
+[Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach
+5th edition
+book cover, Vector Calculus John H. Hubbard and Barbara Burke Hubbard](http://matrixeditions.com/5thUnifiedApproach.html ) 
+
 
 ## Information theory and compression
 
@@ -670,12 +682,13 @@ by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Develop
 
 ## Low-Level programming
 
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html )
+
 [Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit Paperback – December 8, 1994
 by Michael Abrash ](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039 ) 
 
 [Michael Abrash's Graphics Programming Black Book (Special Edition) Paperback – July 1, 1997
 by Michael Abrash ](https://www.amazon.com/gp/product/1576101746/ref=dbs_a_def_rwt_bibl_vppi_i0 ) 
-
 
 [Programming from the Ground Up Jonathan Bartlett](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf ) 
 
@@ -702,6 +715,14 @@ by Randall Hyde](https://nostarch.com/assembly2.htm )
 
 
 ## Software Engineering General
+
+
+[The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html ) 
+
+
+[C: A Reference Manual, 5th Edition 5th Edition
+by Samuel P. Harbison  (Author), Guy L. Steele Jr. (Author)](https://www.amazon.com/Reference-Manual-Samuel-P-Harbison/dp/013089592X ) 
+
 
 [Mastering Regular Expressions, 3rd Edition By Jeffrey Friedl](http://shop.oreilly.com/product/9780596528126.do ) 
 
@@ -887,6 +908,9 @@ DRAFT August 26, 2018](http://vmls-book.stanford.edu/vmls-julia-companion.pdf )
 
 [Turtle Geometry: The Computer as a Medium for Exploring Mathematics (Artificial Intelligence) Paperback – July 9, 1986
 by Harold Abelson  (Author), Andrea diSessa (Author)](https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375 ) 
+
+[unny Little Calculus Text.](https://www.math.upenn.edu/~ghrist/FLCT/ ) 
+
 
 
 [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
@@ -1292,8 +1316,15 @@ Ruins of forgotten empires: APL languages](https://scottlocklin.wordpress.com/20
 
 ## People Pages 
 
+[Nils M Holm's Bits and Pieces
+](http://t3x.org/index.html ) 
+
+
 [D. J. Bernstein
 Mathematics and computer science](https://cr.yp.to/djb.html ) 
+
+[Monica S. Lam](https://suif.stanford.edu/~lam/ ) 
+
 
 [Fabrice Bellard](https://bellard.org/ ) 
 
@@ -1303,8 +1334,31 @@ Mathematics and computer science](https://cr.yp.to/djb.html )
 
 [Leslie Lamport](http://lamport.azurewebsites.net/pubs/pubs.html ) 
 
-[Torben Ægidius Mogensen
-](http://hjemmesider.diku.dk/~torbenm/ ) 
+[Torben Ægidius Mogensen](http://hjemmesider.diku.dk/~torbenm/ ) 
+
+[John D Cook - Solving hard problems ](https://www.johndcook.com/blog/ ) 
+
+[James Hague - programming in the
+twenty-first century](https://prog21.dadgum.com/) 
+
+[Andy Wingo](http://wingolog.org/about/ ) 
+
+[Steve Hanov](http://stevehanov.ca/blog/ ) 
+
+
+[Peter Krumins](http://www.catonmat.net/ ) 
+
+[ Leah Neukirchen](http://chneukirchen.org/trivium/intro ) 
+
+
+[Many But Finite
+Tech and science for curious people.](https://manybutfinite.com/ ) 
+
+[the left fold/ issues
+](https://www.foldl.org/issues/ ) 
+
+[lambda-the-ultimate](http://lambda-the-ultimate.org/ ) 
+
 
 ### Pubs
 
