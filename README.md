@@ -17,18 +17,18 @@ Copyright © 2003-07, Shriram Krishnamurthi](http://cs.brown.edu/~sk/Publication
 Programming
 Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](URL )
 
-[Constraint Programming Languages: Their Specification and Generation (Addison-Wesley series in computer science) Paperback – July 1, 1987](https://www.amazon.com/Constraint-Programming-Languages-Specification-Addison-Wesley/dp/0201062437 ) 
+[Constraint Programming Languages: Their Specification and Generation (Addison-Wesley series in computer science) Paperback – July 1, 1987](https://www.amazon.com/Constraint-Programming-Languages-Specification-Addison-Wesley/dp/0201062437 )
 
 [Programming Language
 Concepts
 for Software Developers
 Peter Sestoft
-IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf ) 
+IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf )
 
 ``` F#
 F#
 ```
-[Basics of Compiler Design - torbenm](http://hjemmesider.diku.dk/~torbenm/Basics/index.html ) 
+[Basics of Compiler Design - torbenm](http://hjemmesider.diku.dk/~torbenm/Basics/index.html )
 
 [(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
 
@@ -95,7 +95,7 @@ discusses pragmatic ways for how you can increase confidence that (a) you implem
 [Yacc is dead - Matthew Might & David Darais](https://arxiv.org/pdf/1010.5023.pdf )
 
 [A Nanopass Framework for Compiler Education∗
-Dipanwita Sarkar](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf ) 
+Dipanwita Sarkar](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf )
 
 
 [Parsing with Derivatives
@@ -136,6 +136,11 @@ by Bob Morgan](https://www.amazon.com/Building-Optimizing-Compiler-Bob-Morgan/dp
 [Parsing Techniques: A Practical Guide (Monographs in Computer Science) 2nd ed. 2008 Edition
 by Dick Grune  (Author), Ceriel J.H. Jacobs (Contributor)](https://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer/dp/1441919015)
 
+[Compilers
+Coursebook
+Mike Spivey](http://spivey.oriel.ox.ac.uk/wiki2/files/compilers/book.pdf )
+
+
 [Modern Compiler Design - Second Edition
 Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, and Koen G. Langendoen](https://dickgrune.com/Books/MCD_2nd_Edition/)
 
@@ -144,13 +149,13 @@ Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, and Koen G. Lan
 ```
 good Computer Architecture books cover a quite a bit about the basic optimizations of a modern compiler.
 ```
-[RABBIT: A Compiler for SCHEME Author: Steele, Guy Lewis, Jr.](https://dspace.mit.edu/handle/1721.1/6913 ) 
+[RABBIT: A Compiler for SCHEME Author: Steele, Guy Lewis, Jr.](https://dspace.mit.edu/handle/1721.1/6913 )
 
 [ORBIT: An Optimizing Compiler for Scheme
-David Kranz*, ](http://people.csail.mit.edu/riastradh/t/adams86orbit.pdf ) 
+David Kranz*, ](http://people.csail.mit.edu/riastradh/t/adams86orbit.pdf )
 
 [Threaded Interpretive Languages: Their Design and Implementation 1St Edition Edition
-by R. G. Loeliger ](https://www.amazon.com/Threaded-Interpretive-Languages-Design-Implementation/dp/007038360X ) 
+by R. G. Loeliger ](https://www.amazon.com/Threaded-Interpretive-Languages-Design-Implementation/dp/007038360X )
 
 
 ## Heterogeneous Programming
@@ -173,7 +178,7 @@ by David B. Kirk ](https://www.amazon.com/dp/0128119861/?coliid=IVXLYK0PHPIMU&co
 by Tolga Soyata](https://www.amazon.co.uk/dp/1498750753/?coliid=I1AVH5U89G43FO&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
 [How to Write Parallel Programs: A First Course Hardcover – October 29, 1990
-by Nicholas Carriero  (Author), David Gelernter (Author)](https://www.amazon.com/How-Write-Parallel-Programs-Course/dp/026203171X ) 
+by Nicholas Carriero  (Author), David Gelernter (Author)](https://www.amazon.com/How-Write-Parallel-Programs-Course/dp/026203171X )
 
 
 ## Softer-skills & Historical
@@ -183,23 +188,23 @@ by Richard P. Gabriel ](https://www.amazon.com/gp/product/0195121236/ref=dbs_a_d
 
 [Beautiful Code
 Leading Programmers Explain How They Think
-By Andy Oram, Greg Wilson](http://web.archive.org/web/20130517075141/http://shop.oreilly.com/product/9780596510046.do ) 
+By Andy Oram, Greg Wilson](http://web.archive.org/web/20130517075141/http://shop.oreilly.com/product/9780596510046.do )
 
-[The Soul of a New Machine 
-by Tracy Kidder](https://www.amazon.com/Soul-New-Machine-Modern-Library/dp/0679602615/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= ) 
+[The Soul of a New Machine
+by Tracy Kidder](https://www.amazon.com/Soul-New-Machine-Modern-Library/dp/0679602615/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= )
 
 [Out of the Inner Circle: A Hacker's Guide to Computer Security Paperback – April 1, 1985
-by Bill "the Cracker" Landreth](https://www.amazon.com/Out-Inner-Circle-Computer-Security/dp/0914845365 ) 
+by Bill "the Cracker" Landreth](https://www.amazon.com/Out-Inner-Circle-Computer-Security/dp/0914845365 )
 
 [The Connection Machine (Artificial Intelligence) New edition Edition
-by W. Danny Hillis (Author)](https://www.amazon.com/Connection-Machine-Artificial-Intelligence/dp/0262580977 ) 
+by W. Danny Hillis (Author)](https://www.amazon.com/Connection-Machine-Artificial-Intelligence/dp/0262580977 )
 
 
 [Innovation Happens Elsewhere: Open Source as Business Strategy Hardcover – April 25, 2005
 by Ron Goldman  (Author), Richard P. Gabriel  ](https://www.amazon.com/dp/1558608893/?coliid=I3CB8FK6F8ZRSK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [A Discipline of Programming 59683rd Edition
-by Edsger W. Dijkstra (Author)](https://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X ) 
+by Edsger W. Dijkstra (Author)](https://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X )
 
 
 [The Untold History of Japanese Game Developers: Gold Paperback – August 4, 2014
@@ -238,7 +243,7 @@ by Jessica Livingston ](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL3
 
 ## Algorithms & Data Structures
 
-[The Stony Brook Algorithm Repository - Steven Skiena](http://algorist.com/algorist.html ) 
+[The Stony Brook Algorithm Repository - Steven Skiena](http://algorist.com/algorist.html )
 
 
 [Genetic Algorithms with Python - Clinton Sheppard](https://leanpub.com/genetic_algorithms_with_python )
@@ -301,7 +306,7 @@ by Joseph JaJa (Author)](https://www.amazon.com/dp/0201548569/?coliid=IVD23PZ3AF
 [Parallel Algorithms (Chapman & Hall/CRC Numerical Analysis and Scientific Computing Series)](https://www.amazon.co.uk/dp/B005H6YSLE/?coliid=I1EWIBY1I4IZGY&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Clever Algorithms: Nature-Inspired Programming Recipes
-By Jason Brownlee PhD](http://cleveralgorithms.com/nature-inspired/index.html ) 
+By Jason Brownlee PhD](http://cleveralgorithms.com/nature-inspired/index.html )
 
 
 ### Practical
@@ -387,11 +392,11 @@ Authors: Goyal, Palash](https://www.apress.com/gp/book/9781484236840 )
 Convolutional Nets](https://www.apress.com/gp/book/9781484237205 )
 
 [Matrix Computations (Johns Hopkins Studies in the Mathematical Sciences) fourth edition Edition
-by Gene H. Golub  (Author), Charles F. Van Loan  (Author)](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=dp_ob_title_bk ) 
+by Gene H. Golub  (Author), Charles F. Van Loan  (Author)](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=dp_ob_title_bk )
 
 [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach
 5th edition
-book cover, Vector Calculus John H. Hubbard and Barbara Burke Hubbard](http://matrixeditions.com/5thUnifiedApproach.html ) 
+book cover, Vector Calculus John H. Hubbard and Barbara Burke Hubbard](http://matrixeditions.com/5thUnifiedApproach.html )
 
 
 ## Information theory and compression
@@ -526,7 +531,7 @@ by Eugene A. Durenard  ](https://www.amazon.com/dp/1118129857/?coliid=I1Z2HWBB15
 ## Information Retrieval and DB Systems
 
 [Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition (The Morgan Kaufmann Series in Multimedia Information and Systems) 1st Edition
-by Ian H. Witten  (Author), Alistair Moffat (Author), Timothy C. Bell  (Author)](https://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703 ) 
+by Ian H. Witten  (Author), Alistair Moffat (Author), Timothy C. Bell  (Author)](https://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703 )
 
 
 [Notes on Music Information Retrieval](https://musicinformationretrieval.com/ )
@@ -547,13 +552,13 @@ by Christopher D. Manning](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1
 [Mining of Massive Datasets - Jeffrey Ullman](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1543695155&sr=1-1&keywords=mining+massive )
 
 [Database Design (MCGRAW HILL COMPUTER SCIENCE SERIES) Subsequent Edition
-by Gio Wiederhold  ](https://www.amazon.com/Database-Design-MCGRAW-COMPUTER-SCIENCE/dp/0070701326 ) 
+by Gio Wiederhold  ](https://www.amazon.com/Database-Design-MCGRAW-COMPUTER-SCIENCE/dp/0070701326 )
 
 
 ## Theoretical CSs
 
 [Feynman Lectures On Computation (Frontiers in Physics) 1st Edition
-by Richard P. Feynman  (Author), Anthony Hey (Author)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967 ) 
+by Richard P. Feynman  (Author), Anthony Hey (Author)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967 )
 
 [Computational Complexity Paperback – 30 Nov 1993
 by Christos H. Papadimitriou](https://www.amazon.co.uk/dp/0201530821/?coliid=I2PF8FOD5M36G7&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
@@ -589,18 +594,18 @@ by Zohar Manna ](https://www.amazon.com/dp/0486432386/?coliid=I2CECNXUR21RJF&col
 [Computer Systems: A Programmer's Perspective](https://www.amazon.co.uk/dp/1292101768/?coliid=I26ZBJJX04WO8B&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Lions' Commentary on Unix 6th Edition
-by John Lions  ](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137 ) 
+by John Lions  ](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137 )
 
 
-## Distributed systems 
+## Distributed systems
 
 [On Designing and Deploying Internet-Scale Services
-James Hamilton - Windows Live Services Platform](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/ ) 
+James Hamilton - Windows Live Services Platform](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/ )
 
-[The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/pubs.html#byz ) 
+[The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/pubs.html#byz )
 
 [Paxos Made Simple
-Leslie Lamport](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.3093&rep=rep1&type=pdf ) 
+Leslie Lamport](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.3093&rep=rep1&type=pdf )
 
 
 
@@ -618,7 +623,7 @@ by Andrew S. Tanenbaum  ](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7I
           |   |        By The Circle of Lost Hackers       |   |
           |   |                                            |   |
           |   |              Duvel@phrack.org              |   |
-            ____________________________________________________](http://web.archive.org/web/20101128205720/http://www.phrack.org/issues.html?issue=64&id=4&page=2 ) 
+            ____________________________________________________](http://web.archive.org/web/20101128205720/http://www.phrack.org/issues.html?issue=64&id=4&page=2 )
 
 
 [Introduction to Computer and Network Security: Navigating Shades of Gray 1st Edition
@@ -685,12 +690,12 @@ by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Develop
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html )
 
 [Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit Paperback – December 8, 1994
-by Michael Abrash ](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039 ) 
+by Michael Abrash ](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039 )
 
 [Michael Abrash's Graphics Programming Black Book (Special Edition) Paperback – July 1, 1997
-by Michael Abrash ](https://www.amazon.com/gp/product/1576101746/ref=dbs_a_def_rwt_bibl_vppi_i0 ) 
+by Michael Abrash ](https://www.amazon.com/gp/product/1576101746/ref=dbs_a_def_rwt_bibl_vppi_i0 )
 
-[Programming from the Ground Up Jonathan Bartlett](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf ) 
+[Programming from the Ground Up Jonathan Bartlett](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf )
 
 [(FREE) Assemblers And Loaders.](http://www.davidsalomon.name/assem.advertis/AssemAd.html )
 
@@ -711,34 +716,34 @@ Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
 [Hacker's Delight](https://www.hackersdelight.org/)
 
 [Art of Assembly Language, 2nd Edition
-by Randall Hyde](https://nostarch.com/assembly2.htm ) 
+by Randall Hyde](https://nostarch.com/assembly2.htm )
 
 
 ## Software Engineering General
 
 
-[The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html ) 
+[The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html )
 
 
 [C: A Reference Manual, 5th Edition 5th Edition
-by Samuel P. Harbison  (Author), Guy L. Steele Jr. (Author)](https://www.amazon.com/Reference-Manual-Samuel-P-Harbison/dp/013089592X ) 
+by Samuel P. Harbison  (Author), Guy L. Steele Jr. (Author)](https://www.amazon.com/Reference-Manual-Samuel-P-Harbison/dp/013089592X )
 
 
-[Mastering Regular Expressions, 3rd Edition By Jeffrey Friedl](http://shop.oreilly.com/product/9780596528126.do ) 
+[Mastering Regular Expressions, 3rd Edition By Jeffrey Friedl](http://shop.oreilly.com/product/9780596528126.do )
 
 
 [The Standard C Library 1st Edition
-by P.J. Plauger](https://www.amazon.com/Standard-C-Library-P-J-Plauger/dp/0131315099 ) 
+by P.J. Plauger](https://www.amazon.com/Standard-C-Library-P-J-Plauger/dp/0131315099 )
 
 [The Practice of Programming (Addison-Wesley Professional Computing Series) 1st Edition
-by Brian W. Kernighan  (Author), Rob Pike (Author)](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X ) 
+by Brian W. Kernighan  (Author), Rob Pike (Author)](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X )
 
 
 [The AWK Programming Language 1st Edition
-by Alfred V. Aho  (Author), Brian W. Kernighan  (Author), Peter J. Weinberger  (Author)](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X ) 
+by Alfred V. Aho  (Author), Brian W. Kernighan  (Author), Peter J. Weinberger  (Author)](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X )
 
 [Abstraction and Specification in Program Development (MIT Electrical Engineering and Computer Science) Hardcover – March 31, 1986
-by Barbara Liskov (Author), John V. Guttag (Author)](https://www.amazon.com/Abstraction-Specification-Development-Electrical-Engineering/dp/0262121123 ) 
+by Barbara Liskov (Author), John V. Guttag (Author)](https://www.amazon.com/Abstraction-Specification-Development-Electrical-Engineering/dp/0262121123 )
 
 
 [Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi](https://www.info.ucl.ac.be/~pvr/book.html)
@@ -796,7 +801,7 @@ by Matthew Wilson ](https://www.amazon.co.uk/dp/0321228774/?coliid=I2V643WPLQQHM
 ## Lisps & Scheme
 
 [Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) second edition Edition
-by Harold Abelson  (Author), Gerald Jay Sussman  (Author), Julie Sussman  (Contributor)](https://www.amazon.com/dp/0262510871/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=aeebc627-7ecf-4129-8c0c-1d437f271eca&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0262510375&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=W047BHMTVN9ZA5BSX7ZP&pf_rd_r=W047BHMTVN9ZA5BSX7ZP&pf_rd_p=aeebc627-7ecf-4129-8c0c-1d437f271eca ) 
+by Harold Abelson  (Author), Gerald Jay Sussman  (Author), Julie Sussman  (Contributor)](https://www.amazon.com/dp/0262510871/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=aeebc627-7ecf-4129-8c0c-1d437f271eca&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0262510375&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=W047BHMTVN9ZA5BSX7ZP&pf_rd_r=W047BHMTVN9ZA5BSX7ZP&pf_rd_p=aeebc627-7ecf-4129-8c0c-1d437f271eca )
 
 
 [Lisp (3rd Edition) 3rd Edition
@@ -844,14 +849,14 @@ by Noson S. Yanofsky ](https://www.amazon.com/dp/0521879965/?coliid=I1RURA4TMPPO
 by Peter M. Kogge ](https://www.amazon.com/dp/0070355967/?coliid=I22X9HE8V9JD70&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 [Modern Microprocessors
-A 90-Minute Guide! - by Jason Robert Carey Patterson](http://www.lighterra.com/papers/modernmicroprocessors/ ) 
+A 90-Minute Guide! - by Jason Robert Carey Patterson](http://www.lighterra.com/papers/modernmicroprocessors/ )
 
 [Inside the Machine
 An Illustrated Introduction to Microprocessors and Computer Architecture
-by Jon Stoke](https://nostarch.com/insidemachine.htm ) 
+by Jon Stoke](https://nostarch.com/insidemachine.htm )
 
 [Computer Systems: A Programmer's Perspective (3rd Edition) 3rd Edition
-by Randal E. Bryant](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk ) 
+by Randal E. Bryant](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk )
 
 
 ## Python
@@ -904,17 +909,17 @@ by Joachim von zur Gathen ](https://www.amazon.com/dp/1107039037/?coliid=I3E5RLF
 Vectors, Matrices, and Least Squares
 Julia Language Companion
 Stephen Boyd and Lieven Vandenberghe
-DRAFT August 26, 2018](http://vmls-book.stanford.edu/vmls-julia-companion.pdf ) 
+DRAFT August 26, 2018](http://vmls-book.stanford.edu/vmls-julia-companion.pdf )
 
 [Turtle Geometry: The Computer as a Medium for Exploring Mathematics (Artificial Intelligence) Paperback – July 9, 1986
-by Harold Abelson  (Author), Andrea diSessa (Author)](https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375 ) 
+by Harold Abelson  (Author), Andrea diSessa (Author)](https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375 )
 
-[unny Little Calculus Text.](https://www.math.upenn.edu/~ghrist/FLCT/ ) 
+[unny Little Calculus Text.](https://www.math.upenn.edu/~ghrist/FLCT/ )
 
 
 
 [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
-Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/ ) 
+Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/ )
 
 [A Programmer's Introduction to Mathematics - Jeremy Kun](https://pimbook.org/ )
 
@@ -1001,10 +1006,10 @@ by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUI
 
 [20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
 
-[The Humane Interface: New Directions for Designing Interactive Systems 
-by Jef Raskin  (Author) ](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376 ) 
+[The Humane Interface: New Directions for Designing Interactive Systems
+by Jef Raskin  (Author) ](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376 )
 
-[ML algos viz](http://mldemos.epfl.ch/ ) 
+[ML algos viz](http://mldemos.epfl.ch/ )
 
 
 ## Windows & Linux dev
@@ -1018,14 +1023,14 @@ by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC
 
 [Ramblings in Realtime
 by
-Michael Abrash](https://www.bluesnews.com/abrash/contents.shtml ) 
+Michael Abrash](https://www.bluesnews.com/abrash/contents.shtml )
 
 
 [Gödel, Escher, Bach: An Eternal Golden Braid Paperback – February 5, 1999
-by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 ) 
+by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 )
 
 [Scalable Internet Architectures 1st Edition
-by Theo Schlossnagle  (Author) ](https://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X ) 
+by Theo Schlossnagle  (Author) ](https://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X )
 
 
 [Once Upon an Algorithm: How Stories Explain Computing (The MIT Press)](https://www.amazon.co.uk/dp/0262036630/?coliid=I3EGRAB64L118R&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -1057,14 +1062,14 @@ by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&
 
 # Papers
 
-## Theory 
+## Theory
 
-[(LIST) What papers should everyone read - stackcompsci](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read ) 
+[(LIST) What papers should everyone read - stackcompsci](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read )
 
 
 
 [Shor's Quantum Factoring Algorithm
-Samuel J. Lomonaco Jr](https://arxiv.org/abs/quant-ph/0010034 ) 
+Samuel J. Lomonaco Jr](https://arxiv.org/abs/quant-ph/0010034 )
 
 
 
@@ -1073,7 +1078,7 @@ Samuel J. Lomonaco Jr](https://arxiv.org/abs/quant-ph/0010034 )
 [An Incremental Approach to Compiler Construction
 Abdulaziz Ghuloum](http://web.archive.org/web/20100615153619/http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf )
 
-[The art of the interpreter - Guy Steele & Gerald Sussman](http://web.archive.org/web/20170706132130/ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-453.pdf ) 
+[The art of the interpreter - Guy Steele & Gerald Sussman](http://web.archive.org/web/20170706132130/ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-453.pdf )
 
 
 # Projects
@@ -1096,9 +1101,9 @@ Abdulaziz Ghuloum](http://web.archive.org/web/20100615153619/http://scheme2006.c
 
 [(FREE)(END-TO-END)How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ )
 
-[(FREE)(END-TO-END) Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/ ) 
+[(FREE)(END-TO-END) Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/ )
 
-[Computed goto for efficient dispatch tables](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables ) 
+[Computed goto for efficient dispatch tables](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables )
 
 [(FREE)(END-TO-END) Kernels 101 –
 Let’s write a Kernel
@@ -1123,14 +1128,14 @@ Arjun Sreedharan](https://arjunsreedharan.org/post/148675821737/memory-allocator
 
 [OS Dev Tutorials](https://wiki.osdev.org/Tutorials )
 
-[OS lions book](http://warsus.github.io/lions-/ ) 
+[OS lions book](http://warsus.github.io/lions-/ )
 
 
 [OpenGL- Building your own C application](http://www.opengl-tutorial.org/miscellaneous/building-your-own-c-application/ )
 
 [(FREE)(END-TO-END) IMPLEMENTING A VIRTUAL MACHINE IN C](https://felixangell.com/blog/implementing-a-virtual-machine-in-c/ )
 
-[(FREE)(END-TO-END) Writing your own Toy OS](https://linuxgazette.net/issue77/krishnakumar.html ) 
+[(FREE)(END-TO-END) Writing your own Toy OS](https://linuxgazette.net/issue77/krishnakumar.html )
 
 [(FREE)(END-TO-END) Writing Your Own Toy Compiler Using Flex, Bison and LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 
@@ -1228,7 +1233,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 ## DB
 
-[(StackOverflow)Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers/ ) 
+[(StackOverflow)Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers/ )
 
 
 ## Python
@@ -1247,7 +1252,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [Fast and Easy Levenshtein distance using a Trie](http://stevehanov.ca/blog/index.php?id=114 )
 
-[The Flask Mega-Tutorial Part XIX: Deployment on Docker Containers - April 10 2018](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers) 
+[The Flask Mega-Tutorial Part XIX: Deployment on Docker Containers - April 10 2018](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers)
 
 
 ## Haskell
@@ -1256,7 +1261,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 ## Other
 
-[Statically Recompiling NES Games into Native Executables with LLVM and Go](https://andrewkelley.me/post/jamulator.html ) 
+[Statically Recompiling NES Games into Native Executables with LLVM and Go](https://andrewkelley.me/post/jamulator.html )
 
 
 [Pico8 - Writing a retro 3D FPS engine from scratch](https://medium.com/@btco_code/writing-a-retro-3d-fps-engine-from-scratch-b2a9723e6b06 )
@@ -1278,7 +1283,7 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 [Why you should learn just a little Awk:
 ](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html )
 
-## Algos 
+## Algos
 
 [Substring search algorithm online algo ](http://volnitsky.com/project/str_search/ )
 
@@ -1294,7 +1299,7 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [Paul Khuong - Some Lisp](https://pvk.ca/ )
 
-[Fabian Giesen](https://fgiesen.wordpress.com/ ) 
+[Fabian Giesen](https://fgiesen.wordpress.com/ )
 
 [Ulrich Drepper - Redhat](https://akkadia.org/drepper/ )
 
@@ -1306,63 +1311,68 @@ Robert L Read](http://web.archive.org/web/20070209143008/http://samizdat.mines.e
 
 [research reynolds](http://www.red3d.com/research.html )
 
-[Are there any famous one-man-army programmers?](https://softwareengineering.stackexchange.com/questions/47197/are-there-any-famous-one-man-army-programmers ) 
+[Are there any famous one-man-army programmers?](https://softwareengineering.stackexchange.com/questions/47197/are-there-any-famous-one-man-army-programmers )
 
-[David Bacon (LINKS)](http://wry.me/~darius/personal/books.html ) 
+[David Bacon (LINKS)](http://wry.me/~darius/personal/books.html )
 
 [Locklin on science
-Ruins of forgotten empires: APL languages](https://scottlocklin.wordpress.com/2013/07/28/ruins-of-forgotten-empires-apl-languages/ ) 
+Ruins of forgotten empires: APL languages](https://scottlocklin.wordpress.com/2013/07/28/ruins-of-forgotten-empires-apl-languages/ )
 
 
-## People Pages 
+## People Pages
 
 [Nils M Holm's Bits and Pieces
-](http://t3x.org/index.html ) 
+](http://t3x.org/index.html )
 
 
 [D. J. Bernstein
-Mathematics and computer science](https://cr.yp.to/djb.html ) 
+Mathematics and computer science](https://cr.yp.to/djb.html )
 
-[Monica S. Lam](https://suif.stanford.edu/~lam/ ) 
+[Monica S. Lam](https://suif.stanford.edu/~lam/ )
 
 
-[Fabrice Bellard](https://bellard.org/ ) 
+[Fabrice Bellard](https://bellard.org/ )
 
-[Lennart Poettering](http://0pointer.de/lennart/ ) 
+[Lennart Poettering](http://0pointer.de/lennart/ )
 
-[Jamie Zawinsky](https://www.jwz.org/ ) 
+[Jamie Zawinsky](https://www.jwz.org/ )
 
-[Leslie Lamport](http://lamport.azurewebsites.net/pubs/pubs.html ) 
+[Leslie Lamport](http://lamport.azurewebsites.net/pubs/pubs.html )
 
-[Torben Ægidius Mogensen](http://hjemmesider.diku.dk/~torbenm/ ) 
+[Torben Ægidius Mogensen](http://hjemmesider.diku.dk/~torbenm/ )
 
-[John D Cook - Solving hard problems ](https://www.johndcook.com/blog/ ) 
+[John D Cook - Solving hard problems ](https://www.johndcook.com/blog/ )
 
 [James Hague - programming in the
-twenty-first century](https://prog21.dadgum.com/) 
+twenty-first century](https://prog21.dadgum.com/)
 
-[Andy Wingo](http://wingolog.org/about/ ) 
+[Andy Wingo](http://wingolog.org/about/ )
 
-[Steve Hanov](http://stevehanov.ca/blog/ ) 
+[Steve Hanov](http://stevehanov.ca/blog/ )
 
 
-[Peter Krumins](http://www.catonmat.net/ ) 
+[Peter Krumins](http://www.catonmat.net/ )
 
-[ Leah Neukirchen](http://chneukirchen.org/trivium/intro ) 
+[ Leah Neukirchen](http://chneukirchen.org/trivium/intro )
 
+[Pascal Bourguignon's Sofware](https://www.informatimago.com/ )
+
+``` Scheme
+
+```
 
 [Many But Finite
-Tech and science for curious people.](https://manybutfinite.com/ ) 
+Tech and science for curious people.](https://manybutfinite.com/ )
 
 [the left fold/ issues
-](https://www.foldl.org/issues/ ) 
+](https://www.foldl.org/issues/ )
 
-[lambda-the-ultimate](http://lambda-the-ultimate.org/ ) 
+[lambda-the-ultimate](http://lambda-the-ultimate.org/ )
 
 
 ### Pubs
 
-[Peter Deutsch](https://dblp.org/pers/hd/d/Deutsch:L=_Peter ) 
+[Peter Deutsch](https://dblp.org/pers/hd/d/Deutsch:L=_Peter )
 
 
 # Cheatsheets
@@ -1371,16 +1381,16 @@ Tech and science for curious people.](https://manybutfinite.com/ )
 
 # Miscellaneous
 
-[The Tao-of-programming](http://canonical.org/~kragen/tao-of-programming.html ) 
+[The Tao-of-programming](http://canonical.org/~kragen/tao-of-programming.html )
 
 
-[My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg ) 
+[My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg )
 
 [The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt )
 
 [In Praise of APL:
 A Language for Lyrical Programming
-Professor Alan J. Perlis](http://www.jsoftware.com/papers/perlis77.htm ) 
+Professor Alan J. Perlis](http://www.jsoftware.com/papers/perlis77.htm )
 
 
 # Extras  Non  link
