@@ -18,17 +18,9 @@
 
 ## HFT & Finance
 
-[Advanced Quantitative Finance with C++ Paperback – 25 Jun 2014
-by Alonso Peña](https://www.amazon.co.uk/dp/1782167226/?coliid=I8BJLU8SV36A&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Mastering Python for Finance Paperback – 29 Apr 2015
-by James Ma Weiming](https://www.amazon.co.uk/Derivatives-Analytics-Python-Simulation-Calibration/dp/1119037999/ref=pd_bxgy_img_3?_encoding=UTF8&pd_rd_i=1119037999&pd_rd_r=99b66791-f55a-11e8-84fc-9f9314536756&pd_rd_w=SpLIl&pd_rd_wg=67XNl&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=EV7XBRBE72WTPVZS0ZXY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=EV7XBRBE72WTPVZS0ZXY )
 
-[Advances in Financial Machine Learning Hardcover – February 21, 2018
-by Marcos Lopez de Prado ](https://www.amazon.com/dp/1119482089/?coliid=I1C6GFDW77BWWE&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Professional Automated Trading: Theory and Practice 1st Edition
-by Eugene A. Durenard  ](https://www.amazon.com/dp/1118129857/?coliid=I1Z2HWBB15Q2DP&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 ## Information Retrieval and DB Systems
 
