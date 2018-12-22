@@ -72,6 +72,36 @@
 
 ))
 
+
+(setq soft-skills-list '(
+
+("[Patterns of Software: Tales from the Software Community](https://www.amazon.com/gp/product/0195121236/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0 )" "Richard P. Gabriel " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Beautiful Code Leading Programmers Explain How They Think](http://web.archive.org/web/20130517075141/http://shop.oreilly.com/product/9780596510046.do )" "Andy Oram, Greg Wilson" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Modern-Library/dp/0679602615/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= )" "Tracy Kidder" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Out of the Inner Circle: A Hacker's Guide to Computer Security Paperback – April 1, 1985](https://www.amazon.com/Out-Inner-Circle-Computer-Security/dp/0914845365 )" "Bill 'the Cracker' Landreth" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Connection Machine (Artificial Intelligence) New edition Edition  ](https://www.amazon.com/Connection-Machine-Artificial-Intelligence/dp/0262580977 )" "W. Danny Hillis (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Innovation Happens Elsewhere: Open Source as Business Strategy Hardcover – April 25, 2005](https://www.amazon.com/dp/1558608893/?coliid=I3CB8FK6F8ZRSK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Ron Goldman  (Author), Richard P. Gabriel  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Discipline of Programming 59683rd Edition](https://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X )" "Edsger W. Dijkstra (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Untold History of Japanese Game Developers: Gold Paperback – August 4, 2014](https://www.amazon.com/dp/0992926025/?coliid=I3IU7TOTVCXDL1&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "S.M.G Szczepaniak " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[THE LEGEND OF JOHN VON NEUMANN P. R. HALMOS](https://news.ycombinator.com/item?id=1866305 )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Conversation with Arthur Whitney A few well-chosen words about programming languages from a long-time designer](https://queue.acm.org/detail.cfm?id=1531242)" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Data Scientists at Work 1st ed. Edition](https://www.amazon.com/dp/1430265981/?coliid=I2VVQ08F3KOO7I&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Sebastian Gutierrez " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Idea Factory: Bell Labs and the Great Age of American Innovation Paperback – February 26, 2013](https://www.amazon.com/dp/0143122797/?coliid=I18TMVPTPYS2ZU&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Jon Gertner " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Go To The Story Of The Math Majors, Bridge Players, Engineers, Chess Wizards, Scientists And Iconoclasts Who Were The Hero Programmers Of The Software Revolution Hardcover – October 16, 2001](https://www.amazon.com/dp/0465042252/?coliid=I7EXE0IE1X1Z4&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Steve Lohr " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry (Tempus) Paperback – July 1, 1989](https://www.amazon.com/dp/1556152116/?coliid=I2EGJKWZ6T0BH7&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Susan Lammers " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Best Software Writing I: Selected and Introduced by Joel Spolsky 1st Corrected ed., Corr. 2nd printing Edition by Avram Joel Spolsky ](https://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1590595009&pd_rd_r=0c708566-f5b0-11e8-8ad5-2179f688e965&pd_rd_w=u3Rc8&pd_rd_wg=WtN14&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=29350PKJA79PSHP3R0ME&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=29350PKJA79PSHP3R0ME )" "Joel Spolsky" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Theory in Practice (O'Reilly)) 1st Edition](https://www.amazon.com/dp/0596515170/?coliid=I3E0HJXQXCUY9X&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Federico Biancuzzi" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[97 Things Every Programmer Should Know: Collective Wisdom from the Experts 1st Edition](https://www.amazon.com/dp/0596809484/?coliid=I2BJRVFMZBVZYW&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Kevlin Henney " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Founders at Work: Stories of Startups' Early Days Kindle Edition](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL31SN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Jessica Livingston " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+))
+
+;; (setq soft-skills-list '(
+
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+;; ))
+
+
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 
