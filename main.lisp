@@ -14,29 +14,10 @@
 (setq entry-list '(
 ("[Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler)" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")
 		   
-("[Programming Languages: Application and Interpretation Copyright © 2003-07](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ )" "Shriram Krishnamurthi" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("[Essentials of Programming Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](https://karczmarczuk.users.greyc.fr/TEACH/Doc/EssProgLan.pdf)" "Daniel P. Friedman & Mitchell Wand" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
+("[Programming Languages: Application and Interpretation Copyright © 2003-07](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ )" "Shriram Krishnamurthi" "compilers" "✔" "✖" "✔" "✔" "✖" "✔" "f✔")		   
+("[Essentials of Programming Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](https://karczmarczuk.users.greyc.fr/TEACH/Doc/EssProgLan.pdf)" "Daniel P. Friedman & Mitchell Wand" "compilers" "✔" "✖" "✔" "✔" "✖" "✔" "f✔")		   
+("" "miscellaneous" "compilers" "t✔" "b✖" "bl✔" "th✔" "im✖" "f✔" "ee✔")		   
+
 ))
 
 
@@ -54,9 +35,6 @@
 			     (length i )(eval max-length)))
 ))
 (setq max-length (+ max-length 2))
-
-;; (format md "---~%datatable: true~%---~%")
-;; (format md "~%")
 
 (format md "<div class=\"datatable-begin\"></div>~%~%")
 
