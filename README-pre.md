@@ -8,14 +8,10 @@
 
 ## Compilers & Interpreters
 
-[(LIST) Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler )
 
-[(FREE)(END-TO-END) Programming Languages: Application and Interpretation
-Copyright © 2003-07, Shriram Krishnamurthi](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ )
 
-[(FREE)(END-TO-END) Essentials of
-Programming
-Languages - Third Ed.  -- 1st ed alone shows how to turn an interpreter into a continuation-based compiler.](URL )
+
+
 
 [Constraint Programming Languages: Their Specification and Generation (Addison-Wesley series in computer science) Paperback – July 1, 1987](https://www.amazon.com/Constraint-Programming-Languages-Specification-Addison-Wesley/dp/0201062437 )
 
