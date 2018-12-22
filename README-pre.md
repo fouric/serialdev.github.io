@@ -1,20 +1,15 @@
 
 # Books
 
-
 |Title(url) | language| Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
 |----------:|:-------:|:----:|:----:|:------:|:--------------:|:----------:|:----:|:----:|-----------:|
 |Title(url) | language| Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
 
-
 ## AI / Machine Learning / Theoretical / Mathematical Optimization
-
-
 
 ## Information theory and compression
 
 ## Game Engine & Game Development
-
 
 ## HFT & Finance
 
@@ -22,114 +17,19 @@
 
 ## Theoretical CS
 
-
-
-
-
-
-
-
-
-
-
-
 ## Operating Systems
-
-[The Design and Implementation of the FreeBSD Operating System](https://www.amazon.co.uk/dp/0321968972/?coliid=I2TNHODKMNZU5A&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Computer Systems: A Programmer's Perspective](https://www.amazon.co.uk/dp/1292101768/?coliid=I26ZBJJX04WO8B&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Lions' Commentary on Unix 6th Edition
-by John Lions  ](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137 )
-
 
 ## Distributed systems
 
-[On Designing and Deploying Internet-Scale Services
-James Hamilton - Windows Live Services Platform](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/ )
-
-[The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/pubs.html#byz )
-
-[Paxos Made Simple
-Leslie Lamport](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.3093&rep=rep1&type=pdf )
-
-
-
-[Distributed Systems: Principles and Paradigms US Ed Edition
-by Andrew S. Tanenbaum  ](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7IDDGEN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 ## Infosec & Hacking & Game sec
 
 
-[          _/B\_                                            _/W\_
-          (* *)             Phrack #64 file 4              (* *)
-          | - |                                            | - |
-          |   |  A brief history of the Underground scene  |   |
-          |   |                                            |   |
-          |   |        By The Circle of Lost Hackers       |   |
-          |   |                                            |   |
-          |   |              Duvel@phrack.org              |   |
-            ____________________________________________________](http://web.archive.org/web/20101128205720/http://www.phrack.org/issues.html?issue=64&id=4&page=2 )
 
 
-[Introduction to Computer and Network Security: Navigating Shades of Gray 1st Edition
-by Richard R. Brooks](https://www.amazon.com/dp/1439860718/?coliid=I1NS89J88AYIQ6&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly Kindle Edition
-by Dennis Andriesse (Author)](https://www.amazon.co.uk/Practical-Binary-Analysis-Instrumentation-Disassembly-ebook/dp/B07BPKWJVT/ref=sr_1_33?s=books&ie=UTF8&qid=1543742753&sr=1-33&keywords=programming+mathematics )
 
-[Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation 1st Edition,](https://www.amazon.co.uk/Attacking-Network-Protocols-Analysis-Exploitation-ebook/dp/B071V4DYVC/ref=pd_sim_351_1?_encoding=UTF8&pd_rd_i=B071V4DYVC&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 )
 
-[Malware Data Science: Attack Detection and Attribution Kindle Edition
-by Joshua Saxe ](https://www.amazon.co.uk/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B077X1V9SY&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 )
-
-[Practical Video Game Bots
-Automating Game Processes using C++, Python, and AutoIt
-- Shpigor, Ilya](https://www.apress.com/gp/book/9781484237359 )
-
-[The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2nd Edition, Kindle Edition
-by Chris Anley ](https://www.amazon.co.uk/Shellcoders-Handbook-Discovering-Exploiting-Security-ebook/dp/B004P5O38Q/ref=pd_sim_351_6?_encoding=UTF8&pd_rd_i=B004P5O38Q&pd_rd_r=4bbc23ec-f614-11e8-826b-2d5c836b76fa&pd_rd_w=xEVXg&pd_rd_wg=gzTME&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=9GK6D1574QN1VPCY1H51&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9GK6D1574QN1VPCY1H51 )
-
-[Hacking: The Art of Exploitation Paperback – 7 Feb 2008
-by Jon Erickson](https://www.amazon.co.uk/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= )
-
-[Black Hat Python: Python Programming for Hackers and Pentesters Paperback – 14 Dec 2014
-by Justin Seitz](https://www.amazon.co.uk/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=pd_sbs_14_5?_encoding=UTF8&pd_rd_i=1593275900&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
-
-[Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software Paperback – 1 Feb 2012
-by Michael Sikorski ](https://www.amazon.co.uk/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=pd_sbs_14_17?_encoding=UTF8&pd_rd_i=1593272901&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
-
-[Gray Hat Python: Python Programming for Hackers and Reverse Engineers Paperback – 3 May 2009
-by Justin Seitz ](https://www.amazon.co.uk/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=pd_sbs_14_42?_encoding=UTF8&pd_rd_i=1593271921&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
-
-[Reversing: Secrets of Reverse Engineering Paperback – 1 Apr 2005
-by Eldad Eilam ](https://www.amazon.co.uk/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/ref=pd_sbs_14_44?_encoding=UTF8&pd_rd_i=0764574817&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
-
-[The Art of Memory Forensics Detecting Malware and Threats in Windows, Linux, and Mac Memory Paperback – 3 Oct 2014 by Michael Hale Ligh](https://www.amazon.co.uk/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=pd_sbs_14_48?_encoding=UTF8&pd_rd_i=1118825098&pd_rd_r=40e588e7-f619-11e8-8e71-03acc1ec4d28&pd_rd_w=TjgnJ&pd_rd_wg=CtmyJ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=6V5NGXPT7G3CY574ZCWY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6V5NGXPT7G3CY574ZCWY )
-
-[Rootkits and Bootkits Reversing Modern Malware and Next Generation Threats Paperback – 15 Jan 2019
-by Alex Matrosov ](https://www.amazon.co.uk/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=sr_1_1?s=books&ie=UTF8&qid=1543745049&sr=1-1&keywords=rootkit )
-
-[Rootkits: Subverting the Windows Kernel: Subverting the Windows Kernel (Addison-Wesley Software Security) Paperback – 22 Jul 2005
-by Greg Hoglund](https://www.amazon.co.uk/Rootkits-Subverting-Addison-Wesley-Software-Security/dp/0321294319/ref=sr_1_3?s=books&ie=UTF8&qid=1543745049&sr=1-3&keywords=rootkit )
-
-[Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code Paperback – 27 Oct 2010
-by Michael Ligh ](https://www.amazon.co.uk/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=pd_bxgy_img_3?_encoding=UTF8&pd_rd_i=0470613033&pd_rd_r=a3e59f1d-f619-11e8-9070-3de13d4da848&pd_rd_w=lq6es&pd_rd_wg=zF7y2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=982P1175GN716KBHBQDE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=982P1175GN716KBHBQDE )
-
-[Managed Code Rootkits: Hooking into Runtime Environments Paperback – 28 Oct 2010
-by Erez Metula ](https://www.amazon.co.uk/Managed-Code-Rootkits-Hooking-Environments/dp/1597495743/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1597495743&pd_rd_r=a3e59f1d-f619-11e8-9070-3de13d4da848&pd_rd_w=kgbvc&pd_rd_wg=zF7y2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=982P1175GN716KBHBQDE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=982P1175GN716KBHBQDE )
-
-[Designing BSD Rootkits: An Introduction to Kernel Hacking 1st Edition, Kindle Edition
-by Joseph Kong ](https://www.amazon.co.uk/Designing-BSD-Rootkits-Introduction-Hacking-ebook/dp/B002MZAR6I/ref=sr_1_12?s=books&ie=UTF8&qid=1543745049&sr=1-12&keywords=rootkit )
-
-[A Guide to Kernel Exploitation: Attacking the Core 1st Edition, Kindle Edition
-by Enrico Perla ](https://www.amazon.co.uk/Guide-Kernel-Exploitation-Attacking-Core-ebook/dp/B004FGMSFK/ref=pd_sim_351_1?_encoding=UTF8&pd_rd_i=B004FGMSFK&pd_rd_r=ace45379-f619-11e8-a7e3-8d9e7c8330a3&pd_rd_w=HFgB2&pd_rd_wg=Ocr6S&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=QA2GXWPYW0RFYHVDJDZX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=QA2GXWPYW0RFYHVDJDZX )
-
-[Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition, Kindle Edition
-by Bruce Dang ](https://www.amazon.co.uk/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B00IA22R2Y&pd_rd_r=379a514e-f61b-11e8-88d9-49b1531786cd&pd_rd_w=9E6O3&pd_rd_wg=6v5WN&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=T4M4HDANYK4WJZJVR3A6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T4M4HDANYK4WJZJVR3A6 )
-
-[Windows Internals, Part 2 (Developer Reference) 6th Edition, Kindle Edition
-by Mark E. Russinovich ](https://www.amazon.co.uk/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPIDU/ref=pd_sim_351_4?_encoding=UTF8&pd_rd_i=B00JDMPIDU&pd_rd_r=379a514e-f61b-11e8-88d9-49b1531786cd&pd_rd_w=9E6O3&pd_rd_wg=6v5WN&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=T4M4HDANYK4WJZJVR3A6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T4M4HDANYK4WJZJVR3A6 )
 
 ## Low-Level programming
 
