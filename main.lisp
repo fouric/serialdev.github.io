@@ -26,6 +26,7 @@
 ("[Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Hacker's Delight](https://www.hackersdelight.org/)" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Art of Assembly Language, 2nd Edition](https://nostarch.com/assembly2.htm )" "Randall Hyde" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -76,6 +77,9 @@
 ("[RABBIT: A Compiler for SCHEME](https://dspace.mit.edu/handle/1721.1/6913 )" "Steele, Guy Lewis, Jr."   "C" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[ORBIT: An Optimizing Compiler for Scheme](http://people.csail.mit.edu/riastradh/t/adams86orbit.pdf )" " David Kranz*, "   "C" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Threaded Interpretive Languages: Their Design and Implementation 1St Edition Edition  ](https://www.amazon.com/Threaded-Interpretive-Languages-Design-Implementation/dp/007038360X )" "R. G. Loeliger "   "C" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[An Incremental Approach to Compiler Construction](http://web.archive.org/web/20100615153619/http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf )" "Abdulaziz Ghuloum" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The art of the interpreter](http://web.archive.org/web/20170706132130/ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-453.pdf )" "Guy Steele & Gerald Sussman" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
 (setq het-comp-list '(
@@ -88,6 +92,7 @@
 ("[Programming Massively Parallel Processors: A Hands-on Approach 3rd Edition](https://www.amazon.com/dp/0128119861/?coliid=IVXLYK0PHPIMU&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "David B. Kirk " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[GPU Parallel Program Development Using CUDA (Chapman & Hall/CRC Computational Science) Hardcover – 6 Oct 2016](https://www.amazon.co.uk/dp/1498750753/?coliid=I1AVH5U89G43FO&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Tolga Soyata" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[How to Write Parallel Programs: A First Course Hardcover – October 29, 1990](https://www.amazon.com/How-Write-Parallel-Programs-Course/dp/026203171X )" "Nicholas Carriero  (Author), David Gelernter (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -112,6 +117,7 @@
 ("[Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Theory in Practice (O'Reilly)) 1st Edition](https://www.amazon.com/dp/0596515170/?coliid=I3E0HJXQXCUY9X&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Federico Biancuzzi" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[97 Things Every Programmer Should Know: Collective Wisdom from the Experts 1st Edition](https://www.amazon.com/dp/0596809484/?coliid=I2BJRVFMZBVZYW&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Kevlin Henney " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Founders at Work: Stories of Startups' Early Days Kindle Edition](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL31SN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Jessica Livingston " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
 (setq algo-ds-list '(
@@ -142,6 +148,7 @@
 ("[Parallel Algorithms (Chapman & Hall/CRC Numerical Analysis and Scientific Computing Series)](https://www.amazon.co.uk/dp/B005H6YSLE/?coliid=I1EWIBY1I4IZGY&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Clever Algorithms: Nature-Inspired Programming Recipes By Jason Brownlee PhD](http://cleveralgorithms.com/nature-inspired/index.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Learning Functional Data Structures and Algorithms](https://www.amazon.co.uk/dp/B01DWFRFUW/?coliid=I1KG2TG0E5KGIZ&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
 (setq signal-processing-list '(
@@ -149,6 +156,7 @@
 ("[Designing Audio Effect Plug-Ins in C++: With Digital Audio Signal Processing Theory Hardcover – 20 Jul 2017](https://www.amazon.co.uk/Designing-Audio-Effect-Plug-Ins-Processing/dp/1138406627/ref=tmm_hrd_swatch_0?_encoding=UTF8&coliid=I1EVN2T7NHSZ6X&colid=1YR893IZ003PC&qid=&sr= )" "Will Pirkle (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Designing Software Synthesizer Plug-Ins in C++: For RackAFX, VST3, and Audio Units Paperback – 15 Jan 2015](https://www.amazon.co.uk/Designing-Software-Synthesizer-Plug-Ins-RackAFX/dp/1138787078/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1138787078&pd_rd_r=1a8b52ef-f55a-11e8-8e2e-a551147ef51d&pd_rd_w=jE2h4&pd_rd_wg=e5Hu4&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=XB05D57B0RDGHH2MCN1F&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=XB05D57B0RDGHH2MCN1F )" "Will Pirkle (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[The Audio Programming Book (The MIT Press) Hardcover – 7 Dec 2010](https://www.amazon.co.uk/Audio-Programming-Book-MIT-Press/dp/0262014467/ref=pd_bxgy_img_3?_encoding=UTF8&pd_rd_i=0262014467&pd_rd_r=32a7a73e-f55a-11e8-88d9-49b1531786cd&pd_rd_w=FIXGC&pd_rd_wg=xZUg9&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=QB3P8ZJMQSQQJ34W1QDH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=QB3P8ZJMQSQQJ34W1QDH )" "Richard Boulanger" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -179,6 +187,7 @@
 ("[Deep Belief Nets in C++ and CUDA C: Volume 3 Convolutional Nets](https://www.apress.com/gp/book/9781484237205 )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Matrix Computations (Johns Hopkins Studies in the Mathematical Sciences) fourth edition Edition](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=dp_ob_title_bk )" "Gene H. Golub  (Author), Charles F. Van Loan  (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach 5th edition book cover, Vector Calculus](http://matrixeditions.com/5thUnifiedApproach.html )" " John H. Hubbard and Barbara Burke Hubbard" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
 
@@ -190,6 +199,7 @@
 ("[Understanding Compression: Data Compression for Modern Developers](https://www.amazon.co.uk/Understanding-Compression-Data-Modern-Developers/dp/1491961538/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1491961538&pd_rd_r=2b7cf121-f54f-11e8-a7e3-8d9e7c8330a3&pd_rd_w=DrGoo&pd_rd_wg=w2zMW&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=TP93QXJJHEX87H29S7ZE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TP93QXJJHEX87H29S7ZE )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Efficient Predictive Algorithms for Image Compression](https://www.amazon.co.uk/dp/3319511793/?coliid=I3MB3MA02VOHAC&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Introduction to Data Compression (The Morgan Kaufmann Series in Multimedia Information and Systems)](https://www.amazon.co.uk/dp/0128094745/?coliid=I2GOYD0EOGLD50&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -229,6 +239,8 @@
 ("[Fundamentals of Computer Graphics Hardcover – 27 Jan 2016 ](https://www.amazon.co.uk/dp/1482229390/?coliid=I2AVRZPHPE1FE4&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Steve Marschner " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3d Technology) Hardcover – 22 Dec 2004](https://www.amazon.co.uk/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323/ref=pd_sbs_14_12?_encoding=UTF8&pd_rd_i=1558607323&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 )" "Christer Ericson " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Beginning Math and Physics for Game Programmers (New Riders Games) Paperback – 22 Mar 2004](https://www.amazon.co.uk/Beginning-Physics-Programmers-Riders-Games/dp/0735713901/ref=pd_sbs_14_21?_encoding=UTF8&pd_rd_i=0735713901&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 )" "Wendy Stahler" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Ramblings in Realtime](https://www.bluesnews.com/abrash/contents.shtml )" "Michael Abrash" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -239,6 +251,7 @@
 ("[Mastering Python for Finance Paperback – 29 Apr 2015](https://www.amazon.co.uk/Derivatives-Analytics-Python-Simulation-Calibration/dp/1119037999/ref=pd_bxgy_img_3?_encoding=UTF8&pd_rd_i=1119037999&pd_rd_r=99b66791-f55a-11e8-84fc-9f9314536756&pd_rd_w=SpLIl&pd_rd_wg=67XNl&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=EV7XBRBE72WTPVZS0ZXY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=EV7XBRBE72WTPVZS0ZXY )" "James Ma Weiming" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Advances in Financial Machine Learning Hardcover – February 21, 2018](https://www.amazon.com/dp/1119482089/?coliid=I1C6GFDW77BWWE&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Marcos Lopez de Prado " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Professional Automated Trading: Theory and Practice 1st Edition](https://www.amazon.com/dp/1118129857/?coliid=I1Z2HWBB15Q2DP&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Eugene A. Durenard  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -253,6 +266,7 @@
 ("[Introduction to Information Retrieval 1st Edition](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1WAMGY&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Christopher D. Manning" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Mining of Massive Datasets](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1543695155&sr=1-1&keywords=mining+massive )" "Jeffrey Ullman" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Database Design (MCGRAW HILL COMPUTER SCIENCE SERIES) Subsequent Edition](https://www.amazon.com/Database-Design-MCGRAW-COMPUTER-SCIENCE/dp/0070701326 )" "Gio Wiederhold  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -270,6 +284,7 @@
 ("[The Haskell Road to Logic, Maths and Programming (Texts in Computing, Vol. 4)](https://www.amazon.co.uk/dp/0954300696/?coliid=ICKBPPNKS6BK9&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[The Little Typer (The MIT Press) Paperback – September 18, 2018](https://www.amazon.com/dp/0262536439/?coliid=I1Q561HW6ZAGCQ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Daniel P. Friedman " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Mathematical Theory of Computation (Dover Books on Mathematics) Paperback – December 24, 2003](https://www.amazon.com/dp/0486432386/?coliid=I2CECNXUR21RJF&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Zohar Manna " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
 
@@ -278,6 +293,7 @@
 ("[The Design and Implementation of the FreeBSD Operating System](https://www.amazon.co.uk/dp/0321968972/?coliid=I2TNHODKMNZU5A&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Computer Systems: A Programmer's Perspective](https://www.amazon.co.uk/dp/1292101768/?coliid=I26ZBJJX04WO8B&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Lions' Commentary on Unix 6th Edition](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137 )" "John Lions  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -287,6 +303,8 @@
 ("[The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/pubs.html#byz )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Paxos Made Simple](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.3093&rep=rep1&type=pdf )" "Leslie Lamport" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Distributed Systems: Principles and Paradigms US Ed Edition](https://www.amazon.com/dp/0130888931/?coliid=I1FE1KY7IDDGEN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Andrew S. Tanenbaum  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Scalable Internet Architectures 1st Edition  ](https://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X )" "Theo Schlossnagle" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -313,6 +331,7 @@
 ("[A Guide to Kernel Exploitation: Attacking the Core 1st Edition](https://www.amazon.co.uk/Guide-Kernel-Exploitation-Attacking-Core-ebook/dp/B004FGMSFK/ref=pd_sim_351_1?_encoding=UTF8&pd_rd_i=B004FGMSFK&pd_rd_r=ace45379-f619-11e8-a7e3-8d9e7c8330a3&pd_rd_w=HFgB2&pd_rd_wg=Ocr6S&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=QA2GXWPYW0RFYHVDJDZX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=QA2GXWPYW0RFYHVDJDZX )" "Enrico Perla " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition ](https://www.amazon.co.uk/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B00IA22R2Y&pd_rd_r=379a514e-f61b-11e8-88d9-49b1531786cd&pd_rd_w=9E6O3&pd_rd_wg=6v5WN&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=T4M4HDANYK4WJZJVR3A6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T4M4HDANYK4WJZJVR3A6 )" "Bruce Dang " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Windows Internals, Part 2 (Developer Reference) 6th Edition](https://www.amazon.co.uk/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPIDU/ref=pd_sim_351_4?_encoding=UTF8&pd_rd_i=B00JDMPIDU&pd_rd_r=379a514e-f61b-11e8-88d9-49b1531786cd&pd_rd_w=9E6O3&pd_rd_wg=6v5WN&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=1e3b4162-429b-4ea8-80b8-75d978d3d89e&pf_rd_r=T4M4HDANYK4WJZJVR3A6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T4M4HDANYK4WJZJVR3A6 )" "Mark E. Russinovich " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
@@ -322,6 +341,8 @@
 ("[Automatic Quantum Computer Programming: A Genetic Programming Approach 2004th Edition](https://www.amazon.com/dp/1402078943/?coliid=I3VAMQOA51JREY&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Lee Spector " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Quantum Algorithms via Linear Algebra: A Primer (The MIT Press) 1st Edition](https://www.amazon.com/dp/0262028395/?coliid=I3BOJXVWTXSAP4&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Richard J. Lipton " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Quantum Computing for Computer Scientists 1st Edition](https://www.amazon.com/dp/0521879965/?coliid=I1RURA4TMPPOOJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Noson S. Yanofsky " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Shor's Quantum Factoring Algorithm](https://arxiv.org/abs/quant-ph/0010034 )" "Samuel J. Lomonaco Jr" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
 (setq comp-arch-list '(
@@ -330,14 +351,92 @@
 ("[Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/ )" "Jason Robert Carey Patterson" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Inside the Machine An Illustrated Introduction to Microprocessors and Computer Architecture](https://nostarch.com/insidemachine.htm )" "Jon Stoke" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Computer Systems: A Programmer's Perspective (3rd Edition) 3rd Edition](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk )" "Randal E. Bryant" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
-;; (setq soft-skills-list '(
+(setq symbolic-comp-list '(
 
+("[Algorithms for Computer Algebra 1992nd Edition](https://www.amazon.com/dp/0792392590/?coliid=I397U262TBL9WN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Keith O. Geddes " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Algebra and Symbolic Computation: Elementary Algorithms 1st Edition](https://www.amazon.com/dp/1568811586/?coliid=I2OXME2K2EVS90&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Joel S. Cohen " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Algebra and Symbolic Computation: Mathematical Methods](https://www.amazon.com/dp/1568811594/?coliid=I2H2PQT72MKLVV&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Joel S. Cohen " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Modern Computer Algebra 3rd Edition](https://www.amazon.com/dp/1107039037/?coliid=I3E5RLF7LYWCXO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Joachim von zur Gathen " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
-;; ))
+))
+
+(setq math-stat-list '(
+
+("[(FREE)(END-TO-END)Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares Julia Language Companion](http://vmls-book.stanford.edu/vmls-julia-companion.pdf )" "Stephen Boyd and Lieven Vandenberghe DRAFT August 26, 2018" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Turtle Geometry: The Computer as a Medium for Exploring Mathematics (Artificial Intelligence) Paperback – July 9, 1986](https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375 )" "Harold Abelson  (Author), Andrea diSessa (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Funny Little Calculus Text.](https://www.math.upenn.edu/~ghrist/FLCT/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/ )" "Stephen Boyd and Lieven Vandenberghe" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Programmer's Introduction to Mathematics](https://pimbook.org/ )" "Jeremy Kun" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Concrete Mathematics: A Foundation for Computer Science Hardcover – 28 Feb 1994](https://www.amazon.co.uk/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_3?s=books&ie=UTF8&qid=1543741520&sr=1-3&keywords=programming+mathematics )" "Ronald L. Graham (Author), Donald E. Knuth  (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Concise Introduction to Hypercomplex Fractals Hardcover – 7 Nov 2017](https://www.amazon.co.uk/dp/1138633429/?coliid=I2ZSSS0N4WCOGV&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Andrzej Katunin (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory Paperback – 5 Dec 2010](https://www.amazon.co.uk/dp/1441931872/?coliid=I1APCTRBAJSJFG&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Carl M. Bender " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Statistical Intervals A Guide for Practitioners and Researchers (Wiley Series in Probability and Statistics) 2nd Edition](https://www.amazon.com/dp/0471687170/?coliid=I2NHP3VPPYK87R&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "William Q. Meeker " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Bridging the Gap to University Mathematics ](https://www.amazon.co.uk/dp/1848002890/?coliid=IOO7P6PWB6F3G&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Algebra : An Elementary Text-Book (2 volume set) 7th Edition](https://www.amazon.com/dp/0821819313/?coliid=IEYM1QS8IOJ58&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "G. Chrystal  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[All of Statistics A Concise Course in Statistical Inference (Springer Texts in Statistics) 1st Corrected ed. 20 Edition](https://www.amazon.com/dp/0387402721/?coliid=IO9ARXB3OOHLI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Larry Wasserman" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science) 1st Edition](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1466575573&pd_rd_r=801db3d9-f5a1-11e8-92ad-dd4cc9d0f0bc&pd_rd_w=nxhOK&pd_rd_wg=seYCS&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=6MEY3Y6CWKNZDGZ7VF4D&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6MEY3Y6CWKNZDGZ7VF4D )" "Joseph K. Blitzstein " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Bayes' Rule: A Tutorial Introduction to Bayesian Analysis Paperback – June 4, 2013](https://www.amazon.com/dp/0956372848/?coliid=I37UEUQ31JIALL&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "James V Stone  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Computational Introduction to Number Theory and Algebra 2nd Edition](https://www.amazon.com/dp/0521516447/?coliid=I3NTIZBPOG71SK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Victor Shoup " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Mathematics of Various Entertaining Subjects Research in Recreational Math Hardcover – 26 Jan 2016](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Recreational/dp/0691164037/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0691164037&pd_rd_r=4da7f5eb-f611-11e8-9070-3de13d4da848&pd_rd_w=9pJG5&pd_rd_wg=6curO&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=426PWD96B3427ZGRH33H&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=426PWD96B3427ZGRH33H )" "Jennifer Beineke " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Behavioral Mathematics for Game AI Paperback – 5 Mar 2009](https://www.amazon.co.uk/Behavioral-Mathematics-Game-Dave-Mark/dp/1584506849/ref=sr_1_11?s=books&ie=UTF8&qid=1543741453&sr=1-11&keywords=game+mathematics )" "Dave Mark " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Mathematics of Various Entertaining Subjects: Research in Games, Graphs, Counting, and Complexity, Volume 2 Paperback – 2 Jul 2019](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Complexity/dp/069119226X/ref=sr_1_10?s=books&ie=UTF8&qid=1543741453&sr=1-10&keywords=game+mathematics )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+(setq crypto-list '(
+
+("[Advanced Statistical Steganalysis (Information Security and Cryptography)](https://www.amazon.co.uk/Advanced-Statistical-Steganalysis-Information-Cryptography/dp/3642143121/ref=tmm_hrd_swatch_0?_encoding=UTF8&coliid=I1XEX56MYG8GJC&colid=1YR893IZ003PC&qid=&sr= )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf )" "C. E. SHANNON" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+))
+
+(setq viz-list '(
+
+("[Geometric Data Structures for Computer Graphics Hardcover – 16 Jan 2006](https://www.amazon.co.uk/dp/1568812353/?coliid=I1JKJ7S8GFZQ98&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Elmar Langetepe " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[High Performance Visualization: Enabling Extreme-Scale Scientific Insight (Chapman & Hall/CRC Computational Science)](https://www.amazon.co.uk/dp/1138199613/?coliid=I1N5Z75YF3BOSB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Grammar of Graphics (Statistics and Computing) 2nd Edition](https://www.amazon.com/dp/0387245448/?coliid=I2DUQEQT8XL3RO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Leland Wilkinson" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Processing: An Introduction to Programming Paperback – 22 Sep 2016](https://www.amazon.co.uk/dp/1482255952/?coliid=I1OSITN7F7ZA5G&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Jeffrey L. Nyhoff " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Topological Methods in Data Analysis and Visualization IV Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017](https://www.amazon.co.uk/dp/3319446827/?coliid=I21RY9I93I2WC9&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Hamish Carr " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Mathematical Picture Book Hardcover – 23 Dec 2018](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Georg Glaeser " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Gottfried Haider " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+("--" "--" "--" "--" "--" "--" "--" "--" "--")
+("[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Tenacious C - C graphical IDE](http://tenaciousc.com/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[boids-Flock](http://archive.breefield.com/lab/flock/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Humane Interface: New Directions for Designing Interactive Systems](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376 )" "Jef Raskin  (Author) " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[ML algos viz](http://mldemos.epfl.ch/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+(setq bio-insp-list '(
+
+("[Swarm Intelligence (The Morgan Kaufmann Series in Evolutionary Computation) 1st Edition  ](https://www.amazon.com/Intelligence-Morgan-Kaufmann-Evolutionary-Computation/dp/1558605959 )" "Russell C. Eberhart (Author), Yuhui Shi " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Boids Background and Update  ](http://www.red3d.com/cwr/boids/ )" "Craig Reynolds" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Steering Behaviors For Autonomous Characters ](http://www.red3d.com/cwr/steer/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Boids Pseudocode ](http://www.vergenet.net/~conrad/boids/pseudocode.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Alan Garfinkel " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+(setq papers-list '(
+
+("[(LIST) What papers should everyone read - stackcompsci](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
 
 ;; (setq soft-skills-list '(
 
@@ -416,3 +515,9 @@
 (gen-table infosec-list cols "Infosec & Hacking & Game sec")
 (gen-table quantum-dev-list cols "Quantum computation")
 (gen-table comp-arch-list cols "Computer Architecture")
+(gen-table symbolic-comp-list cols "Computer algebra and symbolic computation")
+(gen-table math-stat-list cols "Mathematics & Statistics")
+(gen-table crypto-list cols "Cryptography")
+(gen-table viz-list cols "Viz")
+(gen-table bio-insp-list cols "Biological-inspired systems")
+(gen-table papers-list cols "Papers")

@@ -141,11 +141,6 @@ by Gregor Kiczales ](https://www.amazon.com/dp/0262610744/?coliid=I1LX6G39V5UIMJ
 
 ## Computer Architecture
 
-
-
-
-
-
 ## Python
 
 [Data Structures and Algorithms with Python (Undergraduate Topics in Computer Science)](https://www.amazon.co.uk/dp/3319130714/?coliid=I21V5QYAMA803X&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -178,125 +173,38 @@ by Robert Johansson ](https://www.amazon.co.uk/Numerical-Python-Scientific-Appli
 
 ## Computer algebra and symbolic computation
 
-[Algorithms for Computer Algebra 1992nd Edition
-by Keith O. Geddes ](https://www.amazon.com/dp/0792392590/?coliid=I397U262TBL9WN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Computer Algebra and Symbolic Computation: Elementary Algorithms 1st Edition
-by Joel S. Cohen ](https://www.amazon.com/dp/1568811586/?coliid=I2OXME2K2EVS90&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Computer Algebra and Symbolic Computation: Mathematical Methods
-by Joel S. Cohen ](https://www.amazon.com/dp/1568811594/?coliid=I2H2PQT72MKLVV&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Modern Computer Algebra 3rd Edition
-by Joachim von zur Gathen ](https://www.amazon.com/dp/1107039037/?coliid=I3E5RLF7LYWCXO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
 ## Mathematics & Statistics
-
-[(FREE)(END-TO-END)Introduction to Applied Linear Algebra
-Vectors, Matrices, and Least Squares
-Julia Language Companion
-Stephen Boyd and Lieven Vandenberghe
-DRAFT August 26, 2018](http://vmls-book.stanford.edu/vmls-julia-companion.pdf )
-
-[Turtle Geometry: The Computer as a Medium for Exploring Mathematics (Artificial Intelligence) Paperback – July 9, 1986
-by Harold Abelson  (Author), Andrea diSessa (Author)](https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375 )
-
-[unny Little Calculus Text.](https://www.math.upenn.edu/~ghrist/FLCT/ )
-
-
-
-[Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
-Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/ )
-
-[A Programmer's Introduction to Mathematics - Jeremy Kun](https://pimbook.org/ )
-
-[Concrete Mathematics: A Foundation for Computer Science Hardcover – 28 Feb 1994
-by Ronald L. Graham (Author), Donald E. Knuth  (Author)](https://www.amazon.co.uk/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_3?s=books&ie=UTF8&qid=1543741520&sr=1-3&keywords=programming+mathematics )
-
-[A Concise Introduction to Hypercomplex Fractals Hardcover – 7 Nov 2017
-by Andrzej Katunin (Author)](https://www.amazon.co.uk/dp/1138633429/?coliid=I2ZSSS0N4WCOGV&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory Paperback – 5 Dec 2010
-by Carl M. Bender ](https://www.amazon.co.uk/dp/1441931872/?coliid=I1APCTRBAJSJFG&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Statistical Intervals A Guide for Practitioners and Researchers (Wiley Series in Probability and Statistics) 2nd Edition
-by William Q. Meeker ](https://www.amazon.com/dp/0471687170/?coliid=I2NHP3VPPYK87R&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Bridging the Gap to University Mathematics ](https://www.amazon.co.uk/dp/1848002890/?coliid=IOO7P6PWB6F3G&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Algebra : An Elementary Text-Book (2 volume set) 7th Edition
-by G. Chrystal  ](https://www.amazon.com/dp/0821819313/?coliid=IEYM1QS8IOJ58&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[All of Statistics A Concise Course in Statistical Inference (Springer Texts in Statistics) 1st Corrected ed. 20 Edition
-by Larry Wasserman](https://www.amazon.com/dp/0387402721/?coliid=IO9ARXB3OOHLI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science) 1st Edition
-by Joseph K. Blitzstein ](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1466575573&pd_rd_r=801db3d9-f5a1-11e8-92ad-dd4cc9d0f0bc&pd_rd_w=nxhOK&pd_rd_wg=seYCS&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=6MEY3Y6CWKNZDGZ7VF4D&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=6MEY3Y6CWKNZDGZ7VF4D )
-
-[Bayes' Rule: A Tutorial Introduction to Bayesian Analysis Paperback – June 4, 2013
-by James V Stone  ](https://www.amazon.com/dp/0956372848/?coliid=I37UEUQ31JIALL&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[A Computational Introduction to Number Theory and Algebra 2nd Edition
-by Victor Shoup ](https://www.amazon.com/dp/0521516447/?coliid=I3NTIZBPOG71SK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[The Mathematics of Various Entertaining Subjects Research in Recreational Math Hardcover – 26 Jan 2016
-by Jennifer Beineke ](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Recreational/dp/0691164037/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0691164037&pd_rd_r=4da7f5eb-f611-11e8-9070-3de13d4da848&pd_rd_w=9pJG5&pd_rd_wg=6curO&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=426PWD96B3427ZGRH33H&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=426PWD96B3427ZGRH33H )
-
-[Behavioral Mathematics for Game AI Paperback – 5 Mar 2009
-by Dave Mark ](https://www.amazon.co.uk/Behavioral-Mathematics-Game-Dave-Mark/dp/1584506849/ref=sr_1_11?s=books&ie=UTF8&qid=1543741453&sr=1-11&keywords=game+mathematics )
-
-[The Mathematics of Various Entertaining Subjects: Research in Games, Graphs, Counting, and Complexity, Volume 2 Paperback – 2 Jul 2019](https://www.amazon.co.uk/Mathematics-Various-Entertaining-Subjects-Complexity/dp/069119226X/ref=sr_1_10?s=books&ie=UTF8&qid=1543741453&sr=1-10&keywords=game+mathematics )
 
 ## Cryptography
 
-[Advanced Statistical Steganalysis (Information Security and Cryptography)](https://www.amazon.co.uk/Advanced-Statistical-Steganalysis-Information-Cryptography/dp/3642143121/ref=tmm_hrd_swatch_0?_encoding=UTF8&coliid=I1XEX56MYG8GJC&colid=1YR893IZ003PC&qid=&sr= )
-
-[Communication Theory of Secrecy Systems
-By C. E. SHANNON](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf )
-
 ## Viz
 
-[Geometric Data Structures for Computer Graphics Hardcover – 16 Jan 2006
-by Elmar Langetepe ](https://www.amazon.co.uk/dp/1568812353/?coliid=I1JKJ7S8GFZQ98&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-[High Performance Visualization: Enabling Extreme-Scale Scientific Insight (Chapman & Hall/CRC Computational Science)](https://www.amazon.co.uk/dp/1138199613/?coliid=I1N5Z75YF3BOSB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[The Grammar of Graphics (Statistics and Computing) 2nd Edition
-by Leland Wilkinson](https://www.amazon.com/dp/0387245448/?coliid=I2DUQEQT8XL3RO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Processing: An Introduction to Programming Paperback – 22 Sep 2016
-by Jeffrey L. Nyhoff ](https://www.amazon.co.uk/dp/1482255952/?coliid=I1OSITN7F7ZA5G&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Topological Methods in Data Analysis and Visualization IV Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017
-by Hamish Carr ](https://www.amazon.co.uk/dp/3319446827/?coliid=I21RY9I93I2WC9&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-[A Mathematical Picture Book Hardcover – 23 Dec 2018
-by Georg Glaeser ](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017
-by Gottfried Haider ](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
 
 
 ### Nice viz/Ux examples
 
-[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page )
 
-[Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )
 
-[bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html )
 
-[Tenacious C - C graphical IDE](http://tenaciousc.com/ )
 
-[Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking )
 
-[boids-Flock](http://archive.breefield.com/lab/flock/ )
 
-[20 things I learned from the web](http://www.20thingsilearned.com/en-US/what-is-the-internet/1 )
 
-[The Humane Interface: New Directions for Designing Interactive Systems
-by Jef Raskin  (Author) ](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376 )
 
-[ML algos viz](http://mldemos.epfl.ch/ )
+
+
+
+
+
+
+
+
 
 
 ## Windows & Linux dev
@@ -308,16 +216,10 @@ by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC
 
 ## Miscellaneous
 
-[Ramblings in Realtime
-by
-Michael Abrash](https://www.bluesnews.com/abrash/contents.shtml )
 
 
 [Gödel, Escher, Bach: An Eternal Golden Braid Paperback – February 5, 1999
 by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 )
-
-[Scalable Internet Architectures 1st Edition
-by Theo Schlossnagle  (Author) ](https://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X )
 
 
 [Once Upon an Algorithm: How Stories Explain Computing (The MIT Press)](https://www.amazon.co.uk/dp/0262036630/?coliid=I3EGRAB64L118R&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
@@ -331,41 +233,32 @@ Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
 
 ## Biological-inspired systems
 
-[Swarm Intelligence (The Morgan Kaufmann Series in Evolutionary Computation) 1st Edition
-by Russell C. Eberhart (Author), Yuhui Shi ](https://www.amazon.com/Intelligence-Morgan-Kaufmann-Evolutionary-Computation/dp/1558605959 )
 
-[Boids
-Background and Update
-by Craig Reynolds](http://www.red3d.com/cwr/boids/ )
 
-[Steering Behaviors For Autonomous Characters
-](http://www.red3d.com/cwr/steer/ )
 
-[Boids Pseudocode
-](http://www.vergenet.net/~conrad/boids/pseudocode.html )
 
-[Modeling Life: The Mathematics of Biological Systems 1st ed. 2017 Edition
-by Alan Garfinkel ](https://www.amazon.com/dp/3319597302/?coliid=I38X2ZXCFNDNFI&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+
+
+
+
 
 # Papers
 
 ## Theory
 
-[(LIST) What papers should everyone read - stackcompsci](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read )
 
 
 
-[Shor's Quantum Factoring Algorithm
-Samuel J. Lomonaco Jr](https://arxiv.org/abs/quant-ph/0010034 )
+
+
 
 
 
 ## Lisp Schemes
 
-[An Incremental Approach to Compiler Construction
-Abdulaziz Ghuloum](http://web.archive.org/web/20100615153619/http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf )
 
-[The art of the interpreter - Guy Steele & Gerald Sussman](http://web.archive.org/web/20170706132130/ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-453.pdf )
+
+
 
 
 # Projects
