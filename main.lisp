@@ -37,9 +37,8 @@
 ("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
 ("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
 ("" "miscellaneous" "compilers" "✔" "✖" "✔" "✔" "✖" "✔")		   
-("[Stackoverflow compilers](www.hhh.com)" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t"  "t")
-("[Programming Language Concepts for Software Developers Peter Sestoft IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf )" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t"  "t")
 ))
+
 
 (setq cwd (sb-posix:getcwd))
 
@@ -55,6 +54,8 @@
 			     (length i )(eval max-length)))
 ))
 (setq max-length (+ max-length 2))
+
+  (format md "<div class=\"datatable-begin\"></div>")
 
   (format md (format nil "|~~~:@<~A~>:@<~~A~~>|" (- max-length 2)) (car cols))
 
@@ -79,6 +80,8 @@
     (loop for i in (cdr entry) do
   (format md (format nil "~~~:@<~A~>:@<~~A~~>|" (- max-length 1)) i)))
 )
+
+  (format md "<div class=\"datatable-end\"></div>")
 
 ))
 
