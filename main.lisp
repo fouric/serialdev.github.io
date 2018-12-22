@@ -168,3 +168,4 @@
 
 (gen-table compiler-list cols "compilers")
 (gen-table het-comp-list cols "heterogeneous computing")
+(gen-table soft-skills-list cols "soft skills and historical")
