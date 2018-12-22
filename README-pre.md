@@ -26,10 +26,7 @@
 
 
 
-[(FREE)(END-TO-END) A Problem Course in Compilation:
-From Python to x86 Assembly
-Draft, November 6, 2009
-Jeremy G. Siek](http://ecee.colorado.edu/ecen4553/fall09/notes.pdf )
+
 
 [Writing Compilers and Interpreters: an applied approach using c++  2nd Edition
 by Ronald Mak ](https://www.amazon.com/gp/product/0471113530/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1 )
