@@ -13,12 +13,7 @@
 
 (setq entry-list '(
 ("[Stackoverflow compilers](www.hhh.com)" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t"  "t")
-("[Programming Language
-Concepts
-for Software Developers
-Peter Sestoft
-IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf )
-" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t"  "t")
+("[Programming Language Concepts for Software Developers Peter Sestoft IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf )" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t"  "t")
 ))
 
 (setq cwd (sb-posix:getcwd))
