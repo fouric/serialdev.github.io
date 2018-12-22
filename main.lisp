@@ -163,12 +163,62 @@
 ))
 
 
+(setq info-theory-list '(
+
+("[Information Theory: A Tutorial Introduction Paperback – February 1, 2015](https://www.amazon.com/dp/0956372856/?coliid=I3KE9PM1X2FVDJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "James V Stone " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Mathematical Theory of Communication First Edition (US) First Printing Edition](https://www.amazon.com/dp/0252725484/?coliid=I2L8GVELC8V8XV&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it)" "Claude E. Shannon " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[A Guide to Data Compression Methods (Springer Professional Computing) ](https://www.amazon.co.uk/Compression-Methods-Springer-Professional-Computing/dp/0387952608/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=0387952608&pd_rd_r=bb55bd56-f54f-11e8-9199-93a0264a9794&pd_rd_w=ID7N2&pd_rd_wg=yXJpf&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=7A9NN022CP3SWP6GY0JQ&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=7A9NN022CP3SWP6GY0JQ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Understanding Compression: Data Compression for Modern Developers](https://www.amazon.co.uk/Understanding-Compression-Data-Modern-Developers/dp/1491961538/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1491961538&pd_rd_r=2b7cf121-f54f-11e8-a7e3-8d9e7c8330a3&pd_rd_w=DrGoo&pd_rd_wg=w2zMW&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=TP93QXJJHEX87H29S7ZE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TP93QXJJHEX87H29S7ZE )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Efficient Predictive Algorithms for Image Compression](https://www.amazon.co.uk/dp/3319511793/?coliid=I3MB3MA02VOHAC&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Introduction to Data Compression (The Morgan Kaufmann Series in Multimedia Information and Systems)](https://www.amazon.co.uk/dp/0128094745/?coliid=I2GOYD0EOGLD50&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+(setq game-dev-list '(
+
+("[Programming Game AI](https://www.amazon.co.uk/dp/1556220782/?coliid=IMLK0EW2EKN8Z&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Example (Wordware Game Developers Library) Paperback – 1 Oct 2004 by Mat Buckland " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game Programming Gems 3 Hardcover – 25 Jul 2002](https://www.amazon.co.uk/dp/1584502339/?coliid=IV5QBM9HI2UWE&colid=SUODQKHMPSPE&psc=0 )" "Dante Treglia " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computational Geometry in C (Cambridge Tracts in Theoretical Computer Science) Hardcover – 13 Oct 1998](https://www.amazon.co.uk/Computational-Geometry-Cambridge-Theoretical-Computer/dp/0521640105/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= )" "Joseph O'Rourke " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game Paperback – 9 Sep 2010](https://www.amazon.co.uk/dp/0123819768/?coliid=I2RIUHJTXOWCAC&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Ian Millington " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Artificial Intelligence for Games Hardcover – 12 Sep 2009](https://www.amazon.co.uk/dp/0123747317/?coliid=I3A2RL4L4T97R2&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Ian Millington " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Animation: Algorithms and Techniques Hardcover – 4 Oct 2012](https://www.amazon.co.uk/dp/0124158420/?coliid=I2FJW1TL9XZL1T&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Rick Parent " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game Engine Architecture, Third Edition](https://www.amazon.co.uk/Engine-Architecture-Third-Jason-Gregory/dp/1138035459/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1138035459&pd_rd_r=366981ac-f546-11e8-8e71-03acc1ec4d28&pd_rd_w=WtTAM&pd_rd_wg=UtzHu&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=V5R3XAH96Z91AEYGMHAN&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V5R3XAH96Z91AEYGMHAN )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Black Art of 3D Game Programming: Writing Your Own High-Speed 3D Polygon Video Games in C Paperback – August 1, 1995](https://www.amazon.com/Black-Art-Game-Programming-High-Speed/dp/1571690042/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1571690042&pd_rd_r=b0e3a615-f5a8-11e8-9db5-6f7d09a54174&pd_rd_w=EtKDb&pd_rd_wg=E3MWF&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=G4T2BP49TY740Q20KJBR&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=G4T2BP49TY740Q20KJBR )" "Andre Lamothe " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Fundamentals of C/C++ Game Programming Paperback – 25 Apr 2018](https://www.amazon.co.uk/Fundamentals-Game-Programming-Brian-Beuken/dp/1498788742/ref=sr_1_58?s=books&ie=UTF8&qid=1543747351&sr=1-58&keywords=c+programming )" "Brian Beuken (Author) " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Making 8-bit Arcade Games in C Paperback – 26 Apr 2017](https://www.amazon.co.uk/Making-8-bit-Arcade-Games-C/dp/1545484759/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1543747351&sr=1-63 )" "Steven Hugg " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game Engine Black Book: Wolfenstein 3D Paperback – 5 Sep 2017](https://www.amazon.co.uk/Game-Engine-Black-Book-Wolfenstein/dp/1539692876/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= )" "Fabien Sanglard  (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Programming Role Playing Games with DirectX (Game Development Series) Paperback – 30 Jun 2004](https://www.amazon.co.uk/dp/159200315X/?coliid=I3TMMZFHJVII7N&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Jim Adams " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Mechanics: Volume 1 (Course of Theoretical Physics) Paperback – 1 Jan 1976  ](https://www.amazon.co.uk/dp/0750628960/?coliid=I28QLE8SAB0OPF&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "L. D. Landau " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game Programming in C++: Creating 3D Games: Creating 3D Games (Game Design) Paperback – 28 Mar 2018  ](https://www.amazon.co.uk/dp/0134597206/?coliid=I35Q815LV511RX&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Sanjay Madhav" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Essential matematics for Games and Interactive Applications 3rd Edition](https://www.amazon.com/dp/1482250926/?coliid=I1P59MIDQ1MSYL&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "James M. Van Verth" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.co.uk/dp/0985811749/?coliid=I37HUPWEYH70HH&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Physically Based Rendering: From Theory to Implementation](https://www.amazon.co.uk/dp/0128006455/?coliid=I2XCTEW26PV33R&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game AI Pro 3: Collected Wisdom of Game AI Professionals](https://www.amazon.co.uk/dp/1498742580/?coliid=ILPRMHVTPTFYX&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Real-Time Rendering, Fourth Edition](https://www.amazon.co.uk/dp/1138627003/?coliid=I102AMV8S0YUAI&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Mathematics & Physics for Programmers (GAME DEVELOPMENT SERIES)](https://www.amazon.co.uk/dp/1435457331/?coliid=I288QLQN3GTLSO&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Graphics: Mathematical First Steps Textbook Binding – 26 Feb 1998  ](https://www.amazon.co.uk/dp/0135995728/?coliid=I1WT960A25C8M1&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "Patricia Egerton" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game Physics Cookbook Paperback – 24 Mar 2017](https://www.amazon.co.uk/dp/1787123669/?coliid=I1WS5WTNLD2SYH&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Gabor " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[GPU Gems 3: Programming Techniques for High-Performance Graphics and General-Purpose Computation Hardcover – 2 Aug 2007](https://www.amazon.co.uk/dp/0321515269/?coliid=I3M081F5Z0LBC7&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Hubert Nguyen" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[GPU Gems 2: Programming Techniques for High-Performance Graphics and General-Purpose Computation Hardcover – 3 Mar 2005](https://www.amazon.co.uk/dp/0321335597/?coliid=I3HYFDQD6N3BPV&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Matt Pharr " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[GPU Pro 7: Advanced Rendering Techniques Hardcover – 8 Apr 2016](https://www.amazon.co.uk/GPU-Pro-Advanced-Rendering-Techniques/dp/149874253X/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=149874253X&pd_rd_r=2fdee9ed-f604-11e8-8b20-832b885e8b7e&pd_rd_w=h6pLP&pd_rd_wg=ctFnP&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=ZTQ0B26TW9GBVP35334C&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=ZTQ0B26TW9GBVP35334C )" "Wolfgang Engel " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Game AI Pro 3: Collected Wisdom of Game AI Professionals Hardcover – 31 Jul 2017](https://www.amazon.co.uk/Game-AI-Pro-Collected-Professionals/dp/1498742580/ref=pd_bxgy_3?_encoding=UTF8&pd_rd_i=1498742580&pd_rd_r=f8d671a3-f606-11e8-9199-93a0264a9794&pd_rd_w=C9Zy2&pd_rd_wg=HeCNY&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=MQZ8YXDBD96KJDJJV6Z9&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=MQZ8YXDBD96KJDJJV6Z9 )" "Steve Rabin" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics Hardcover – 22 Mar 2004](https://www.amazon.co.uk/dp/0321228324/?coliid=I1PJUJCLYMWCQG&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Randima Fernando" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[GPU Computing Gems Emerald Edition (Applications of GPU Computing Series) Hardcover – 21 Mar 2011](https://www.amazon.co.uk/GPU-Computing-Gems-Emerald-Applications/dp/0123849888/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=0123849888&pd_rd_r=32204da4-f604-11e8-8e36-0b3c5f1ab512&pd_rd_w=nxDtU&pd_rd_wg=7n3qL&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=VTMFNMNNDK8PYH7DAMKY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=VTMFNMNNDK8PYH7DAMKY )" "Wen-mei W. Hwu" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Graphics, C Version: United States Edition Hardcover – 24 May 1996](https://www.amazon.co.uk/Computer-Graphics-Version-United-States/dp/0135309247/ref=pd_sbs_14_3?_encoding=UTF8&pd_rd_i=0135309247&pd_rd_r=352fd794-f604-11e8-86ef-db32b55a2361&pd_rd_w=SKbcL&pd_rd_wg=9FpnZ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=D7FCXNPQF4429TSZ9TPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D7FCXNPQF4429TSZ9TPG )" "Donald D. Hearn" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Programming Mutliplayer FPS Direct X (Game Development Series) Paperback – 19 Jan 2005](https://www.amazon.co.uk/dp/1584503637/?coliid=INZAX7WFN3YZT&colid=SUODQKHMPSPE&psc=0 )" "Vaughan Young" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Graphics, reissued 2nd Ed. Hardcover – 4 Aug 1995](https://www.amazon.co.uk/Computer-Graphics-reissued-2nd-Ed/dp/0201848406/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=0201848406&pd_rd_r=352fd794-f604-11e8-86ef-db32b55a2361&pd_rd_w=SKbcL&pd_rd_wg=9FpnZ&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=D7FCXNPQF4429TSZ9TPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D7FCXNPQF4429TSZ9TPG )" "James D. Foley " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Fundamentals of Computer Graphics Hardcover – 27 Jan 2016 ](https://www.amazon.co.uk/dp/1482229390/?coliid=I2AVRZPHPE1FE4&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Steve Marschner " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3d Technology) Hardcover – 22 Dec 2004](https://www.amazon.co.uk/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323/ref=pd_sbs_14_12?_encoding=UTF8&pd_rd_i=1558607323&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 )" "Christer Ericson " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Beginning Math and Physics for Game Programmers (New Riders Games) Paperback – 22 Mar 2004](https://www.amazon.co.uk/Beginning-Physics-Programmers-Riders-Games/dp/0735713901/ref=pd_sbs_14_21?_encoding=UTF8&pd_rd_i=0735713901&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 )" "Wendy Stahler" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+
 ;; (setq soft-skills-list '(
 
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ;; ))
-
 
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
@@ -240,3 +290,5 @@
 (gen-table algo-ds-list cols "Algorithms & Data Structures")
 (gen-table signal-processing-list cols "Signal processing")
 (gen-table ai-ml-list cols "AI / Machine Learning / Theoretical / Mathematical Optimization")
+(gen-table info-theory-list cols "Information theory and compression")
+(gen-table game-dev-list cols "Game Engine & Game Development")
