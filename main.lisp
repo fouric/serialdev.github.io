@@ -55,7 +55,9 @@
 ))
 (setq max-length (+ max-length 2))
 
-  (format md "<div class=\"datatable-begin\"></div>")
+(format md "<div class=\"datatable-begin\"></div>")
+(format md "~%")
+
 
   (format md (format nil "|~~~:@<~A~>:@<~~A~~>|" (- max-length 2)) (car cols))
 
@@ -81,7 +83,9 @@
   (format md (format nil "~~~:@<~A~>:@<~~A~~>|" (- max-length 1)) i)))
 )
 
-  (format md "<div class=\"datatable-end\"></div>")
+(format md "~%")
+
+(format md "<div class=\"datatable-end\"></div>")
 
 ))
 
