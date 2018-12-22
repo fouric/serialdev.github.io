@@ -179,33 +179,7 @@ by Robert Johansson ](https://www.amazon.co.uk/Numerical-Python-Scientific-Appli
 
 ## Viz
 
-
-
-
-
-
-
-
-
 ### Nice viz/Ux examples
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Windows & Linux dev
 
@@ -215,8 +189,6 @@ by Robert Johansson ](https://www.amazon.co.uk/Numerical-Python-Scientific-Appli
 by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 ## Miscellaneous
-
-
 
 [Gödel, Escher, Bach: An Eternal Golden Braid Paperback – February 5, 1999
 by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 )
@@ -233,183 +205,24 @@ Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
 
 ## Biological-inspired systems
 
-
-
-
-
-
-
-
-
-
 # Papers
 
 ## Theory
 
-
-
-
-
-
-
-
-
 ## Lisp Schemes
-
-
-
-
-
 
 # Projects
 
 ## C || Cpp || Asm
 
-[Beej's Guide to C Programming](https://beej.us/guide/bgc/html/multi/index.html )
-
-[Beej's Guide to Network Programming Using Internet Sockets](https://beej.us/guide/bgnet/ )
-
-[Beej's Guide to Unix Interprocess Communication](https://beej.us/guide/bgipc/ )
-
-[Let's Build a Simple Database Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/ )
-
-[Writing a Linux Kernel Module — Part 1: Introduction](http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/ )
-
-[Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/ )
-
-[How to Write ESP8266 Firmware From Scratch (using ESP Bare Metal SDK and C Language)](https://www.instructables.com/id/How-to-Write-ESP8266-Firmware-From-Scratch-using-E/ )
-
-[(FREE)(END-TO-END)How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ )
-
-[(FREE)(END-TO-END) Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/ )
-
-[Computed goto for efficient dispatch tables](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables )
-
-[(FREE)(END-TO-END) Kernels 101 –
-Let’s write a Kernel
-Arjun Sreedharan](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel )
-
-[(FREE)(END-TO-END) Writing a Simple Operating System —
-from Scratch
-by
-Nick Blundell](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dv.pdf )
-
-[Linux Driver Tutorial: How to Write a Simple Linux Device Driver](https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os )
-
-[(FREE)(END-TO-END) Memory Allocators 101 -
-Write a simple memory allocator
-Arjun Sreedharan](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory )
-
-[C Sockets - No Need For A Web Server!](https://www.i-programmer.info/programming/c-c/9993-c-sockets-no-need-for-a-web-server.html )
-
-[Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/ )
-
-[Teensy 3.1 bare metal: Writing a USB driver](http://kevincuzner.com/2014/12/12/teensy-3-1-bare-metal-writing-a-usb-driver/ )
-
-[OS Dev Tutorials](https://wiki.osdev.org/Tutorials )
-
-[OS lions book](http://warsus.github.io/lions-/ )
-
-
-[OpenGL- Building your own C application](http://www.opengl-tutorial.org/miscellaneous/building-your-own-c-application/ )
-
-[(FREE)(END-TO-END) IMPLEMENTING A VIRTUAL MACHINE IN C](https://felixangell.com/blog/implementing-a-virtual-machine-in-c/ )
-
-[(FREE)(END-TO-END) Writing your own Toy OS](https://linuxgazette.net/issue77/krishnakumar.html )
-
-[(FREE)(END-TO-END) Writing Your Own Toy Compiler Using Flex, Bison and LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
-
-
-[(FREE)(END-TO-END) Writing an Emulator: Introduction](https://www.beardypig.com/2016/01/15/emulator-build-along-1/ )
-
-[(FREE)(END-TO-END) Emulator 101](http://emulator101.com/ )
-
-[(FREE)(END-TO-END) How To Write a Computer Emulator by Marat Fayzullin](http://fms.komkon.org/EMUL8/HOWTO.html )
-
-[(FREE)(END-TO-END)Writing an OS: Baby Steps](https://tutorialsbynick.com/writing-an-os-baby-steps/)
-
-[(FREE)(END-TO-END)Implementing a TCP server in C](https://ops.tips/blog/a-tcp-server-in-c/ )
-
-[(FREE)(END-TO-END)Writing a reverse proxy/loadbalancer from the ground up in C, part 0: introduction](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/ )
-
-[(FREE)(END-TO-END)Broken Thorn Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
-
-[(FREE)(END-TO-END)Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/ )
-
-[(FREE)(END-TO-END)Writing a Debugger](http://system.joekain.com/debugger/ )
-
-[(FREE)(END-TO-END)The little book about OS development
-Erik Helin, Adam Renberg](https://littleosbook.github.io/ )
-
-[What every programmer should know about memory - Ulrich Drepper - Redhat](https://lwn.net/Articles/250967/ )
-
-[(FREE)(END-TO-END)Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/ )
-
-[(FREE)(END-TO-END)Creating a Virtual Machine/Register VM in C](https://en.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_C )
-
-[(FREE)(END-TO-END) Neural Network from scratch: Part 1 – Theory](https://causeyourestuck.io/2017/06/12/neural-network-scratch-theory/ )
-
-[Gcc Macros ](https://gcc.gnu.org/onlinedocs/cpp/Macros.html )
-
-[(FREE)Machine Vision with OpenCV:A Primer](https://www.optolab.ti.bfh.ch/wiki/_media/huce:roboticslab:tutorials:opencv:machine.vision.with.opencv.pdf )
-
-[Clockwise spiral rule - David Anderson](http://c-faq.com/decl/spiral.anderson.html )
-
-[CALLBACKS IN C++ USING TEMPLATE FUNCTORS
-Copyright 1994 Rich Hickey](http://www.tutok.sk/fastgl/callback.html )
-
-[Low Level Bit Hacks You Absolutely Must Know](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/ )
-
-
 ## Lisp Scheme etc
-
-[How to design programs - Mathias Fellisien , shriram krishnamurthi](https://www.htdp.org/ )
-
-[Building a distributed in-memory key value store in Clojure.](http://markwoodhall.com/12-05-2016-building-a-distributed-in-memory-key-value-store-in-clojure/ )
-
-[Building a simple HTTP server in Clojure: Part I — Setting up server](https://medium.com/@divyum/building-a-simple-http-server-in-clojure-b8c80fa5035e )
-
-[A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/ )
-
-[Scheme from Scratch - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction )
-
-[Compilers: Backend to Frontend
-and Back to Front Again
-Abdulaziz Ghuloum](http://web.archive.org/web/20100310183100/http://www.cs.indiana.edu/~aghuloum/compilers-tutorial-2006-09-16.pdf )
-
-[Make a language in one hour: stacker](https://beautifulracket.com/stacker/why-make-languages.html )
 
 ## Rust
 
-[Writing a simple database in rust, part 1](http://nikhilism.com/post/2016/writing-simple-database-in-rust-part-1/ )
 
-[Embedded in Rust](https://blog.japaric.io/quickstart/ )
 
-[A Tiny `ls` Clone Written in Rust](https://matthias-endler.de/2018/ls/ )
 
-[Bare Metal Rust: Building kernels in Rust](http://www.randomhacks.net/bare-metal-rust/ )
 
-[Writing an OS in Rust in tiny steps (Steps 1-5)](https://jvns.ca/blog/2014/03/12/the-rust-os-story/ )
-
-[Writing an OS in Rust (Second Edition) Philipp Oppermann's blog](https://os.phil-opp.com/ )
-
-[Of tantivy, a search engine in Rust (part 1)](https://fulmicoton.com/posts/behold-tantivy/ )
-
-[Matt Brubeck
-08 Aug 2014
-Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html )
-
-[Rust futures: an uneducated, short and hopefully not boring tutorial - Part 4 - A "real" future from scratch](https://dev.to/mindflavor/rust-futures-an-uneducated-short-and-hopefully-not-boring-tutorial---part-4---a-real-future-from-scratch-734 )
-
-[Writing Python Extensions in Rust](https://kushaldas.in/posts/writing-python-extensions-in-rust.html )
-
-[Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/ )
-
-[Rust in Detail: Writing Scalable Chat Service from Scratch](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html )
-
-[Build a DNS server from scratch ](https://github.com/EmilHernvall/dnsguide/blob/master/chapter1.md )
-
-[Writing An Interpreter In Rust](https://chr4.org/blog/2016/12/09/writing-an-interpreter-in-rust/ )
 
 ## DB
 
@@ -418,33 +231,33 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 ## Python
 
-[(END-TO-END)(FREE) A Programmer's Guide to Data Mining](http://guidetodatamining.com/ )
 
-[Writing a Simple Compiler from Scratch](http://rickyhan.com/jekyll/update/2018/07/26/simple-compiler.html )
 
-[Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/ )
 
-[Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/ )
 
-[Writing a C Compiler, Part 1](https://norasandler.com/2017/11/29/Write-a-Compiler.html )
 
-[(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html )
 
-[Fast and Easy Levenshtein distance using a Trie](http://stevehanov.ca/blog/index.php?id=114 )
 
-[The Flask Mega-Tutorial Part XIX: Deployment on Docker Containers - April 10 2018](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers)
+
+
+
+
+
+
+
+
 
 
 ## Haskell
 
-[(FREE)(END-TO-END) Write Yourself a Scheme in 48 Hours/Parsing](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/Parsing )
+
 
 ## Other
 
 [Statically Recompiling NES Games into Native Executables with LLVM and Go](https://andrewkelley.me/post/jamulator.html )
 
 
-[Pico8 - Writing a retro 3D FPS engine from scratch](https://medium.com/@btco_code/writing-a-retro-3d-fps-engine-from-scratch-b2a9723e6b06 )
+
 
 [Tutorial: write a scalable, fault-tolerant, network chat server and client (Scala)](https://doc.akka.io/docs/akka/1.3.1/scala/tutorial-chat-server.html )
 
@@ -458,10 +271,9 @@ Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout
 
 [Quantum computing primer ](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer )
 
-[Writing a StarCraft Bot in F#](https://blogs.msdn.microsoft.com/chrsmith/2010/03/18/writing-a-starcraft-bot-in-f/ )
 
-[Why you should learn just a little Awk:
-](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html )
+
+
 
 ## Algos
 
@@ -562,7 +374,6 @@ Tech and science for curious people.](https://manybutfinite.com/ )
 # Miscellaneous
 
 [The Tao-of-programming](http://canonical.org/~kragen/tao-of-programming.html )
-
 
 [My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg )
 
