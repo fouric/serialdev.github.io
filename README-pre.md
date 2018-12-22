@@ -25,45 +25,7 @@
 ## Infosec & Hacking & Game sec
 
 
-
-
-
-
-
-
 ## Low-Level programming
-
-[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html )
-
-[Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit Paperback – December 8, 1994
-by Michael Abrash ](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039 )
-
-[Michael Abrash's Graphics Programming Black Book (Special Edition) Paperback – July 1, 1997
-by Michael Abrash ](https://www.amazon.com/gp/product/1576101746/ref=dbs_a_def_rwt_bibl_vppi_i0 )
-
-[Programming from the Ground Up Jonathan Bartlett](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf )
-
-[(FREE) Assemblers And Loaders.](http://www.davidsalomon.name/assem.advertis/AssemAd.html )
-
-[(FREE) The Assembler Developer's Kit](http://www.plantation-productions.com/Webster/RollYourOwn/index.html )
-
-[(FREE) An Introduction to the C Programming Language
-and Software Design
-Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )
-
-[Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture](https://www.amazon.co.uk/dp/1484224027/?coliid=IR7XN54ZV5YKB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[C in a Nutshell](https://www.amazon.co.uk/dp/1491904755/?coliid=I1T1X1PK25Q277&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Intermediate C Programming](https://www.amazon.co.uk/dp/1498711634/?coliid=I1PGHGBFAZU8JS&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 )
-
-[Hacker's Delight](https://www.hackersdelight.org/)
-
-[Art of Assembly Language, 2nd Edition
-by Randall Hyde](https://nostarch.com/assembly2.htm )
-
 
 ## Software Engineering General
 
@@ -177,32 +139,11 @@ by Gregor Kiczales ](https://www.amazon.com/dp/0262610744/?coliid=I1LX6G39V5UIMJ
 
 ## Quantum Computation
 
-[Programming in Qlisp: A case study (Report / Stanford University. Computer Science Dept)
-by Arkady Rabinov](https://www.amazon.com/dp/B00071PNHW/?coliid=I30S5UE73GOESN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Automatic Quantum Computer Programming: A Genetic Programming Approach 2004th Edition
-by Lee Spector ](https://www.amazon.com/dp/1402078943/?coliid=I3VAMQOA51JREY&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Quantum Algorithms via Linear Algebra: A Primer (The MIT Press) 1st Edition
-by Richard J. Lipton ](https://www.amazon.com/dp/0262028395/?coliid=I3BOJXVWTXSAP4&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Quantum Computing for Computer Scientists 1st Edition
-by Noson S. Yanofsky ](https://www.amazon.com/dp/0521879965/?coliid=I1RURA4TMPPOOJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
 ## Computer Architecture
 
-[The Architecture of Symbolic Computers (McGraw-Hill Series in Supercomputing and Parallel Processing)
-by Peter M. Kogge ](https://www.amazon.com/dp/0070355967/?coliid=I22X9HE8V9JD70&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Modern Microprocessors
-A 90-Minute Guide! - by Jason Robert Carey Patterson](http://www.lighterra.com/papers/modernmicroprocessors/ )
 
-[Inside the Machine
-An Illustrated Introduction to Microprocessors and Computer Architecture
-by Jon Stoke](https://nostarch.com/insidemachine.htm )
 
-[Computer Systems: A Programmer's Perspective (3rd Edition) 3rd Edition
-by Randal E. Bryant](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk )
 
 
 ## Python

@@ -11,6 +11,25 @@
  "Implementation" "Free" "End-To-End"))
 
 
+(setq low-level-list '(
+
+("[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit Paperback – December 8, 1994](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039 )" "Michael Abrash " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Michael Abrash's Graphics Programming Black Book (Special Edition) Paperback – July 1, 1997](https://www.amazon.com/gp/product/1576101746/ref=dbs_a_def_rwt_bibl_vppi_i0 )" "Michael Abrash " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf )" "Jonathan Bartlett" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Assemblers And Loaders.](http://www.davidsalomon.name/assem.advertis/AssemAd.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Assembler Developer's Kit](http://www.plantation-productions.com/Webster/RollYourOwn/index.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[An Introduction to the C Programming Language and Software Design Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture](https://www.amazon.co.uk/dp/1484224027/?coliid=IR7XN54ZV5YKB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[C in a Nutshell](https://www.amazon.co.uk/dp/1491904755/?coliid=I1T1X1PK25Q277&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Intermediate C Programming](https://www.amazon.co.uk/dp/1498711634/?coliid=I1PGHGBFAZU8JS&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Comparing Compiler Optimizations](https://blog.regehr.org/archives/320 )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Hacker's Delight](https://www.hackersdelight.org/)" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Art of Assembly Language, 2nd Edition](https://nostarch.com/assembly2.htm )" "Randall Hyde" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+
 (setq compiler-list '(
 ("[Stackoverflow Learning to write a compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler)" "miscellaneous"   "--" "✔" "✖" "✔" "✔" "✖" "✔")
 ("[Programming Languages: Application and Interpretation Copyright © 2003-07](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ )" "Shriram Krishnamurthi"   "--" "✔" "✖" "✔" "✔" "✖" "✔" )
@@ -297,13 +316,28 @@
 
 ))
 
+(setq quantum-dev-list '(
+
+("[Programming in Qlisp: A case study (Report / Stanford University. Computer Science Dept)](https://www.amazon.com/dp/B00071PNHW/?coliid=I30S5UE73GOESN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Arkady Rabinov" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Automatic Quantum Computer Programming: A Genetic Programming Approach 2004th Edition](https://www.amazon.com/dp/1402078943/?coliid=I3VAMQOA51JREY&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Lee Spector " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Quantum Algorithms via Linear Algebra: A Primer (The MIT Press) 1st Edition](https://www.amazon.com/dp/0262028395/?coliid=I3BOJXVWTXSAP4&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Richard J. Lipton " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Quantum Computing for Computer Scientists 1st Edition](https://www.amazon.com/dp/0521879965/?coliid=I1RURA4TMPPOOJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Noson S. Yanofsky " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+))
+
+(setq comp-arch-list '(
+
+("[The Architecture of Symbolic Computers (McGraw-Hill Series in Supercomputing and Parallel Processing)](https://www.amazon.com/dp/0070355967/?coliid=I22X9HE8V9JD70&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Peter M. Kogge " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/ )" "Jason Robert Carey Patterson" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Inside the Machine An Illustrated Introduction to Microprocessors and Computer Architecture](https://nostarch.com/insidemachine.htm )" "Jon Stoke" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Computer Systems: A Programmer's Perspective (3rd Edition) 3rd Edition](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk )" "Randal E. Bryant" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
 
 ;; (setq soft-skills-list '(
 
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ;; ))
-
 
 ;; (setq soft-skills-list '(
 
@@ -323,57 +357,47 @@
                      :if-does-not-exist :create))
 
 (defun gen-table (entry-list cols topic)  
-(with-open-file (md  (concatenate 'string cwd "/README.md")
-                     :direction :output
-                     :if-exists :append
-                     :if-does-not-exist :create)
+  (with-open-file (md  (concatenate 'string cwd "/README.md")
+		       :direction :output
+		       :if-exists :append
+		       :if-does-not-exist :create)
 
 
-(let ((max-length 0))
-  (loop for entry in entry-list
-     do (loop for i in entry do(setq max-length (if (< max-length  (length  i))
-			     (length i )(eval max-length)))
-))
-(setq max-length (+ max-length 2))
+  (let ((max-length 0))
+    (loop for entry in entry-list
+       do (loop for i in entry do(setq max-length (if (< max-length  (length  i))
+			       (length i )(eval max-length)))
+  ))
+  (setq max-length (+ max-length 2))
 
-(format md "# ~s ~%~%" (string-capitalize topic))
+  (format md "# ~s ~%~%" (string-capitalize topic))
 
-(format md "~%~%")
-
-
-(format md "<div class=\"datatable-begin\"></div>~%~%")
-
-
+  (format md "~%~%")
+  (format md "<div class=\"datatable-begin\"></div>~%~%")
 
   (format md (format nil "|~~~:@<~A~>:@<~~A~~>|" (- max-length 2)) (car cols))
 
   (loop for current in (cdr cols)
   do (progn
+       (format md (format nil "~~~:@<~A~>:@<~~A~~>|" (- max-length 1)) current)))
 
-  (format md (format nil "~~~:@<~A~>:@<~~A~~>|" (- max-length 1)) current)))
+       (format md "~%")
+       (format md "|~v{~A~:*~}:|" (- max-length 3) '("-"))
+	 (loop for current in (cdr cols)
+	 do (progn
+	      (format md ":~v{~A~:*~}:|" (- max-length 3) '("-"))))
 
-  (format md "~%")
-  (format md "|~v{~A~:*~}:|" (- max-length 3) '("-"))
-    (loop for current in (cdr cols)
-    do (progn
-    (format md ":~v{~A~:*~}:|" (- max-length 3) '("-"))))
+  (loop for entry in entry-list do
+    (progn(
+    format md "~%")
+    (format md (format nil "|~~~:@<~A~>:@<~~A~~>|" (- max-length 2)) (car entry))
 
+      (loop for i in (cdr entry) do
+    (format md (format nil "~~~:@<~A~>:@<~~A~~>|" (- max-length 1)) i))))
 
-
-(loop for entry in entry-list do
-  (progn(
-  format md "~%")
-  (format md (format nil "|~~~:@<~A~>:@<~~A~~>|" (- max-length 2)) (car entry))
-
-    (loop for i in (cdr entry) do
-  (format md (format nil "~~~:@<~A~>:@<~~A~~>|" (- max-length 1)) i)))
-)
-
-(format md "~%~%")
-
-(format md "<div class=\"datatable-end\"></div>")
-(format md "~%~%")
-
+  (format md "~%~%")
+  (format md "<div class=\"datatable-end\"></div>")
+  (format md "~%~%")
 )))
 
 (gen-table compiler-list cols "compilers")
@@ -390,3 +414,5 @@
 (gen-table os-dev-list cols "Operating Systems")
 (gen-table dist-dev-list cols "Distributed systems")
 (gen-table infosec-list cols "Infosec & Hacking & Game sec")
+(gen-table quantum-dev-list cols "Quantum computation")
+(gen-table comp-arch-list cols "Computer Architecture")
