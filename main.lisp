@@ -55,8 +55,8 @@
 ))
 (setq max-length (+ max-length 2))
 
-(format md "---~%datatable: true~%---~%")
-(format md "~%")
+;; (format md "---~%datatable: true~%---~%")
+;; (format md "~%")
 
 (format md "<div class=\"datatable-begin\"></div>~%~%")
 
