@@ -20,6 +20,7 @@
 
 ## Information Retrieval and DB Systems
 
+## Theoretical CS
 
 
 
@@ -31,37 +32,6 @@
 
 
 
-## Theoretical CSs
-
-[Feynman Lectures On Computation (Frontiers in Physics) 1st Edition
-by Richard P. Feynman  (Author), Anthony Hey (Author)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967 )
-
-[Computational Complexity Paperback – 30 Nov 1993
-by Christos H. Papadimitriou](https://www.amazon.co.uk/dp/0201530821/?coliid=I2PF8FOD5M36G7&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
-
-[The Algebra of Programming](https://www.amazon.co.uk/dp/013507245X/?coliid=I24UI5TQNZ0Y6M&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Foundations for Programming Languages (Foundations of Computing)
-by John C. Mitchell ](https://www.amazon.com/dp/0262133210/?coliid=I3QUQA84XQ1W5N&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Theory and Practice of Computation - Proceedings of Workshop on Computation: Theory and Practice (Wctp2015) Hardcover – 27 Apr 2017
-by Masayuki Numao ](https://www.amazon.co.uk/dp/9813202807/?coliid=IZGJA42C0OC3Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Pattern Calculus: Computing with Functions and Structures](https://www.amazon.co.uk/dp/3642426018/?coliid=I3R17ZK3K3PGBQ&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[A Discipline of Programming (Automatic Computation) 19 Mar 1976
-by E. Dijkstra](https://www.amazon.co.uk/dp/013215871X/?coliid=I3SRAPWL5KKQPO&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Types and Programming Languages (The MIT Press) 1st Edition
-by Benjamin C. Pierce ](https://www.amazon.com/dp/0262162091/?coliid=I2LCRRSALR3KLP&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[The Haskell Road to Logic, Maths and Programming (Texts in Computing, Vol. 4)](https://www.amazon.co.uk/dp/0954300696/?coliid=ICKBPPNKS6BK9&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[The Little Typer (The MIT Press) Paperback – September 18, 2018
-by Daniel P. Friedman ](https://www.amazon.com/dp/0262536439/?coliid=I1Q561HW6ZAGCQ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Mathematical Theory of Computation (Dover Books on Mathematics) Paperback – December 24, 2003
-by Zohar Manna ](https://www.amazon.com/dp/0486432386/?coliid=I2CECNXUR21RJF&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
 ## Operating Systems
 
