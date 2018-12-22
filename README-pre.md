@@ -6,33 +6,14 @@
 |----------:|:-------:|:----:|:----:|:------:|:--------------:|:----------:|:----:|:----:|-----------:|
 |Title(url) | language| Book | blog | Theory | Implementation | pseudocode | List | Free | End-to-end |
 
-## Compilers & Interpreters
 
 
 
 
 
-## Heterogeneous Programming
 
-[CUDA for Engineers: An Introduction to High-Performance Parallel Computing](https://www.amazon.co.uk/dp/013417741X/?coliid=I1GIDMG183GAHW&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Programming for Hybrid Multi/Manycore MPP Systems (Chapman & Hall/CRC Computational Science)](https://www.amazon.co.uk/dp/1439873712/?coliid=IEW6C7WNDQEEJ&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Design of FPGA-Based Computing Systems with OpenCL](https://www.amazon.co.uk/dp/B076VLQQTD/?coliid=IAG04C0OA7CCS&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[High Performance Parallelism Pearls Volume One: Multicore and Many-core Programming Approaches](https://www.amazon.co.uk/dp/B00PLOC4D6/?coliid=I3BEDQOAQ09T54&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
-
-[Heterogeneous Computing with OpenCL 2.0 Paperback – 26 May 2015
-by David R. Kaeli  ](https://www.amazon.co.uk/Heterogeneous-Computing-OpenCL-David-Kaeli/dp/0128014148/ref=tmm_pap_swatch_0?_encoding=UTF8&coliid=IQSCQ6KY1CLC6&colid=VGMW4P3F44LH&qid=&sr= )
-
-[Programming Massively Parallel Processors: A Hands-on Approach 3rd Edition
-by David B. Kirk ](https://www.amazon.com/dp/0128119861/?coliid=IVXLYK0PHPIMU&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
-
-[GPU Parallel Program Development Using CUDA (Chapman & Hall/CRC Computational Science) Hardcover – 6 Oct 2016
-by Tolga Soyata](https://www.amazon.co.uk/dp/1498750753/?coliid=I1AVH5U89G43FO&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )
-
-[How to Write Parallel Programs: A First Course Hardcover – October 29, 1990
-by Nicholas Carriero  (Author), David Gelernter (Author)](https://www.amazon.com/How-Write-Parallel-Programs-Course/dp/026203171X )
 
 
 ## Softer-skills & Historical
