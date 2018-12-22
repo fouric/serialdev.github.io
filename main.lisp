@@ -7,13 +7,13 @@
            (if (stringp item)
              (format s "~a" item))))))
 
-(setq cols '("Title" "Author" "URL" "Topic" "Book" "Blog" "Theory"
+(setq cols '("Title(URL)" "Author" "Topic" "Book" "Blog" "Theory"
  "Implementation" "pseudocode" "List" "Free" "End-To-End"))
 
 
 (setq entry-list '(
-("Stackoverflow compilers" "miscellaneous" "www.hhh.com" "compilers" "t" "t" "t" "t" "t" "t" "t" "t")
-("ssssssssssssssscompilerssss" "miscellaneous" "www.hhh.com" "compilers" "t" "t" "t" "t" "t" "t" "t" "t")
+("[Stackoverflow compilers](www.hhh.com)" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t" "t" "t")
+("[ssssssssssssssscompilerssss](www.hhh.com)" "miscellaneous"  "compilers" "t" "t" "t" "t" "t" "t" "t" "t")
 ))
 
 (setq cwd (sb-posix:getcwd))
