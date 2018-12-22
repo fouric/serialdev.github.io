@@ -13,25 +13,16 @@
 
 
 
-[Constraint Programming Languages: Their Specification and Generation (Addison-Wesley series in computer science) Paperback – July 1, 1987](https://www.amazon.com/Constraint-Programming-Languages-Specification-Addison-Wesley/dp/0201062437 )
 
-[Programming Language
-Concepts
-for Software Developers
-Peter Sestoft
-IT University of Copenhagen, Denmark](http://web.archive.org/web/20120523194304/https://www.itu.dk/courses/BPRD/E2010/plcsd-0_50.pdf )
 
-``` F#
-F#
-```
-[Basics of Compiler Design - torbenm](http://hjemmesider.diku.dk/~torbenm/Basics/index.html )
 
-[(FREE) Basics of Compiler Design - Torben Ægidius Mogensen](http://web.archive.org/web/20150216163815/http://www.diku.dk:80/hjemmesider/ansatte/torbenm/Basics/basics_lulu2.pdf )
 
-[(FREE) Build Your Own Lisp](http://www.buildyourownlisp.com/ )
 
-[(FREE) Introduction to Compilers and Language Design
-A free online textbook by Douglas Thain](https://www3.nd.edu/~dthain/compilerbook/ )
+
+
+
+
+
 
 [(FREE) Compiler Building Tutorial
 Let’s Build a Compiler - Jack W. Crenshaw](http://web.archive.org/web/20180107011717/https://www.stack.nl/~marcov/compiler.pdf )
