@@ -223,11 +223,35 @@
 
 ))
 
+(setq info-retr-list '(
+
+("[Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition (The Morgan Kaufmann Series in Multimedia Information and Systems) 1st Edition](https://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703 )" "Ian H. Witten  (Author), Alistair Moffat (Author), Timothy C. Bell  (Author)" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Notes on Music Information Retrieval](https://musicinformationretrieval.com/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[An Introduction to Database Systems 8th (eighth) Edition](https://www.amazon.co.uk/Introduction-Database-Systems-published-Pearson/dp/B00EKYUU0W/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=B00EKYUU0W&pd_rd_r=eff8a732-f54c-11e8-bed3-773608197450&pd_rd_w=gVKrS&pd_rd_wg=5X2lP&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=9E06HMM0B5T8SRK311MH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9E06HMM0B5T8SRK311MH )" "Date, C.J." "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Video Cataloguing: Structure Parsing and Content Extraction ](https://www.amazon.co.uk/dp/1138894133/?coliid=I2NVCD3J4ZUJEF&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Search Engines: Information Retrieval in Practice 1st Edition](https://www.amazon.com/dp/0136072240/?coliid=IITOOCXJYT3LZ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Bruce Croft " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Information Retrieval: Implementing and Evaluating Search Engines (The MIT Press) Paperback – February 12, 2016](https://www.amazon.com/dp/0262528878/?coliid=I2ZDKH167A5SXQ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Stefan Büttcher " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Introduction to Information Retrieval 1st Edition](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1WAMGY&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Christopher D. Manning" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Mining of Massive Datasets](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1543695155&sr=1-1&keywords=mining+massive )" "Jeffrey Ullman" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Database Design (MCGRAW HILL COMPUTER SCIENCE SERIES) Subsequent Edition](https://www.amazon.com/Database-Design-MCGRAW-COMPUTER-SCIENCE/dp/0070701326 )" "Gio Wiederhold  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+
 ;; (setq soft-skills-list '(
 
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ;; ))
+
+
+
+;; (setq soft-skills-list '(
+
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+;; ))
+
 
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
@@ -302,3 +326,4 @@
 (gen-table info-theory-list cols "Information theory and compression")
 (gen-table game-dev-list cols "Game Engine & Game Development")
 (gen-table hft-list cols "HFT & Finance")
+(gen-table info-retr-list cols "Information Retrieval and DB Systems")

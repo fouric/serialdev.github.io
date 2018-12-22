@@ -18,35 +18,17 @@
 
 ## HFT & Finance
 
-
-
-
-
 ## Information Retrieval and DB Systems
 
-[Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition (The Morgan Kaufmann Series in Multimedia Information and Systems) 1st Edition
-by Ian H. Witten  (Author), Alistair Moffat (Author), Timothy C. Bell  (Author)](https://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703 )
 
 
-[Notes on Music Information Retrieval](https://musicinformationretrieval.com/ )
 
-[An Introduction to Database Systems 8th (eighth) Edition by Date, C.J.](https://www.amazon.co.uk/Introduction-Database-Systems-published-Pearson/dp/B00EKYUU0W/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=B00EKYUU0W&pd_rd_r=eff8a732-f54c-11e8-bed3-773608197450&pd_rd_w=gVKrS&pd_rd_wg=5X2lP&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=9E06HMM0B5T8SRK311MH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9E06HMM0B5T8SRK311MH )
 
-[Video Cataloguing: Structure Parsing and Content Extraction ](https://www.amazon.co.uk/dp/1138894133/?coliid=I2NVCD3J4ZUJEF&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Search Engines: Information Retrieval in Practice 1st Edition
-by Bruce Croft ](https://www.amazon.com/dp/0136072240/?coliid=IITOOCXJYT3LZ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Information Retrieval: Implementing and Evaluating Search Engines (The MIT Press) Paperback – February 12, 2016
-by Stefan Büttcher ](https://www.amazon.com/dp/0262528878/?coliid=I2ZDKH167A5SXQ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Introduction to Information Retrieval 1st Edition
-by Christopher D. Manning](https://www.amazon.com/dp/0521865719/?coliid=I36WVRN1WAMGY&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Mining of Massive Datasets - Jeffrey Ullman](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1543695155&sr=1-1&keywords=mining+massive )
 
-[Database Design (MCGRAW HILL COMPUTER SCIENCE SERIES) Subsequent Edition
-by Gio Wiederhold  ](https://www.amazon.com/Database-Design-MCGRAW-COMPUTER-SCIENCE/dp/0070701326 )
 
 
 ## Theoretical CSs
