@@ -183,25 +183,20 @@ by Robert Johansson ](https://www.amazon.co.uk/Numerical-Python-Scientific-Appli
 
 ## Windows & Linux dev
 
-[Windows® via C/C++ (Developer Reference)](https://www.amazon.co.uk/dp/B00JDMQK9G/?coliid=IW5R4HS74J0MW&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[The Linux Programming Interface: A Linux and UNIX System Programming Handbook 1st Edition
-by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+
+
 
 ## Miscellaneous
 
-[Gödel, Escher, Bach: An Eternal Golden Braid Paperback – February 5, 1999
-by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 )
+[Gödel, Escher, Bach: An Eternal Golden Braid Paperback – February 5, 1999 by Douglas R. Hofstadter  ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 )
 
 
 [Once Upon an Algorithm: How Stories Explain Computing (The MIT Press)](https://www.amazon.co.uk/dp/0262036630/?coliid=I3EGRAB64L118R&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Every Computer Performance Book Paperback – March 29, 2013
-by Bob Wescott ](https://www.amazon.com/dp/1482657759/?coliid=I8U8GYWIUF5GK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
+[Every Computer Performance Book Paperback – March 29, 2013 by Bob Wescott ](https://www.amazon.com/dp/1482657759/?coliid=I8U8GYWIUF5GK&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )
 
-[Open Source Intelligence Methods and Tools
-A Practical Guide to Online Intelligence
-Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
+[Open Source Intelligence Methods and Tools A Practical Guide to Online Intelligence Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
 
 ## Biological-inspired systems
 
@@ -218,67 +213,16 @@ Authors: Hassan, Nihad](https://www.apress.com/gp/book/9781484232125 )
 ## Lisp Scheme etc
 
 ## Rust
-
-
-
-
-
-
 ## DB
 
 [(StackOverflow)Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers/ )
 
 
 ## Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Haskell
 
-
-
 ## Other
-
-[Statically Recompiling NES Games into Native Executables with LLVM and Go](https://andrewkelley.me/post/jamulator.html )
-
-
-
-
-[Tutorial: write a scalable, fault-tolerant, network chat server and client (Scala)](https://doc.akka.io/docs/akka/1.3.1/scala/tutorial-chat-server.html )
-
-[Creating Domain Specific Languages with Scala - Part 1](https://blog.scalac.io/2015/05/07/encog-dsl.html )
-
-[Lexing and parsing in Scala using combinators: M-Expression syntax](http://matt.might.net/articles/implementation-of-m-expression-parser-in-scala-combinators-without-stdlexical-stdtokenparsers/ )
-
-[Building a compiler in Scala](https://medium.com/@anicolaspp/building-a-compiler-in-scala-8d51b467baec )
-
-[(SLIDES) How to make a gameboy emulator](https://www.cl.cam.ac.uk/~pv273/slides/emulation.pdf )
-
-[Quantum computing primer ](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer )
-
-
-
-
-
 ## Algos
-
-[Substring search algorithm online algo ](http://volnitsky.com/project/str_search/ )
-
 
 # Blogs
 

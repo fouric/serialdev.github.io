@@ -148,7 +148,11 @@
 ("[Parallel Algorithms (Chapman & Hall/CRC Numerical Analysis and Scientific Computing Series)](https://www.amazon.co.uk/dp/B005H6YSLE/?coliid=I1EWIBY1I4IZGY&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Clever Algorithms: Nature-Inspired Programming Recipes By Jason Brownlee PhD](http://cleveralgorithms.com/nature-inspired/index.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Learning Functional Data Structures and Algorithms](https://www.amazon.co.uk/dp/B01DWFRFUW/?coliid=I1KG2TG0E5KGIZ&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Substring search algorithm online algo ](http://volnitsky.com/project/str_search/ )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
 ))
 
 (setq signal-processing-list '(
@@ -293,6 +297,8 @@
 ("[The Design and Implementation of the FreeBSD Operating System](https://www.amazon.co.uk/dp/0321968972/?coliid=I2TNHODKMNZU5A&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Computer Systems: A Programmer's Perspective](https://www.amazon.co.uk/dp/1292101768/?coliid=I26ZBJJX04WO8B&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Lions' Commentary on Unix 6th Edition](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137 )" "John Lions  " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Windows® via C/C++ (Developer Reference)](https://www.amazon.co.uk/dp/B00JDMQK9G/?coliid=IW5R4HS74J0MW&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The Linux Programming Interface: A Linux and UNIX System Programming Handbook 1st Edition by Michael Kerrisk ](https://www.amazon.com/dp/1593272200/?coliid=I3U71FQKYCFMNC&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
@@ -342,6 +348,7 @@
 ("[Quantum Algorithms via Linear Algebra: A Primer (The MIT Press) 1st Edition](https://www.amazon.com/dp/0262028395/?coliid=I3BOJXVWTXSAP4&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Richard J. Lipton " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Quantum Computing for Computer Scientists 1st Edition](https://www.amazon.com/dp/0521879965/?coliid=I1RURA4TMPPOOJ&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Noson S. Yanofsky " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Shor's Quantum Factoring Algorithm](https://arxiv.org/abs/quant-ph/0010034 )" "Samuel J. Lomonaco Jr" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Quantum computing primer ](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
@@ -351,6 +358,7 @@
 ("[Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/ )" "Jason Robert Carey Patterson" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Inside the Machine An Illustrated Introduction to Microprocessors and Computer Architecture](https://nostarch.com/insidemachine.htm )" "Jon Stoke" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Computer Systems: A Programmer's Perspective (3rd Edition) 3rd Edition](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=dp_ob_title_bk )" "Randal E. Bryant" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[(SLIDES) How to make a gameboy emulator](https://www.cl.cam.ac.uk/~pv273/slides/emulation.pdf )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
@@ -515,7 +523,13 @@
 ("[Why you should learn just a little Awk:](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html )" "miscellaneous" "AWK" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Writing a StarCraft Bot in F#](https://blogs.msdn.microsoft.com/chrsmith/2010/03/18/writing-a-starcraft-bot-in-f/ )" "miscellaneous" "F#" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Pico8 - Writing a retro 3D FPS engine from scratch](https://medium.com/@btco_code/writing-a-retro-3d-fps-engine-from-scratch-b2a9723e6b06 )" "miscellaneous" "Pico8" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
-("" "miscellaneous" "Python" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Statically Recompiling NES Games into Native Executables with LLVM and Go](https://andrewkelley.me/post/jamulator.html )" "miscellaneous" "Go" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Tutorial: write a scalable, fault-tolerant, network chat server and client (Scala)](https://doc.akka.io/docs/akka/1.3.1/scala/tutorial-chat-server.html )" "miscellaneous" "Scala" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Creating Domain Specific Languages with Scala - Part 1](https://blog.scalac.io/2015/05/07/encog-dsl.html )" "miscellaneous" "Scala" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Lexing and parsing in Scala using combinators: M-Expression syntax](http://matt.might.net/articles/implementation-of-m-expression-parser-in-scala-combinators-without-stdlexical-stdtokenparsers/ )" "miscellaneous" "Scala" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[Building a compiler in Scala](https://medium.com/@anicolaspp/building-a-compiler-in-scala-8d51b467baec )" "miscellaneous" "Scala" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("" "miscellaneous" "Scala" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("" "miscellaneous" "Scala" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 
 ))
 
