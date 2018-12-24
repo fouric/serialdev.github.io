@@ -313,22 +313,34 @@ Tech and science for curious people.](https://manybutfinite.com/ )
 
 # Cheatsheets
 
-[linux command line reference](http://www.pixelbeat.org/cmdline.html )
+
 
 # Miscellaneous
 
-[The Tao-of-programming](http://canonical.org/~kragen/tao-of-programming.html )
 
-[My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg )
 
-[The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt )
 
-[In Praise of APL:
-A Language for Lyrical Programming
-Professor Alan J. Perlis](http://www.jsoftware.com/papers/perlis77.htm )
+
+
+
+
 
 
 # Extras  Non  link
 ```
-It also helps to familiarize yourself with classical pathological syntax issues for languages like ALGOL-68 (requires 'semantic actions' to parse correctly) and early versions of FORTRAN (identifiers could have intermediate whitespace, which meant that a typo could corrupt the meaning of the program) and figure out how to do parse a language with an Offside Rule (and not all offside rules are created equal; Haskell 98 is very complex). Then look at techniques like scannerless/lexerless parsing (SGLR, PEG, etc.), combinatorial parsing, etc. Understand what mathematical properties of a parser algorithm and a parser generator you should look for to ease your job. Understand why naive user of a parser generator tends to result in slower lexing/parsing than hand-coded ones. Understand why for some applications we might be able to not care. Understand how to embed good error messages in a grammar-based approach vs. hand-coded solution. Understand the notion of unparsers, which, IIRC, are not covered in any of the Dragon Book at all.
+It also helps to familiarize yourself with classical pathological syntax issues for languages like ALGOL-68
+(requires 'semantic actions' to parse correctly) and early versions of FORTRAN
+(identifiers could have intermediate whitespace,
+which meant that a typo could corrupt the meaning of the program)
+and figure out how to do parse a language with an Offside Rule
+(and not all offside rules are created equal; Haskell 98 is very complex). 
+Then look at techniques like scannerless/lexerless parsing (SGLR, PEG, etc.), 
+combinatorial parsing, etc. Understand what mathematical properties of a parser 
+algorithm and a parser generator you should look for to ease your job. 
+Understand why naive user of a parser generator tends to result in slower 
+lexing/parsing than hand-coded ones. Understand why for some applications we 
+might be able to not care. Understand how to embed good error messages in a 
+grammar-based approach vs. hand-coded solution. 
+Understand the notion of unparsers, which, IIRC, are not covered in any of the 
+Dragon Book at all.
 ```

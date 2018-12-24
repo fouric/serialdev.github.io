@@ -533,6 +533,23 @@
 
 ))
 
+(setq cheat-list '(
+
+("[linux command line reference](http://www.pixelbeat.org/cmdline.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
+(setq misc-list '(
+
+("[The Tao-of-programming](http://canonical.org/~kragen/tao-of-programming.html )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[My history of (mostly failed) side projects and startups By Gabriel Weinberg](https://ye.gg/blog/2010/10/a-history-of-failed-projects.htmlg )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[The MIT Guide to Hacking (mit.edu)](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[In Praise of APL: A Language for Lyrical Programming Professor Alan J. Perlis](http://www.jsoftware.com/papers/perlis77.htm )" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+
+))
+
 ;; (setq soft-skills-list '(
 
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
@@ -622,3 +639,5 @@
 (gen-table bio-insp-list cols "Biological-inspired systems")
 (gen-table papers-list cols "Papers")
 (gen-table projects-list cols "Projects")
+(gen-table misc-list cols "Miscellaneous")
+(gen-table cheat-list cols "Cheatsheets")
