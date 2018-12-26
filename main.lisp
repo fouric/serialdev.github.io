@@ -117,6 +117,7 @@
 ("[Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Theory in Practice (O'Reilly)) 1st Edition](https://www.amazon.com/dp/0596515170/?coliid=I3E0HJXQXCUY9X&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Federico Biancuzzi" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[97 Things Every Programmer Should Know: Collective Wisdom from the Experts 1st Edition](https://www.amazon.com/dp/0596809484/?coliid=I2BJRVFMZBVZYW&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Kevlin Henney " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ("[Founders at Work: Stories of Startups' Early Days Kindle Edition](https://www.amazon.com/dp/B009IXMK4O/?coliid=I3EM6MCGOL31SN&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Jessica Livingston " "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
+("[perlisms](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)" "Alan Perlis" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ;; ("" "miscellaneous" "--" "b✔" "bl✖" "th✔" "im✖" "f✔" "ee✔")
 ))
 
