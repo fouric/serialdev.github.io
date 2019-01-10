@@ -186,14 +186,13 @@
 ("[Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning 1st Edition](https://www.amazon.com/dp/1491978236/?coliid=IHYUFTDK9CJGH&colid=2R5QE46GC1OLG&psc=0 )" "Delip Rao " "Python" "✔" "✖" "✖" "✔" "✔" "✖" "✔" "--")
 ("[Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists 1st Edition  ](https://www.amazon.com/dp/1491953241/?coliid=I2RBVS7E2VOKU8&colid=2R5QE46GC1OLG&psc=0 )" "Alice Zheng" "Python" "✔" "✖" "✖" "✖" "✔" "✖" "✖" "--")
 ("[Matrix and Tensor Factorization Techniques for Recommender Systems (SpringerBriefs in Computer Science)](https://www.amazon.co.uk/dp/3319413562/?coliid=I4FA7O65ZST26&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "Panagiotis Symeonidis, Andreas Zioupos" "Mathematical Notation" "✔" "✖" "✖" "✔" "✖" "✖" "✖"  "--")
+("[Introduction to Artificial Intelligence: Third Edition  – 14 Aug 2019](https://www.amazon.co.uk/Introduction-Artificial-Intelligence-Philip-Jackson/dp/0486832864/ref=dp_ob_title_bk )" "Philip C Jackson" "Mathematical Notation/Pseudocode" "✔" "✖" "✔" "✔" "✖" "✖"  "✖" "--")
+("[Deep Learning for Natural Language Processing Creating Neural Networks with Python ](https://www.apress.com/gp/book/9781484236840 )" " Palash Goyal" "Python" "✔" "✖" "✖" "✔" "✔" "✖" "✖"  "--")
 
-("[Theoretic Foundation of Predictive Data Analytics](https://www.amazon.co.uk/dp/0128036559/?coliid=I3QKM54M3EMKJE&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
-("[Introduction to Artificial Intelligence: Third Edition Paperback – 14 Aug 2019](https://www.amazon.co.uk/Introduction-Artificial-Intelligence-Philip-Jackson/dp/0486832864/ref=dp_ob_title_bk )" "Philip C Jackson" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
-("[Deep Learning for Natural Language Processing Creating Neural Networks with Python by Goyal, Palash](https://www.apress.com/gp/book/9781484236840 )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
-("[Deep Belief Nets in C++ and CUDA C: Volume 3 Convolutional Nets](https://www.apress.com/gp/book/9781484237205 )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
-("[Matrix Computations (Johns Hopkins Studies in the Mathematical Sciences) fourth edition Edition](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=dp_ob_title_bk )" "Gene H. Golub  (Author), Charles F. Van Loan  (Author)" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
-("[Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach 5th edition book cover, Vector Calculus](http://matrixeditions.com/5thUnifiedApproach.html )" " John H. Hubbard and Barbara Burke Hubbard" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
-;; ("" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
+("[Deep Belief Nets in C++ and CUDA C: Volume 3 Convolutional Nets](https://www.apress.com/gp/book/9781484237205 )" "Timothy Masters" "C" "✔" "✖" "✖" "✔" "✔" "✖" "✖"  "--")
+("[Matrix Computations (Johns Hopkins Studies in the Mathematical Sciences) fourth edition Edition](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=dp_ob_title_bk )" "Gene H. Golub  (Author), Charles F. Van Loan  (Author)" "Mathematical Notation/Pseudocode" "✔" "✖" "✖" "✔" "✖" "✖" "✖" "--")
+("[Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach 5th edition book cover, Vector Calculus](http://matrixeditions.com/5thUnifiedApproach.html )" " John H. Hubbard and Barbara Burke Hubbard" "Mathematical Notation" "✔" "✖" "✖" "✔" "✖" "✖" "✖"  "--")
+;; ("" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔"  "--")
 
 ))
 
