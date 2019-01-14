@@ -246,7 +246,8 @@
 ("[Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3d Technology) Hardcover – 22 Dec 2004](https://www.amazon.co.uk/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323/ref=pd_sbs_14_12?_encoding=UTF8&pd_rd_i=1558607323&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 )" "Christer Ericson " "C++" "✔" "✖" "✖" "✔" "✔" "✖" "✖" "--")
 ("[Beginning Math and Physics for Game Programmers (New Riders Games) Paperback – 22 Mar 2004](https://www.amazon.co.uk/Beginning-Physics-Programmers-Riders-Games/dp/0735713901/ref=pd_sbs_14_21?_encoding=UTF8&pd_rd_i=0735713901&pd_rd_r=729a1070-f617-11e8-b8f2-97092196d631&pd_rd_w=SBoJ7&pd_rd_wg=aA0e2&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=KV208CMAHSJF4H6W49M1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KV208CMAHSJF4H6W49M1 )" "Wendy Stahler" "C++" "✔" "✖" "✖" "✔" "✔" "✖" "✖" "--")
 ("[Ramblings in Realtime](https://www.bluesnews.com/abrash/contents.shtml )" "Michael Abrash" "ASM/C" "✔" "✖" "✖" "✔" "✔" "✖" "✖" "--")
-;; ("" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "✖✔" "--")
+("[A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)" "Pomax" "Mathematical Notation/Pseudocode" "✔" "✔" "✖" "✔" "✔" "✔" "✔" "--")
+;; ("" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
 
 ))
 
