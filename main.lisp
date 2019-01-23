@@ -414,17 +414,18 @@
 
 (setq viz-list '(
 
-("[Geometric Data Structures for Computer Graphics Hardcover – 16 Jan 2006](https://www.amazon.co.uk/dp/1568812353/?coliid=I1JKJ7S8GFZQ98&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Elmar Langetepe " "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[High Performance Visualization: Enabling Extreme-Scale Scientific Insight (Chapman & Hall/CRC Computational Science)](https://www.amazon.co.uk/dp/1138199613/?coliid=I1N5Z75YF3BOSB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[The Grammar of Graphics (Statistics and Computing) 2nd Edition](https://www.amazon.com/dp/0387245448/?coliid=I2DUQEQT8XL3RO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Leland Wilkinson" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[Processing: An Introduction to Programming Paperback – 22 Sep 2016](https://www.amazon.co.uk/dp/1482255952/?coliid=I1OSITN7F7ZA5G&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Jeffrey L. Nyhoff " "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[Topological Methods in Data Analysis and Visualization IV Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017](https://www.amazon.co.uk/dp/3319446827/?coliid=I21RY9I93I2WC9&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Hamish Carr " "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[A Mathematical Picture Book Hardcover – 23 Dec 2018](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Georg Glaeser " "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Gottfried Haider " "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
+("[Geometric Data Structures for Computer Graphics Hardcover – 16 Jan 2006](https://www.amazon.co.uk/dp/1568812353/?coliid=I1JKJ7S8GFZQ98&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Elmar Langetepe,  Gabriel Zachmann" "C" "✔" "✖" "✖" "✔" "✔" "✖" "✖" "--")
+("[High Performance Visualization: Enabling Extreme-Scale Scientific Insight (Chapman & Hall/CRC Computational Science)](https://www.amazon.co.uk/dp/1138199613/?coliid=I1N5Z75YF3BOSB&colid=1YR893IZ003PC&psc=0&ref_=lv_ov_lig_dp_it )" "E. Wes Bethel, Hank Childs, Charles Hansen" "--" "✔" "✖" "✔" "✔" "✖" "✖" "✖" "--")
+("[The Grammar of Graphics (Statistics and Computing) 2nd Edition](https://www.amazon.com/dp/0387245448/?coliid=I2DUQEQT8XL3RO&colid=2R5QE46GC1OLG&psc=0&ref_=lv_ov_lig_dp_it )" "Leland Wilkinson" "Mathematical Notation" "✔" "✖" "✔" "✔" "✖" "✖" "✖" "--")
+("[Processing: An Introduction to Programming Paperback – 22 Sep 2016](https://www.amazon.co.uk/dp/1482255952/?coliid=I1OSITN7F7ZA5G&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Jeffrey L. Nyhoff " "Processing" "✔" "✖" "✖" "✔" "✔" "✖" "✖" "--")
+
+("[Topological Methods in Data Analysis and Visualization IV Theory, Algorithms, and Applications: 4 (Mathematics and Visualization) Hardcover – 3 Jun 2017](https://www.amazon.co.uk/dp/3319446827/?coliid=I21RY9I93I2WC9&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Hamish Carr " "Mathematical Notation" "✔" "✖" "✔" "✔" "✖" "✖" "✖" "--")
+("[A Mathematical Picture Book Hardcover – 23 Dec 2018](https://www.amazon.co.uk/dp/3642146473/?coliid=I2NFQF1TZ6MEYA&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Georg Glaeser " "Mathematical Notation" "✔" "✖" "✖" "✔" "✖" "✖" "✖" "--")
+("[Prototyping with Raspberry Pi & Processing: Building Interactive Systems with Code and Hardware Paperback – 31 Oct 2017](https://www.amazon.co.uk/dp/1491979968/?coliid=I1JKLRSFQUIS0Y&colid=SUODQKHMPSPE&psc=0&ref_=lv_ov_lig_dp_it )" "Gottfried Haider " "Processing" "✔" "✖" "✖" "✔" "✔" "✖" "✔" "--")
 
 ("--" "--" "--" "--" "--" "--" "--" "--" "--" "✖✔" "--")
-("[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
-("[Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
+("[Anatomy of a landing page](https://www.formstack.com/the-anatomy-of-a-perfect-landing-page )" "--" "--" "✖" "✔" "✖" "✖" "✖" "✔" "✖" "--")
+("[Pure CSS GUI icons](http://nicolasgallagher.com/pure-css-gui-icons/ )" "Nicolas Gallagher" "CSS" "✖" "✔" "✖" "✖" "✔" "✔" "✖" "--")
 ("[bittorrent visualized - p2p protocol viz](http://mg8.org/processing/bt.html )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
 ("[Tenacious C - C graphical IDE](http://tenaciousc.com/ )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
 ("[Neat Algorithms - Flocking](http://web.archive.org/web/20120420215903/http://harry.me/2011/02/17/neat-algorithms---flocking )" "miscellaneous" "--" "b✖✔" "bl✖✖✔" "th✖✔" "im✖✖✔" "f✖✔" "ee✖✔" "✖✔" "--")
